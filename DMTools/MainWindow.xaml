@@ -1,12 +1,15 @@
-﻿<Window x:Class="WpfApplication1.MainWindow"
+﻿<Window x:Class="DMTools.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WpfApplication1"
+        xmlns:local="clr-namespace:DMTools"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Dungeon Master Tools for DnD 5e" Height="350" Width="525">
     <Grid>
-        
+        <Button x:Name="CreateNpc" Content="Create NPC" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top" Width="75" Click="CreateNpc_Click"/>
+        <Button x:Name="CreateCity" Content="Create City" HorizontalAlignment="Left" Margin="120,46,0,0" VerticalAlignment="Top" Width="75"/>
+        <DataGrid x:Name="DataGrid" Margin="0,176,0,0"/>
+
     </Grid>
 </Window>
