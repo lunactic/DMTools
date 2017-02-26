@@ -1,0 +1,67 @@
+{
+  "firstnames": [
+
+  ],
+  "lastnames": [
+
+  ],
+  "ages": [
+
+  ],
+  "appearances": [
+
+  ],
+  "personalities": [
+
+  ],
+  "races": [
+    {
+      "name": "Dragonborn",
+      "probability": 0.05
+    },
+    {
+      "name": "Hill Dwarf",
+      "probability": 0.05
+    },
+    {
+      "name": "High Elf",
+      "probability": 0.1
+    },
+    {
+      "name": "Wood Elf",
+      "probability": 0.05
+    },
+    {
+      "name": "Forest Gnome",
+      "probability": 0.1
+    },
+    {
+      "name": "Rock Gnome",
+      "probability": 0.05
+    },
+    {
+      "name": "Drow",
+      "probability": 0.05
+    },
+    {
+      "name": "Half-Elf",
+      "probability": 0.1
+    },
+    {
+      "name": "Half-Orc",
+      "probability": 0.1
+    },
+    {
+      "name": "Halfling",
+      "probability": 0.1
+    },
+    {
+      "name": "Human",
+      "probability": 0.25
+    },
+    {
+      "name": "Tiefling",
+      "probability": 0.1
+    }
+  ]
+}

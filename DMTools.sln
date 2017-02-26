@@ -5,10 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMTools", "DMTools\DMTools.csproj", "{DFB5ED97-9F37-4085-A2D1-9A99E52F191A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FB55D2D7-AB27-4460-A1F4-416D8736690A}"
-	ProjectSection(SolutionItems) = preProject
-		npc.json = npc.json
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseExcel", "ParseExcel\ParseExcel.csproj", "{9573E67E-3EF4-47FB-9C2A-45B88128EF4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +17,10 @@ Global
 		{DFB5ED97-9F37-4085-A2D1-9A99E52F191A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFB5ED97-9F37-4085-A2D1-9A99E52F191A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFB5ED97-9F37-4085-A2D1-9A99E52F191A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9573E67E-3EF4-47FB-9C2A-45B88128EF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9573E67E-3EF4-47FB-9C2A-45B88128EF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9573E67E-3EF4-47FB-9C2A-45B88128EF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9573E67E-3EF4-47FB-9C2A-45B88128EF4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

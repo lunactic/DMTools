@@ -1,0 +1,1135 @@
+{
+  "firstnames": [
+    {
+      "name": "Mable",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Erik",
+      "race": "Human"
+    },
+    {
+      "name": "Samuel",
+      "race": "Elf"
+    },
+    {
+      "name": "Rolen",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Francis",
+      "race": "Gnome"
+    },
+    {
+      "name": "Jen",
+      "race": "Halfling"
+    },
+    {
+      "name": "Thari",
+      "race": "Dragonborn"
+    },
+    {
+      "name": "Sanzagh",
+      "race": "Tiefling"
+    },
+    {
+      "name": "Ukhlad",
+      "race": "Drow"
+    },
+    {
+      "name": "Gwali",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Zaghak",
+      "race": "Human"
+    },
+    {
+      "name": "Duri",
+      "race": "Elf"
+    },
+    {
+      "name": "Urin",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Bori",
+      "race": "Gnome"
+    },
+    {
+      "name": "Bifar",
+      "race": "Halfling"
+    },
+    {
+      "name": "Akal",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Thali",
+      "race": "Human"
+    },
+    {
+      "name": "Throri",
+      "race": "Elf"
+    },
+    {
+      "name": "Dinain",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Bari",
+      "race": "Gnome"
+    },
+    {
+      "name": "Kunain",
+      "race": "Halfling"
+    },
+    {
+      "name": "Arvin",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Frinan",
+      "race": "Human"
+    },
+    {
+      "name": "Frasanz",
+      "race": "Elf"
+    },
+    {
+      "name": "Gimli",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Shakar",
+      "race": "Gnome"
+    },
+    {
+      "name": "Thori",
+      "race": "Halfling"
+    },
+    {
+      "name": "Bali",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Frukar",
+      "race": "Human"
+    },
+    {
+      "name": "Nainarv",
+      "race": "Elf"
+    },
+    {
+      "name": "Dinarv",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Undim",
+      "race": "Gnome"
+    },
+    {
+      "name": "Gluri",
+      "race": "Halfling"
+    },
+    {
+      "name": "Dainan",
+      "race": "Dragonborn"
+    },
+    {
+      "name": "Kada",
+      "race": "Tiefling"
+    },
+    {
+      "name": "Bifar",
+      "race": "Drow"
+    },
+    {
+      "name": "Beornmund",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Deda",
+      "race": "Human"
+    },
+    {
+      "name": "Giles",
+      "race": "Elf"
+    },
+    {
+      "name": "Godmenr",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Bertio",
+      "race": "Gnome"
+    },
+    {
+      "name": "Wisym",
+      "race": "Halfling"
+    },
+    {
+      "name": "Ethes",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Helmund",
+      "race": "Human"
+    },
+    {
+      "name": "Amel",
+      "race": "Elf"
+    },
+    {
+      "name": "Ceolwy",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Here",
+      "race": "Gnome"
+    },
+    {
+      "name": "Ered",
+      "race": "Halfling"
+    },
+    {
+      "name": "Erehrt",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Enryn",
+      "race": "Human"
+    },
+    {
+      "name": "Alfwod",
+      "race": "Elf"
+    },
+    {
+      "name": "Gauward",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Wulfa",
+      "race": "Gnome"
+    },
+    {
+      "name": "Ethehrt",
+      "race": "Halfling"
+    },
+    {
+      "name": "Arled",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Genwy",
+      "race": "Human"
+    },
+    {
+      "name": "Ealdred",
+      "race": "Elf"
+    },
+    {
+      "name": "Ealuuald",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Wilhye",
+      "race": "Gnome"
+    },
+    {
+      "name": "Oerwurg",
+      "race": "Halfling"
+    },
+    {
+      "name": "Rewalt",
+      "race": "Dragonborn"
+    },
+    {
+      "name": "Wynhunb",
+      "race": "Tiefling"
+    },
+    {
+      "name": "Andres",
+      "race": "Drow"
+    },
+    {
+      "name": "Drewy",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Drobert",
+      "race": "Human"
+    },
+    {
+      "name": "Swulfa",
+      "race": "Elf"
+    },
+    {
+      "name": "Elyn",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Hiltroua",
+      "race": "Gnome"
+    },
+    {
+      "name": "Philia Gare",
+      "race": "Halfling"
+    },
+    {
+      "name": "Brictiue",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Ennet None",
+      "race": "Human"
+    },
+    {
+      "name": "Ryelly",
+      "race": "Elf"
+    },
+    {
+      "name": "Aben",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Marget",
+      "race": "Gnome"
+    },
+    {
+      "name": "Cily",
+      "race": "Halfling"
+    },
+    {
+      "name": "Eolwynn",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Burguia",
+      "race": "Human"
+    },
+    {
+      "name": "Kathil Arard",
+      "race": "Elf"
+    },
+    {
+      "name": "Conga",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Gytha",
+      "race": "Gnome"
+    },
+    {
+      "name": "Cecie",
+      "race": "Halfling"
+    },
+    {
+      "name": "Hilda",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Hena",
+      "race": "Human"
+    },
+    {
+      "name": "Ehith",
+      "race": "Elf"
+    },
+    {
+      "name": "Wynna",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Burhe",
+      "race": "Gnome"
+    },
+    {
+      "name": "Kater",
+      "race": "Halfling"
+    },
+    {
+      "name": "Benne",
+      "race": "Dragonborn"
+    },
+    {
+      "name": "Eryn",
+      "race": "Tiefling"
+    },
+    {
+      "name": "Hely",
+      "race": "Drow"
+    },
+    {
+      "name": "Cecie",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Githa",
+      "race": "Human"
+    },
+    {
+      "name": "Ethell",
+      "race": "Elf"
+    },
+    {
+      "name": "Odwyth",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Cece",
+      "race": "Gnome"
+    },
+    {
+      "name": "Ellel",
+      "race": "Halfling"
+    },
+    {
+      "name": "Telchal",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Zigam",
+      "race": "Human"
+    },
+    {
+      "name": "Bali",
+      "race": "Elf"
+    },
+    {
+      "name": "Kadu",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Thali",
+      "race": "Gnome"
+    },
+    {
+      "name": "Alim",
+      "race": "Halfling"
+    },
+    {
+      "name": "Zigiml",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Gimli",
+      "race": "Human"
+    },
+    {
+      "name": "Kada",
+      "race": "Elf"
+    },
+    {
+      "name": "Glinarv",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Enelron",
+      "race": "Gnome"
+    },
+    {
+      "name": "Irdathin",
+      "race": "Halfling"
+    },
+    {
+      "name": "Tanerdhir",
+      "race": "any"
+    },
+    {
+      "name": "Magladuil",
+      "race": "any"
+    },
+    {
+      "name": "Elegor",
+      "race": "any"
+    },
+    {
+      "name": "Celegorm",
+      "race": "any"
+    },
+    {
+      "name": "Celegon",
+      "race": "any"
+    },
+    {
+      "name": "Maeglemmin",
+      "race": "any"
+    },
+    {
+      "name": "Saerodor",
+      "race": "any"
+    },
+    {
+      "name": "Emmin",
+      "race": "any"
+    },
+    {
+      "name": "Arfil",
+      "race": "any"
+    },
+    {
+      "name": "Cirdire",
+      "race": "any"
+    },
+    {
+      "name": "Finore",
+      "race": "any"
+    },
+    {
+      "name": "Galadir",
+      "race": "any"
+    },
+    {
+      "name": "Elelror",
+      "race": "any"
+    },
+    {
+      "name": "Elenel",
+      "race": "any"
+    },
+    {
+      "name": "Danore",
+      "race": "any"
+    },
+    {
+      "name": "Saerophil",
+      "race": "any"
+    },
+    {
+      "name": "Makili",
+      "race": "any"
+    },
+    {
+      "name": "Thonaeli",
+      "race": "any"
+    },
+    {
+      "name": "Finduilye",
+      "race": "any"
+    },
+    {
+      "name": "Ariel",
+      "race": "any"
+    },
+    {
+      "name": "Atielel",
+      "race": "any"
+    },
+    {
+      "name": "Nimrilye",
+      "race": "any"
+    },
+    {
+      "name": "Gilminye",
+      "race": "any"
+    },
+    {
+      "name": "Nimredhel",
+      "race": "any"
+    },
+    {
+      "name": "Celenwe",
+      "race": "any"
+    },
+    {
+      "name": "Aloth",
+      "race": "any"
+    },
+    {
+      "name": "Ilmiris",
+      "race": "any"
+    },
+    {
+      "name": "Ilmiriel",
+      "race": "any"
+    },
+    {
+      "name": "Lotatie",
+      "race": "any"
+    },
+    {
+      "name": "Nimrilye",
+      "race": "any"
+    },
+    {
+      "name": "Anindis",
+      "race": "any"
+    },
+    {
+      "name": "Elellas",
+      "race": "any"
+    },
+    {
+      "name": "Erwen",
+      "race": "any"
+    },
+    {
+      "name": "Nimrime",
+      "race": "any"
+    },
+    {
+      "name": "Ilmis",
+      "race": "any"
+    },
+    {
+      "name": "Ithren",
+      "race": "any"
+    },
+    {
+      "name": "Eldas",
+      "race": "any"
+    },
+    {
+      "name": "Eleris",
+      "race": "any"
+    },
+    {
+      "name": "Benwin",
+      "race": "Human"
+    }
+  ],
+  "lastnames": [
+    {
+      "name": "Hilltop",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Deepwater",
+      "race": "Human"
+    },
+    {
+      "name": "Stillwind",
+      "race": "Elf"
+    },
+    {
+      "name": "The Cleaver",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Val'haren",
+      "race": "Gnome"
+    },
+    {
+      "name": "Grimtotem",
+      "race": "Halfling"
+    },
+    {
+      "name": "Dewbeam",
+      "race": "Dragonborn"
+    },
+    {
+      "name": "Axegrip",
+      "race": "Tiefling"
+    },
+    {
+      "name": "Redgem",
+      "race": "Drow"
+    },
+    {
+      "name": "Elfbane",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Mourningstrength",
+      "race": "Human"
+    },
+    {
+      "name": "Runeshield",
+      "race": "Elf"
+    },
+    {
+      "name": "Marblefall",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Dragonfallow",
+      "race": "Gnome"
+    },
+    {
+      "name": "Wyvernpunch",
+      "race": "Halfling"
+    },
+    {
+      "name": "Winterarm",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Slatekeep",
+      "race": "Human"
+    },
+    {
+      "name": "Mistglade",
+      "race": "Elf"
+    },
+    {
+      "name": "Meadowslayer",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Alpenward",
+      "race": "Gnome"
+    },
+    {
+      "name": "Crestscar",
+      "race": "Halfling"
+    },
+    {
+      "name": "Richseeker",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Morningsinger",
+      "race": "Human"
+    },
+    {
+      "name": "Fernshaper",
+      "race": "Elf"
+    },
+    {
+      "name": "Riverclaw",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Proudpike",
+      "race": "Gnome"
+    },
+    {
+      "name": "Glorysoar",
+      "race": "Halfling"
+    },
+    {
+      "name": "Embertalon",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Moltenoak",
+      "race": "Human"
+    },
+    {
+      "name": "Hardshot",
+      "race": "Elf"
+    },
+    {
+      "name": "Skullscar",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Richheart",
+      "race": "Gnome"
+    },
+    {
+      "name": "Dustshot",
+      "race": "Halfling"
+    },
+    {
+      "name": "Proudfeather",
+      "race": "Dragonborn"
+    },
+    {
+      "name": "Clawhell",
+      "race": "Tiefling"
+    },
+    {
+      "name": "Marshcaller",
+      "race": "Drow"
+    },
+    {
+      "name": "Tallbane",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Flatgrip",
+      "race": "Human"
+    },
+    {
+      "name": "Stilloak",
+      "race": "Elf"
+    },
+    {
+      "name": "Flintwhirl",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Shadowspell",
+      "race": "Gnome"
+    },
+    {
+      "name": "Seawhirl",
+      "race": "Halfling"
+    },
+    {
+      "name": "Snakesoar",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Tallcrag",
+      "race": "Human"
+    },
+    {
+      "name": "Grandtoe",
+      "race": "Elf"
+    },
+    {
+      "name": "Titansword",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Seatail",
+      "race": "Gnome"
+    },
+    {
+      "name": "Mistrock",
+      "race": "Halfling"
+    },
+    {
+      "name": "Wheatchewer",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Twilightwood",
+      "race": "Human"
+    },
+    {
+      "name": "Spiderwhisk",
+      "race": "Elf"
+    },
+    {
+      "name": "Fisthell",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Clearreaver",
+      "race": "Gnome"
+    },
+    {
+      "name": "Bouldersun",
+      "race": "Halfling"
+    },
+    {
+      "name": "Forehand",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Barleyglory",
+      "race": "Human"
+    },
+    {
+      "name": "Nobleflower",
+      "race": "Elf"
+    },
+    {
+      "name": "Clanguard",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Lunasnarl",
+      "race": "Gnome"
+    },
+    {
+      "name": "Serpentblossom",
+      "race": "Halfling"
+    },
+    {
+      "name": "Grizzlycut",
+      "race": "Dragonborn"
+    },
+    {
+      "name": "Hawkcloud",
+      "race": "Tiefling"
+    },
+    {
+      "name": "Mildarm",
+      "race": "Drow"
+    },
+    {
+      "name": "Steeltalon",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Slatestriker",
+      "race": "Human"
+    },
+    {
+      "name": "Sunrunner",
+      "race": "Elf"
+    },
+    {
+      "name": "Craghunter",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Summercut",
+      "race": "Gnome"
+    },
+    {
+      "name": "Dustshout",
+      "race": "Halfling"
+    },
+    {
+      "name": "Titanmoon",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Mountainwound",
+      "race": "Human"
+    },
+    {
+      "name": "Twosky",
+      "race": "Elf"
+    },
+    {
+      "name": "Threeflare",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Rumblestride",
+      "race": "Gnome"
+    },
+    {
+      "name": "Shadowbranch",
+      "race": "Halfling"
+    },
+    {
+      "name": "Stoneflaw",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Stagbrace",
+      "race": "Human"
+    },
+    {
+      "name": "Grandstrider",
+      "race": "Elf"
+    },
+    {
+      "name": "Mossglade",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Snowspear",
+      "race": "Gnome"
+    },
+    {
+      "name": "Winterbrace",
+      "race": "Halfling"
+    },
+    {
+      "name": "Hardsword",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Strongwound",
+      "race": "Human"
+    },
+    {
+      "name": "Dirgereaper",
+      "race": "Elf"
+    },
+    {
+      "name": "Twilightmantle",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Pyreblade",
+      "race": "Gnome"
+    },
+    {
+      "name": "Dragonrunner",
+      "race": "Halfling"
+    },
+    {
+      "name": "Simpletrap",
+      "race": "Dragonborn"
+    },
+    {
+      "name": "Mountainpelt",
+      "race": "Tiefling"
+    },
+    {
+      "name": "Dewbender",
+      "race": "Drow"
+    },
+    {
+      "name": "Pridehammer",
+      "race": "Half-Orc"
+    },
+    {
+      "name": "Simpleflare",
+      "race": "Human"
+    },
+    {
+      "name": "Windsplitter",
+      "race": "Elf"
+    },
+    {
+      "name": "Lonespark",
+      "race": "Half-Elf"
+    },
+    {
+      "name": "Mirthshard",
+      "race": "Gnome"
+    },
+    {
+      "name": "Eaglemore",
+      "race": "Halfling"
+    },
+    {
+      "name": "Golden",
+      "race": "Human"
+    }
+  ],
+  "ages": [
+    {
+      "name": "Child",
+      "probability": 0.05
+    },
+    {
+      "name": "Young",
+      "probability": 0.2
+    },
+    {
+      "name": "Middle Aged",
+      "probability": 0.35
+    },
+    {
+      "name": "Old",
+      "probability": 0.25
+    },
+    {
+      "name": "Very Old",
+      "probability": 0.1
+    },
+    {
+      "name": "Ancient",
+      "probability": 0.05
+    }
+  ],
+  "appearances": [
+    "Tall",
+    "Towering Tall",
+    "Grey hair, scar on lip",
+    "Portly",
+    "Short",
+    "Beautiful",
+    "Braided Beard Or Hair",
+    "Missing Teeth",
+    "Tattoos",
+    "Birthmark",
+    "Unusual Skin Color",
+    "Piercings",
+    "Unusual Hair Color",
+    "Ragged Clothes",
+    "Distinctive Nose",
+    "Eye Twitch",
+    "Jewelry (choker)",
+    "Missing Fingers",
+    "Ugly",
+    "Formal Clothes",
+    "Scar",
+    "Weird Posture",
+    "Weird Eye Color",
+    "Ashen Hair",
+    "Long dark hair",
+    "Pale skin, red hair",
+    "Long braids",
+    "Very muscular",
+    "Thin",
+    " Attractive",
+    "Gold eye color, long beard "
+  ],
+  "personalities": [
+    "Cautious",
+    "Grumpy",
+    "Jovial",
+    "Friendly",
+    "Tired",
+    "Annoyed",
+    "Ponderous",
+    "Honest",
+    "Arrogant",
+    "Argumentative",
+    "Curious",
+    "Quiet",
+    "Blustering",
+    "Rude",
+    "Kind",
+    "Wise",
+    "Intelligent",
+    "Shrewd",
+    "gloomy",
+    "Helpful",
+    "Delightful",
+    "Terrible Negotiator",
+    "Sucker for a Pretty Face",
+    "Bite His Fingernails",
+    "Speak in Rhyme",
+    "High Voice",
+    "Hums",
+    "Boistrous",
+    "Chews on Things",
+    "Squint",
+    "Uses Wrong Words",
+    "Tap Fingers",
+    "Use Long Words",
+    "Fidget",
+    "Wants to be liked",
+    "learning to read",
+    "CAN'T speak to women",
+    "Crazy",
+    "Speaks in 3rd Person",
+    "Optimistic",
+    "Always Jokes",
+    "Reckless"
+  ],
+  "races": [
+    {
+      "name": "Dragonborn",
+      "probability": 0.05
+    },
+    {
+      "name": "Hill Dwarf",
+      "probability": 0.05
+    },
+    {
+      "name": "High Elf",
+      "probability": 0.1
+    },
+    {
+      "name": "Wood Elf",
+      "probability": 0.05
+    },
+    {
+      "name": "Forest Gnome",
+      "probability": 0.1
+    },
+    {
+      "name": "Rock Gnome",
+      "probability": 0.05
+    },
+    {
+      "name": "Drow",
+      "probability": 0.05
+    },
+    {
+      "name": "Half-Elf",
+      "probability": 0.1
+    },
+    {
+      "name": "Half-Orc",
+      "probability": 0.1
+    },
+    {
+      "name": "Halfling",
+      "probability": 0.1
+    },
+    {
+      "name": "Human",
+      "probability": 0.25
+    },
+    {
+      "name": "Tiefling",
+      "probability": 0.1
+    }
+  ]
+}
