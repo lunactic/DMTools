@@ -1,0 +1,111 @@
+﻿{
+  "alchemy_prefix": [
+    "Bubbling",
+    "Potions and",
+    "Alchemical",
+    "Brewing up Some",
+    "Wondrous",
+    "The Naga's",
+    "The Unicorn's",
+    "The Griffon's"
+  ],
+  "alchemy_postfix": [
+    "Potions",
+    "Beakers",
+    "Vials",
+    "Concoctions",
+    "Apothecary",
+    "Alchemy",
+    "Philtres"
+  ],
+  "jewellery_prefix": [
+    "The Shiny",
+    "Magnificently Sparkling",
+    "Wondrously Amazing",
+    "Blindingly Bright",
+    "The Unicorn's",
+    "Marvelous"
+  ],
+  "jewellery_postfix": [
+    "Bling",
+    "Jewels",
+    "Gems, Jewels, and Jade",
+    "Rings",
+    "Baubles",
+    "Gems",
+    "Chains",
+    "Amulets",
+    "Chokers"
+  ],
+  "inn_prefix": [
+    "The Sleeping",
+    "The Sunken",
+    "A Wink and a",
+    "The Cozy",
+    "The Wandering",
+    "The Wicked",
+    "The Half-Full",
+    "The Hond and",
+    "The Silver",
+    "The Golden",
+    "The Scarlett",
+    "The Crossed",
+    "The Pirate's",
+    "The Angry"
+  ],
+  "inn_postfix": [
+    "Giant",
+    "Kiss",
+    "Dragon",
+    "Alehouse",
+    "Fox",
+    "Flagon",
+    "Cask",
+    "Mug",
+    "Arrows",
+    "Cup",
+    "Jester"
+  ],
+  "blacksmith_prefix": [
+    "The Hammer and the",
+    "Hot Pokers and",
+    "The Sweat of the",
+    "High Pressure",
+    "The Exalted",
+    "The Minotaur's"
+  ],
+  "blacksmith_postfix": [
+    "Swords",
+    "Steelworks",
+    "Breastplates",
+    "Anvils",
+    "Leather and Chain",
+    "Arsenal",
+    "Furnace",
+    "Arms"
+  ],
+  "enchanter_prefix": [
+    "A touch of",
+    "Magic Makes",
+    "The Enchanter's",
+    "The Insanity of"
+  ],
+  "enchanter_postfix": [
+    "Wonder",
+    "Magnificence",
+    "Arcanity",
+    "Wizardry"
+  ],
+  "magic_prefix": [
+    "Wizards and Wonderous",
+    "Marvelous Magical",
+    "An Arcanist's",
+    "Wizards Do It With"
+  ],
+  "magic_postfix": [
+    "Wands",
+    "Staves",
+    "Rods",
+    "Tomes"
+  ]
+}
