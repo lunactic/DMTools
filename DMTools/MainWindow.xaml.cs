@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Windows;
+using System.Windows.Controls;
 using DMTools.controllers;
 using DMTools.models;
 
@@ -19,15 +20,19 @@ namespace DMTools
 
         private void CreateNpc_Click(object sender, RoutedEventArgs e)
         {
+        }
+
+        private void CreateNpcButton_Click(object sender, RoutedEventArgs e)
+        {
             NPC npc = NpcController.CreateNpc();
             npcs.Add(npc);
-            if (DataGrid.ItemsSource == null)
+            if (NpcGrid.ItemsSource == null)
             {
-                DataGrid.ItemsSource = npcs;
+                NpcGrid.ItemsSource = npcs;
             }
             else
             {
-                DataGrid.Items.Refresh();
+                NpcGrid.Items.Refresh();
             }
         }
     }

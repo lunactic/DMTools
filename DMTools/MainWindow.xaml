@@ -7,9 +7,17 @@
         mc:Ignorable="d"
         Title="Dungeon Master Tools for DnD 5e" Height="350" Width="525">
     <Grid>
-        <Button x:Name="CreateNpc" Content="Create NPC" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top" Width="75" Click="CreateNpc_Click"/>
-        <Button x:Name="CreateCity" Content="Create City" HorizontalAlignment="Left" Margin="120,46,0,0" VerticalAlignment="Top" Width="75"/>
-        <DataGrid x:Name="DataGrid" Margin="0,176,0,0"/>
+        <TabControl x:Name="tabControl">
+            <TabItem Header="NPCs">
+                <Grid Background="#FFE5E5E5">
+                    <Button x:Name="CreateNpcButton" Content="Create NPC" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="CreateNpcButton_Click"/>
+                    <DataGrid x:Name="NpcGrid" Margin="10,107,10,10" RenderTransformOrigin="-5.819,-1.879"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Cities">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
 
     </Grid>
 </Window>
