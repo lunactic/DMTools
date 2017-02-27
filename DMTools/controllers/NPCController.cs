@@ -45,7 +45,8 @@ namespace DMTools.controllers
             initialize();
             NPC npc = new NPC();
             npc.Race = getRandomRace();
-            npc.FirstName = getRandomFirstName(npc.Race);
+            npc.Gender = getRandomGender();
+            npc.FirstName = getRandomFirstName(npc.Race, npc.Gender);
             npc.Lastname = getRandomLastName(npc.Race);
             npc.Appearance1 = getRandomAppearance();
             npc.Appearance2 = getRandomAppearance();
@@ -62,6 +63,12 @@ namespace DMTools.controllers
             npc.Age = getRandomAge();
 
             return npc;
+        }
+
+        private static string getRandomGender()
+        {
+            double rand = random.NextDouble();
+            return rand > 0.5 ? "male" : "female";
         }
 
         private static string getRandomAge()
@@ -106,14 +113,14 @@ namespace DMTools.controllers
             return "";
         }
 
-        private static String getRandomFirstName(string race)
+        private static String getRandomFirstName(string race, string gender)
         {
-            var availableFirstNames = from i in (IEnumerable<dynamic>) firstnames
-                where i.race == race || i.race.Equals("any")
-                select new
-                {
-                    i.name
-                };
+            var availableFirstNames =
+                ((IEnumerable<dynamic>) firstnames).Where(
+                    i =>
+                        (((string)i.race).Equals(race) || ((string)i.race).Equals("any")) &&
+                        ((string)i.gender).Equals(gender) || ((string)i.gender).Equals("any"));
+
             if (availableFirstNames.Count() > 0)
             {
                 int rand = random.Next(availableFirstNames.Count());

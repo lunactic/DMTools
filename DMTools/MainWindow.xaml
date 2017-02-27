@@ -5,18 +5,61 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DMTools"
         mc:Ignorable="d"
-        Title="Dungeon Master Tools for DnD 5e" Height="350" Width="525">
+        Title="Dungeon Master Tools for DnD 5e" Height="601.457" Width="1022.25">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
         <TabControl x:Name="tabControl">
-            <TabItem Header="NPCs">
+            <TabItem Header="Cities" IsSelected="True">
                 <Grid Background="#FFE5E5E5">
-                    <Button x:Name="CreateNpcButton" Content="Create NPC" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="CreateNpcButton_Click"/>
-                    <DataGrid x:Name="NpcGrid" Margin="10,107,10,10" RenderTransformOrigin="-5.819,-1.879"/>
+                    <Button x:Name="CreateShops" Content="CreateShops" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="102" RenderTransformOrigin="-0.236,-0.149" Height="45" Click="createShops_Click"/>
+
+
+                    <Label x:Name="LblAlchemy" Content="Alchemist" Margin="10,60,847,0" VerticalAlignment="Top" RenderTransformOrigin="-0.469,-0.505" FontSize="16" FontWeight="Bold"/>
+                    <Label x:Name="LblAlchOwnerDesc" Content="Owner" HorizontalAlignment="Left" Margin="10,118,0,0" VerticalAlignment="Top" Width="65"/>
+                    <Label x:Name="LblAlchNameDesc" Content="Name:" HorizontalAlignment="Left" Margin="10,91,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.022,0.012"/>
+                    <Label x:Name="LblAlchName" Content="" HorizontalAlignment="Left" Margin="74,91,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.199,-0.142" Width="200"/>
+                    <Label x:Name="LblAlchOwner" Content="" HorizontalAlignment="Left" Margin="74,117,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.199,-0.142" Width="200"/>
+
+                    <Label x:Name="LblInn" Content="Inn" Margin="285,60,572,0" VerticalAlignment="Top" RenderTransformOrigin="-0.469,-0.505" FontSize="16" FontWeight="Bold"/>
+                    <Label x:Name="LblInnDesc" Content="Owner" HorizontalAlignment="Left" Margin="285,117,0,0" VerticalAlignment="Top" Width="65"/>
+                    <Label x:Name="LblInnNameDesc" Content="Name:" HorizontalAlignment="Left" Margin="285,91,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.022,0.012"/>
+                    <Label x:Name="LblInnName" Content="" HorizontalAlignment="Left" Margin="334,91,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.199,-0.142" Width="200"/>
+                    <Label x:Name="LblInnOwner" Content="" HorizontalAlignment="Left" Margin="334,117,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.199,-0.142" Width="200"/>
+
+
+                    <Label x:Name="LblJewellery" Content="Jewellery" Margin="574,60,283,0" VerticalAlignment="Top" RenderTransformOrigin="-0.469,-0.505" FontSize="16" FontWeight="Bold"/>
+                    <Label x:Name="LblJewDesc" Content="Owner" HorizontalAlignment="Left" Margin="574,117,0,0" VerticalAlignment="Top" Width="65"/>
+                    <Label x:Name="LblJewNameDesc" Content="Name:" HorizontalAlignment="Left" Margin="574,91,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.022,0.012"/>
+                    <Label x:Name="LblJewName" Content="" HorizontalAlignment="Left" Margin="623,91,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.199,-0.142" Width="200"/>
+                    <Label x:Name="LblJewOwner" Content="" HorizontalAlignment="Left" Margin="623,117,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.199,-0.142" Width="200"/>
+
+                    <Label x:Name="LblBlacksmith" Content="Blacksmith" Margin="10,214,847,0" VerticalAlignment="Top" RenderTransformOrigin="-0.469,-0.505" FontSize="16" FontWeight="Bold"/>
+                    <Label x:Name="LblBlackOwnerDesc" Content="Owner" HorizontalAlignment="Left" Margin="10,272,0,0" VerticalAlignment="Top" Width="65"/>
+                    <Label x:Name="LblBlackNameDesc" Content="Name:" HorizontalAlignment="Left" Margin="10,245,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.022,0.012"/>
+                    <Label x:Name="LblBlackName" Content="" HorizontalAlignment="Left" Margin="74,245,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.199,-0.142" Width="200"/>
+                    <Label x:Name="LblBlackOwner" Content="" HorizontalAlignment="Left" Margin="74,271,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.199,-0.142" Width="200"/>
+
+                    <Label x:Name="LblEnchanter" Content="Enchanter" Margin="285,214,572,0" VerticalAlignment="Top" RenderTransformOrigin="-0.469,-0.505" FontSize="16" FontWeight="Bold"/>
+                    <Label x:Name="LblEnchOwnerDesc" Content="Owner" HorizontalAlignment="Left" Margin="285,272,0,0" VerticalAlignment="Top" Width="65"/>
+                    <Label x:Name="LblEnchNameDesc" Content="Name:" HorizontalAlignment="Left" Margin="285,245,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.022,0.012"/>
+                    <Label x:Name="LblEnchName" Content="" HorizontalAlignment="Left" Margin="348,245,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.199,-0.142" Width="200"/>
+                    <Label x:Name="LblEnchOwner" Content="" HorizontalAlignment="Left" Margin="348,271,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.199,-0.142" Width="200"/>
+
+                    <Label x:Name="LblMagic" Content="Magic Shop" Margin="574,214,283,0" VerticalAlignment="Top" RenderTransformOrigin="-0.469,-0.505" FontSize="16" FontWeight="Bold"/>
+                    <Label x:Name="LblMagicOwnerDesc" Content="Owner" HorizontalAlignment="Left" Margin="574,272,0,0" VerticalAlignment="Top" Width="65"/>
+                    <Label x:Name="LblMagicNameDesc" Content="Name:" HorizontalAlignment="Left" Margin="574,245,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.022,0.012"/>
+                    <Label x:Name="LblMagicName" Content="" HorizontalAlignment="Left" Margin="633,245,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.199,-0.142" Width="200"/>
+                    <Label x:Name="LblMagicOwner" Content="" HorizontalAlignment="Left" Margin="633,271,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.199,-0.142" Width="200"/>
                 </Grid>
             </TabItem>
-            <TabItem Header="Cities">
-                <Grid Background="#FFE5E5E5"/>
+            <TabItem Header="NPCs">
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid x:Name="NpcGrid" Margin="10" RenderTransformOrigin="-5.819,-1.879"/>
+                </Grid>
             </TabItem>
+            
         </TabControl>
 
     </Grid>

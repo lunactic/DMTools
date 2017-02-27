@@ -9,7 +9,7 @@
     "The Unicorn's",
     "The Griffon's"
   ],
-  "alchemy_postfix": [
+  "alchemy_suffix": [
     "Potions",
     "Beakers",
     "Vials",
@@ -26,7 +26,7 @@
     "The Unicorn's",
     "Marvelous"
   ],
-  "jewellery_postfix": [
+  "jewellery_suffix": [
     "Bling",
     "Jewels",
     "Gems, Jewels, and Jade",
@@ -53,7 +53,7 @@
     "The Pirate's",
     "The Angry"
   ],
-  "inn_postfix": [
+  "inn_suffix": [
     "Giant",
     "Kiss",
     "Dragon",
@@ -74,7 +74,7 @@
     "The Exalted",
     "The Minotaur's"
   ],
-  "blacksmith_postfix": [
+  "blacksmith_suffix": [
     "Swords",
     "Steelworks",
     "Breastplates",
@@ -90,7 +90,7 @@
     "The Enchanter's",
     "The Insanity of"
   ],
-  "enchanter_postfix": [
+  "enchanter_suffix": [
     "Wonder",
     "Magnificence",
     "Arcanity",
@@ -102,7 +102,7 @@
     "An Arcanist's",
     "Wizards Do It With"
   ],
-  "magic_postfix": [
+  "magic_suffix": [
     "Wands",
     "Staves",
     "Rods",
