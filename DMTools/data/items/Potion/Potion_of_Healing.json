@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Healing",
+  "id": 10058,
+  "content": "You regain 2d4 + 2 hit points when you drink this potion.  The potion's red liquid glimmers when agitated.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "0.5",
+    "Category": "Items",
+    "Item Type": "Potion"
+  }
+}

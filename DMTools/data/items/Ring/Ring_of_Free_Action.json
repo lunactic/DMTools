@@ -1,0 +1,10 @@
+{
+  "name": "Ring of Free Action",
+  "id": 10106,
+  "content": "Requires Attunement\n\nWhile you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Ring"
+  }
+}

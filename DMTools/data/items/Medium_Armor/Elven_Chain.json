@@ -1,0 +1,13 @@
+{
+  "name": "Elven Chain",
+  "id": 9827,
+  "content": "\tYou gain a +1 bonus to AC while you wear this armor. You are considered proficient with this armor even if you lack proficiency with medium armor.\n\n",
+  "data": {
+    "AC": "13",
+    "Source": "SRD 5.0",
+    "Weight": "20",
+    "Category": "Items",
+    "Item Type": "Medium Armor",
+    "Modifiers": "Ac +1"
+  }
+}

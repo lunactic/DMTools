@@ -1,0 +1,13 @@
+{
+  "name": "Spiked Armor of Radiant Resistance",
+  "id": 10206,
+  "content": "Requires Attunement\n\n\tYou have resistance to radiant damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "14",
+    "Source": "SRD 5.0",
+    "Weight": "45",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Medium Armor"
+  }
+}

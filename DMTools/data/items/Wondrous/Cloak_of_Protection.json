@@ -1,0 +1,11 @@
+{
+  "name": "Cloak of Protection",
+  "id": 9790,
+  "content": "Requires Attunement\n\nYou gain a +1 bonus to AC and saving throws while you wear this cloak.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Wondrous",
+    "Modifiers": "Ac +1, Saving Throws +1"
+  }
+}

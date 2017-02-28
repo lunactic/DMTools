@@ -1,0 +1,10 @@
+{
+  "name": "Ring of Jumping",
+  "id": 10108,
+  "content": "Requires Attunement\n\nWhile wearing this ring, you can cast the jump spell from it as a bonus action at will, but can target only yourself when you do so.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Ring"
+  }
+}

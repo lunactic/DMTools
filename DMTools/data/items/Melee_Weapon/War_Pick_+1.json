@@ -1,0 +1,14 @@
+{
+  "name": "War Pick +1",
+  "id": 10327,
+  "content": "\tYou have a +1 bonus to attack and damage rolls made with this weapon.\n\n",
+  "data": {
+    "Damage": "1d8",
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Modifiers": "Melee Attacks +1, Melee Damage +1",
+    "Damage Type": "Piercing"
+  }
+}

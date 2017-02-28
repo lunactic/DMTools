@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Fire Resistance",
+  "id": 10053,
+  "content": "When you drink this potion, you gain resistance to fire damage for 1 hour.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "0.5",
+    "Category": "Items",
+    "Item Type": "Potion"
+  }
+}

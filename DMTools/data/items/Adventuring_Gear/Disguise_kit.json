@@ -1,0 +1,10 @@
+{
+  "name": "Disguise kit",
+  "id": 12533,
+  "content": "This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any Ability Checks you make to create a visual disguise.",
+  "data": {
+    "Weight": "3",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

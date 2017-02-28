@@ -1,0 +1,15 @@
+{
+  "name": "Warhammer",
+  "id": 10334,
+  "content": "",
+  "data": {
+    "Damage": "1d8",
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Versatile",
+    "Damage Type": "Bludgeoning",
+    "Secondary Damage": "1d10"
+  }
+}

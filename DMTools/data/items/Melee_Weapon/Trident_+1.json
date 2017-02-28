@@ -1,0 +1,17 @@
+{
+  "name": "Trident +1",
+  "id": 10264,
+  "content": "\tYou have a +1 bonus to attack and damage rolls made with this weapon.\n\n",
+  "data": {
+    "Range": "20/60",
+    "Damage": "1d6",
+    "Source": "SRD 5.0",
+    "Weight": "4",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Modifiers": "Weapon Attacks +1, Weapon Damage +1",
+    "Properties": "Range, Thrown, Versatile",
+    "Damage Type": "Piercing",
+    "Secondary Damage": "1d8"
+  }
+}

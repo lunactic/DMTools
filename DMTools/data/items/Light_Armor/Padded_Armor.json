@@ -1,0 +1,13 @@
+{
+  "name": "Padded Armor",
+  "id": 10017,
+  "content": "Padded armor consists of quilted layers of cloth and batting.\n\n",
+  "data": {
+    "AC": "11",
+    "Source": "SRD 5.0",
+    "Weight": "8",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Light Armor"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Map or scroll case",
+  "id": 12513,
+  "content": "This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.",
+  "data": {
+    "Weight": "1",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

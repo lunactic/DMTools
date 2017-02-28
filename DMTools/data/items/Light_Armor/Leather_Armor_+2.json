@@ -1,0 +1,13 @@
+{
+  "name": "Leather Armor +2",
+  "id": 9938,
+  "content": "\tYou have a +2 bonus to AC while wearing this armor.\n\n",
+  "data": {
+    "AC": "11",
+    "Source": "SRD 5.0",
+    "Weight": "10",
+    "Category": "Items",
+    "Item Type": "Light Armor",
+    "Modifiers": "Ac +2"
+  }
+}

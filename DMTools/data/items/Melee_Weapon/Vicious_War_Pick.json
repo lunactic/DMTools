@@ -1,0 +1,13 @@
+{
+  "name": "Vicious War Pick",
+  "id": 10304,
+  "content": "\tWhen you roll a 20 with this magic weapon, the target takes an extra 2d6 piercing damage.\n\n",
+  "data": {
+    "Damage": "1d8",
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Damage Type": "Piercing"
+  }
+}

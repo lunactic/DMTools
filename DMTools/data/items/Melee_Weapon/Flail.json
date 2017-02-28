@@ -1,0 +1,13 @@
+{
+  "name": "Flail",
+  "id": 9837,
+  "content": "",
+  "data": {
+    "Damage": "1d8",
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Damage Type": "Bludgeoning"
+  }
+}

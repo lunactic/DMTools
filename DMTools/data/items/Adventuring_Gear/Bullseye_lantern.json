@@ -1,0 +1,13 @@
+{
+  "name": "Bullseye lantern",
+  "id": 12539,
+  "content": "A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.",
+  "data": {
+    "Range": "60/120",
+    "Target": "60-foot cone",
+    "Weight": "2",
+    "Category": "Items",
+    "Duration": "6 Hours",
+    "Item Type": "Adventuring Gear"
+  }
+}

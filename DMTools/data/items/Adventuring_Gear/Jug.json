@@ -1,0 +1,11 @@
+{
+  "name": "Jug",
+  "id": 9930,
+  "content": "A jug holds 1 gallon of liquid.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "4",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

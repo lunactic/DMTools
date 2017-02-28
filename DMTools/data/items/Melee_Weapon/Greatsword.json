@@ -1,0 +1,14 @@
+{
+  "name": "Greatsword",
+  "id": 9864,
+  "content": "",
+  "data": {
+    "Damage": "2d6",
+    "Source": "SRD 5.0",
+    "Weight": "6",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Heavy, Two-Handed",
+    "Damage Type": "Slashing"
+  }
+}

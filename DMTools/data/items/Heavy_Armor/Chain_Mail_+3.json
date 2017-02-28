@@ -1,0 +1,14 @@
+{
+  "name": "Chain Mail +3",
+  "id": 9758,
+  "content": "\tYou have a +3 bonus to AC while wearing this armor.\n\n",
+  "data": {
+    "AC": "16",
+    "Source": "SRD 5.0",
+    "Weight": "55",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Heavy Armor",
+    "Modifiers": "Ac +3"
+  }
+}

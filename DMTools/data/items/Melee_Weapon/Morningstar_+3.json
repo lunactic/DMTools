@@ -1,0 +1,14 @@
+{
+  "name": "Morningstar +3",
+  "id": 9988,
+  "content": "\tYou have a +3 bonus to attack and damage rolls made with this weapon.\n\n",
+  "data": {
+    "Damage": "1d8",
+    "Source": "SRD 5.0",
+    "Weight": "4",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Modifiers": "Melee Attacks +3, Melee Damage +3",
+    "Damage Type": "Piercing"
+  }
+}

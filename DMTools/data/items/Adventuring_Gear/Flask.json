@@ -1,0 +1,11 @@
+{
+  "name": "Flask",
+  "id": 9838,
+  "content": "A flask holds 1 pint of liquid.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "1",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

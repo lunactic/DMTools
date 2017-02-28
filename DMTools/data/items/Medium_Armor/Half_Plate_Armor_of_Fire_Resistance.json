@@ -1,0 +1,13 @@
+{
+  "name": "Half Plate Armor of Fire Resistance",
+  "id": 9874,
+  "content": "Requires Attunement\n\n\tYou have resistance to fire damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "15",
+    "Source": "SRD 5.0",
+    "Weight": "40",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Medium Armor"
+  }
+}

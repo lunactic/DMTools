@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Necrotic Resistance",
+  "id": 10064,
+  "content": "When you drink this potion, you gain resistance to necrotic damage for 1 hour.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "0.5",
+    "Category": "Items",
+    "Item Type": "Potion"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Plate Armor +2",
+  "id": 10032,
+  "content": "\tYou have a +2 bonus to AC while wearing this armor.\n\n",
+  "data": {
+    "AC": "18",
+    "Source": "SRD 5.0",
+    "Weight": "65",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Heavy Armor",
+    "Modifiers": "Ac +2"
+  }
+}

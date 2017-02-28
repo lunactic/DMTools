@@ -1,0 +1,14 @@
+{
+  "name": "Vicious Lance",
+  "id": 10286,
+  "content": "\tWhen you roll a 20 with this magic weapon, the target takes an extra 2d6 piercing damage.\n\n",
+  "data": {
+    "Damage": "1d12",
+    "Source": "SRD 5.0",
+    "Weight": "6",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Reach",
+    "Damage Type": "Piercing"
+  }
+}

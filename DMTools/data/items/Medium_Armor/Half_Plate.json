@@ -1,0 +1,13 @@
+{
+  "name": "Half Plate",
+  "id": 9882,
+  "content": "Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.\n\n",
+  "data": {
+    "AC": "15",
+    "Source": "SRD 5.0",
+    "Weight": "40",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Medium Armor"
+  }
+}

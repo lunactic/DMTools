@@ -1,0 +1,11 @@
+{
+  "name": "Shovel",
+  "id": 10178,
+  "content": "",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "5",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Boots of Levitation",
+  "id": 9721,
+  "content": "Requires Attunement\n\nWhile you wear these boots, you can use an action to cast the levitate spell on yourself at will.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Wondrous"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Bucket",
+  "id": 9746,
+  "content": "A bucket holds 3 gallons of liquid or 1/2 cubic foot of solids.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

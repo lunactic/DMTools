@@ -1,0 +1,15 @@
+{
+  "name": "Vicious Maul",
+  "id": 10292,
+  "content": "\tWhen you roll a 20 with this magic weapon, the target takes an extra 2d6 bludgeoning damage.\n\n",
+  "data": {
+    "Damage": "2d6",
+    "Source": "SRD 5.0",
+    "Weight": "10",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Heavy, Two-Handed",
+    "Damage Type": "Bludgeoning",
+    "Secondary Damage": "2d6"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Belt of Dwarvenkind",
+  "id": 9712,
+  "content": "Requires Attunement\n\nWhile wearing this belt, you gain the following benefits:\n\n• Your Constitution score increases by 2, to a maximum of 20.\n\n• You have advantage on Charisma (Persuasion) checks made to interact with dwarves.\n\nIn addition, while attuned to the belt, you have a 50 percent chance each day at dawn of growing a full beard if you're capable of growing one, or a visibly thicker beard if you already have one.\n\nIf you aren't a dwarf, you gain the following additional benefits while wearing the belt:\n\n• You have advantage on saving throws against poison, and you have resistance against poison damage.\n\n• You have darkvision out to a range of 60 feet.\n\n• You can speak, read, and write Dwarvish.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Wondrous",
+    "Modifiers": "Constitution +2"
+  }
+}

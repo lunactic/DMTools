@@ -1,0 +1,11 @@
+{
+  "name": "Potion of Animal Friendship",
+  "id": 10048,
+  "content": "When you drink this potion, you can cast the animal friendship spell (save DC 13) for 1 hour at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "0.5",
+    "Category": "Items",
+    "Item Type": "Potion"
+  }
+}

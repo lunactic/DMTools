@@ -1,0 +1,16 @@
+{
+  "name": "Heavy Crossbow +2",
+  "id": 9896,
+  "content": "\tYou have a +2 bonus to attack and damage rolls made with this weapon.\n\nAmmunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.\n\nIf you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.\n\n",
+  "data": {
+    "Range": "100/400",
+    "Damage": "1d10",
+    "Source": "SRD 5.0",
+    "Weight": "18",
+    "Category": "Items",
+    "Item Type": "Ranged Weapon",
+    "Modifiers": "Ranged Attacks +2, Ranged Damage +2",
+    "Properties": "Heavy, Loading, Range, Two-Handed",
+    "Damage Type": "Piercing"
+  }
+}

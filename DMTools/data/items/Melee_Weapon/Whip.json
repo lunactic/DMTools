@@ -1,0 +1,14 @@
+{
+  "name": "Whip",
+  "id": 10344,
+  "content": "",
+  "data": {
+    "Damage": "1d4",
+    "Source": "SRD 5.0",
+    "Weight": "3",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Finesse, Reach",
+    "Damage Type": "Slashing"
+  }
+}

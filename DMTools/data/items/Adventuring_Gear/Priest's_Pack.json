@@ -1,0 +1,11 @@
+{
+  "name": "Priest's Pack",
+  "id": 10074,
+  "content": "Includes:\n\n• a backpack\n\n• a blanket\n\n• 10 candles\n\n• a tinderbox\n\n• an alms box\n\n• 2 blocks of incense\n\n• a censer\n\n• vestments\n\n• 2 days of rations\n\n• a waterskin.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "24",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Diplomat's Pack",
+  "id": 9817,
+  "content": "Includes:\n\n• a chest\n\n• 2 cases for maps and scrolls\n\n• a set of fine clothes\n\n• a bottle of ink\n\n• an ink pen\n\n• a lamp\n\n• 2 flasks of oil\n\n• 5 sheets of paper\n\n• a vial of perfume\n\n• sealing wax\n\n• soap.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "36",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

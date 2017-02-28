@@ -1,0 +1,11 @@
+{
+  "name": "Entertainer's Pack",
+  "id": 9828,
+  "content": "Includes:\n\n• a backpack\n\n• a bedroll\n\n• 2 costumes\n\n• 5 candles\n\n• 5 days of rations\n\n• a waterskin\n\n• a disguise kit.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "38",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

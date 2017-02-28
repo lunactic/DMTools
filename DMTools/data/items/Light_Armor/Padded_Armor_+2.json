@@ -1,0 +1,14 @@
+{
+  "name": "Padded Armor +2",
+  "id": 10005,
+  "content": "\tYou have a +2 bonus to AC while wearing this armor.\n\n",
+  "data": {
+    "AC": "11",
+    "Source": "SRD 5.0",
+    "Weight": "8",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Light Armor",
+    "Modifiers": "Ac +2"
+  }
+}

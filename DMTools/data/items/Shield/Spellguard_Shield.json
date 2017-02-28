@@ -1,0 +1,12 @@
+{
+  "name": "Spellguard Shield",
+  "id": 10196,
+  "content": "Requires Attunement\n\n\tWhile holding this shield, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you\n\n",
+  "data": {
+    "AC": "2",
+    "Source": "SRD 5.0",
+    "Weight": "6",
+    "Category": "Items",
+    "Item Type": "Shield"
+  }
+}

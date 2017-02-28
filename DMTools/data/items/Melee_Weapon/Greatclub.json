@@ -1,0 +1,14 @@
+{
+  "name": "Greatclub",
+  "id": 9860,
+  "content": "",
+  "data": {
+    "Damage": "1d8",
+    "Source": "SRD 5.0",
+    "Weight": "10",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Two-Handed",
+    "Damage Type": "Bludgeoning"
+  }
+}

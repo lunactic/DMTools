@@ -1,0 +1,15 @@
+{
+  "name": "Alchemist's Fire",
+  "id": 12504,
+  "content": "This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged Attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.",
+  "data": {
+    "Save": "Dexterity",
+    "Range": "20/60",
+    "Damage": "1d4",
+    "Weight": "1",
+    "Category": "Items",
+    "Item Type": "Ranged Weapon",
+    "Properties": "Improvised Weapons",
+    "Damage Type": "Fire"
+  }
+}

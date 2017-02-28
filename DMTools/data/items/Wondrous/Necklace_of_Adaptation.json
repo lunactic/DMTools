@@ -1,0 +1,11 @@
+{
+  "name": "Necklace of Adaptation",
+  "id": 9991,
+  "content": "Requires Attunement\n\nWhile wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as cloudkill and stinking cloud effects, inhaled poisons, and the breath weapons of some dragons).\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "1",
+    "Category": "Items",
+    "Item Type": "Wondrous"
+  }
+}

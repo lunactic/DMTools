@@ -1,0 +1,10 @@
+{
+  "name": "Grappling hook",
+  "id": 12501,
+  "content": "",
+  "data": {
+    "Weight": "4",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Headband of Intellect",
+  "id": 9894,
+  "content": "Requires Attunement\n\nYour Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher without it.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Wondrous"
+  }
+}

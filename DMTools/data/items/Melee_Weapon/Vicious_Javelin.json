@@ -1,0 +1,15 @@
+{
+  "name": "Vicious Javelin",
+  "id": 10285,
+  "content": "\tWhen you roll a 20 with this magic weapon, the target takes an extra 2d6 piercing damage.\n\n",
+  "data": {
+    "Range": "30/120",
+    "Damage": "1d6",
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Range, Thrown",
+    "Damage Type": "Piercing"
+  }
+}

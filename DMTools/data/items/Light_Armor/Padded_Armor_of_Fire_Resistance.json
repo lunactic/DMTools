@@ -1,0 +1,13 @@
+{
+  "name": "Padded Armor of Fire Resistance",
+  "id": 10009,
+  "content": "Requires Attunement\n\n\tYou have resistance to fire damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "11",
+    "Source": "SRD 5.0",
+    "Weight": "8",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Light Armor"
+  }
+}

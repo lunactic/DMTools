@@ -1,0 +1,14 @@
+{
+  "name": "Half Plate Armor +2",
+  "id": 9870,
+  "content": "\tYou have a +2 bonus to AC while wearing this armor.\n\n",
+  "data": {
+    "AC": "15",
+    "Source": "SRD 5.0",
+    "Weight": "40",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Medium Armor",
+    "Modifiers": "Ac +2"
+  }
+}

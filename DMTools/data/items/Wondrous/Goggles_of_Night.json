@@ -1,0 +1,10 @@
+{
+  "name": "Goggles of Night",
+  "id": 9852,
+  "content": "While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision. wearing the goggles increases its range by 60 feet.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Wondrous"
+  }
+}

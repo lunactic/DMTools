@@ -1,0 +1,15 @@
+{
+  "name": "Quarterstaff",
+  "id": 10078,
+  "content": "",
+  "data": {
+    "Damage": "1d6",
+    "Source": "SRD 5.0",
+    "Weight": "4",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Versatile",
+    "Damage Type": "Bludgeoning",
+    "Secondary Damage": "1d8"
+  }
+}

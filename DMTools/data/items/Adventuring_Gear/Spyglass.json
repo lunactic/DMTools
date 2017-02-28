@@ -1,0 +1,11 @@
+{
+  "name": "Spyglass",
+  "id": 10222,
+  "content": "Objects viewed through a spyglass are magnified to twice their size.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "1",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

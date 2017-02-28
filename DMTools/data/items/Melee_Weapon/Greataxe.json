@@ -1,0 +1,14 @@
+{
+  "name": "Greataxe",
+  "id": 9856,
+  "content": "",
+  "data": {
+    "Damage": "1d12",
+    "Source": "SRD 5.0",
+    "Weight": "7",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Heavy, Two-Handed",
+    "Damage Type": "Slashing"
+  }
+}

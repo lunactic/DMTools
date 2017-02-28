@@ -1,0 +1,13 @@
+{
+  "name": "Mace",
+  "id": 9973,
+  "content": "",
+  "data": {
+    "Damage": "1d6",
+    "Source": "SRD 5.0",
+    "Weight": "4",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Damage Type": "Bludgeoning"
+  }
+}

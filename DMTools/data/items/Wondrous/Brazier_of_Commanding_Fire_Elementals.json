@@ -1,0 +1,11 @@
+{
+  "name": "Brazier of Commanding Fire Elementals",
+  "id": 9728,
+  "content": "While a fire burns in this brass brazier, you can use an action to speak the brazier's command word and summon a fire elemental, as if you had cast the conjure elemental spell. The brazier can't be used this way again until the next dawn.\n\nThe brazier weighs 5 pounds.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "5",
+    "Category": "Items",
+    "Item Type": "Wondrous"
+  }
+}

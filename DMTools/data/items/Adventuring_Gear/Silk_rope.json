@@ -1,0 +1,10 @@
+{
+  "name": "Silk rope",
+  "id": 12554,
+  "content": "Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.\n",
+  "data": {
+    "Weight": "5",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

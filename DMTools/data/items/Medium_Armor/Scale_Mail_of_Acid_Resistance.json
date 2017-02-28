@@ -1,0 +1,13 @@
+{
+  "name": "Scale Mail of Acid Resistance",
+  "id": 10146,
+  "content": "Requires Attunement\n\n\tYou have resistance to acid damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "14",
+    "Source": "SRD 5.0",
+    "Weight": "45",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Medium Armor"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Burglar's Pack",
+  "id": 9747,
+  "content": "Includes:\n\n• a backpack\n\n• a bag of 1,000 ball bearings\n\n• 10 feet of string\n\n• a bell\n\n• 5 candles\n\n• a crowbar\n\n• a hammer\n\n• 10 pitons\n\n• a hooded lantern\n\n• 2 flasks of oil\n\n• 5 days rations\n\n• a tinderbox\n\n• a waterskin\n\n• 50 feet of hempen rope\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "45.5",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

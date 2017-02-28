@@ -1,0 +1,15 @@
+{
+  "name": "Vicious Battleaxe",
+  "id": 10271,
+  "content": "\tWhen you roll a 20 with this magic weapon, the target takes an extra 2d6 slashing damage.\n\n",
+  "data": {
+    "Damage": "1d8",
+    "Source": "SRD 5.0",
+    "Weight": "4",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Versatile",
+    "Damage Type": "Slashing",
+    "Secondary Damage": "1d10"
+  }
+}

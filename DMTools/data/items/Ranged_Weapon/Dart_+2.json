@@ -1,0 +1,16 @@
+{
+  "name": "Dart +2",
+  "id": 9809,
+  "content": "\tYou have a +2 bonus to attack and damage rolls made with this weapon.\n\n",
+  "data": {
+    "Range": "20/60",
+    "Damage": "1d4",
+    "Source": "SRD 5.0",
+    "Weight": "0.25",
+    "Category": "Items",
+    "Item Type": "Ranged Weapon",
+    "Modifiers": "Ranged Attacks +2, Ranged Damage +2",
+    "Properties": "Finesse, Range, Thrown",
+    "Damage Type": "Piercing"
+  }
+}

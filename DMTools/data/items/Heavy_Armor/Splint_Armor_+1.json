@@ -1,0 +1,14 @@
+{
+  "name": "Splint Armor +1",
+  "id": 10208,
+  "content": "\tYou have a +1 bonus to AC while wearing this armor.\n\n",
+  "data": {
+    "AC": "17",
+    "Source": "SRD 5.0",
+    "Weight": "60",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Heavy Armor",
+    "Modifiers": "Ac +1"
+  }
+}

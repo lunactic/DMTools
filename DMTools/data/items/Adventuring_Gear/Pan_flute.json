@@ -1,0 +1,10 @@
+{
+  "name": "Pan flute",
+  "id": 12564,
+  "content": "If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.\n\nA bard can use a musical instrument as a spellcasting focus, substituting it for any material component that does not list a cost.\n\nEach type of musical instrument requires a separate proficiency.\n",
+  "data": {
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

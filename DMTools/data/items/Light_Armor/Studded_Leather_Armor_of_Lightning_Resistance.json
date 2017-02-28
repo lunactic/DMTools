@@ -1,0 +1,12 @@
+{
+  "name": "Studded Leather Armor of Lightning Resistance",
+  "id": 10245,
+  "content": "Requires Attunement\n\n\tYou have resistance to lightning damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "12",
+    "Source": "SRD 5.0",
+    "Weight": "13",
+    "Category": "Items",
+    "Item Type": "Light Armor"
+  }
+}

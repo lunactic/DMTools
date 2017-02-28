@@ -1,0 +1,11 @@
+{
+  "name": "Scholar's Pack",
+  "id": 10158,
+  "content": "Includes:\n\n• a backpack\n\n• a book of lore\n\n• a bottle of ink\n\n• an ink pen\n\n• 10 sheets of parchment\n\n• a little bag of sand\n\n• a small knife.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "10",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

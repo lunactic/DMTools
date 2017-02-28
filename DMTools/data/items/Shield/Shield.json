@@ -1,0 +1,12 @@
+{
+  "name": "Shield",
+  "id": 10169,
+  "content": "A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.\n\n",
+  "data": {
+    "AC": "2",
+    "Source": "SRD 5.0",
+    "Weight": "6",
+    "Category": "Items",
+    "Item Type": "Shield"
+  }
+}

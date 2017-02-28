@@ -1,0 +1,14 @@
+{
+  "name": "Maul",
+  "id": 9983,
+  "content": "",
+  "data": {
+    "Damage": "2d6",
+    "Source": "SRD 5.0",
+    "Weight": "10",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Heavy, Two-Handed",
+    "Damage Type": "Bludgeoning"
+  }
+}

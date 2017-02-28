@@ -1,0 +1,13 @@
+{
+  "name": "Chain Mail of Poison Resistance",
+  "id": 9765,
+  "content": "Requires Attunement\n\n\tYou have resistance to poison damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "16",
+    "Source": "SRD 5.0",
+    "Weight": "55",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Heavy Armor"
+  }
+}

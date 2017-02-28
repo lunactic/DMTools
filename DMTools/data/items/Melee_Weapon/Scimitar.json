@@ -1,0 +1,14 @@
+{
+  "name": "Scimitar",
+  "id": 10163,
+  "content": "",
+  "data": {
+    "Damage": "1d6",
+    "Source": "SRD 5.0",
+    "Weight": "3",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Finesse, Light",
+    "Damage Type": "Slashing"
+  }
+}

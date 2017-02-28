@@ -1,0 +1,12 @@
+{
+  "name": "Chain Shirt of Acid Resistance",
+  "id": 9773,
+  "content": "Requires Attunement\n\n\tYou have resistance to acid damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "13",
+    "Source": "SRD 5.0",
+    "Weight": "20",
+    "Category": "Items",
+    "Item Type": "Medium Armor"
+  }
+}

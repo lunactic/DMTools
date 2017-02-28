@@ -1,0 +1,16 @@
+{
+  "name": "Javelin +2",
+  "id": 9925,
+  "content": "\tYou have a +2 bonus to attack and damage rolls made with this weapon.\n\n",
+  "data": {
+    "Range": "30/120",
+    "Damage": "1d6",
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Modifiers": "Weapon Attacks +2, Weapon Damage +2",
+    "Properties": "Range, Thrown",
+    "Damage Type": "Piercing"
+  }
+}

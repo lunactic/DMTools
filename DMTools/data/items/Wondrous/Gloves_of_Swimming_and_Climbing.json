@@ -1,0 +1,10 @@
+{
+  "name": "Gloves of Swimming and Climbing",
+  "id": 9851,
+  "content": "Requires Attunement\n\nWhile wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Wondrous"
+  }
+}

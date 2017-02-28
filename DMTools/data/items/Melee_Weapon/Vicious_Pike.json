@@ -1,0 +1,14 @@
+{
+  "name": "Vicious Pike",
+  "id": 10294,
+  "content": "\tWhen you roll a 20 with this magic weapon, the target takes an extra 2d6 piercing damage.\n\n",
+  "data": {
+    "Damage": "1d10",
+    "Source": "SRD 5.0",
+    "Weight": "18",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Heavy, Reach, Two-Handed",
+    "Damage Type": "Piercing"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Helm of Comprehending Languages",
+  "id": 9900,
+  "content": "While wearing this helm, you can use an action to cast the comprehend languages spell from it at will.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Wondrous"
+  }
+}

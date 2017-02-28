@@ -1,0 +1,13 @@
+{
+  "name": "Plate Armor of Radiant Resistance",
+  "id": 10043,
+  "content": "Requires Attunement\n\n\tYou have resistance to radiant damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "18",
+    "Source": "SRD 5.0",
+    "Weight": "65",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Heavy Armor"
+  }
+}

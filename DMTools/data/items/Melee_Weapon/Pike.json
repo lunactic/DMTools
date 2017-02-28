@@ -1,0 +1,14 @@
+{
+  "name": "Pike",
+  "id": 10026,
+  "content": "",
+  "data": {
+    "Damage": "1d10",
+    "Source": "SRD 5.0",
+    "Weight": "18",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Heavy, Reach, Two-Handed",
+    "Damage Type": "Piercing"
+  }
+}

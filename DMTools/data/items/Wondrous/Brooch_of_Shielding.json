@@ -1,0 +1,10 @@
+{
+  "name": "Brooch of Shielding",
+  "id": 9744,
+  "content": "Requires Attunement\n\nWhile wearing this brooch, you have resistance to force damage, and you have immunity to damage from the magic missile spell.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Wondrous"
+  }
+}

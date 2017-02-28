@@ -1,0 +1,12 @@
+{
+  "name": "Leather Armor of Necrotic Resistance",
+  "id": 9945,
+  "content": "Requires Attunement\n\n\tYou have resistance to necrotic damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "11",
+    "Source": "SRD 5.0",
+    "Weight": "10",
+    "Category": "Items",
+    "Item Type": "Light Armor"
+  }
+}

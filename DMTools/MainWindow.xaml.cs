@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Data;
 using System.Windows.Media;
 using DMTools.controllers;
 using DMTools.models;
@@ -60,6 +61,18 @@ namespace DMTools
             {
                 NpcGrid.Items.Refresh();
             }
+        }
+
+        private void LoadItems_Click(object sender, RoutedEventArgs e)
+        {
+            List<Item> items = ItemController.GetAllItems();
+            ItemGrid.ItemsSource = items;
+
+        }
+
+        private void Search_Click(object sender, RoutedEventArgs e)
+        {
+            
         }
     }
 }

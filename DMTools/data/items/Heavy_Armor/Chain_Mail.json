@@ -1,0 +1,13 @@
+{
+  "name": "Chain Mail",
+  "id": 9769,
+  "content": "Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.\n\n",
+  "data": {
+    "AC": "16",
+    "Source": "SRD 5.0",
+    "Weight": "55",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Heavy Armor"
+  }
+}

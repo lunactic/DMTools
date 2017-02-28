@@ -1,0 +1,10 @@
+{
+  "name": "Ring of Fire Resistance",
+  "id": 10104,
+  "content": "Requires Attunement\n\nYou have resistance to fire damage while wearing this ring.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Ring"
+  }
+}

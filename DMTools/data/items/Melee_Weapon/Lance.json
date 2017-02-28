@@ -1,0 +1,14 @@
+{
+  "name": "Lance",
+  "id": 9935,
+  "content": "Special: You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.\n\n",
+  "data": {
+    "Damage": "1d12",
+    "Source": "SRD 5.0",
+    "Weight": "6",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Reach",
+    "Damage Type": "Piercing"
+  }
+}

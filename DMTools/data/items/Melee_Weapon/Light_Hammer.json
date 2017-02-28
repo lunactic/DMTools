@@ -1,0 +1,15 @@
+{
+  "name": "Light Hammer",
+  "id": 12225,
+  "content": "",
+  "data": {
+    "Range": "20/60",
+    "Damage": "1d4",
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Light, Thrown",
+    "Damage Type": "Bludgeoning"
+  }
+}

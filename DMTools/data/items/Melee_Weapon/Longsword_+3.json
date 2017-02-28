@@ -1,0 +1,16 @@
+{
+  "name": "Longsword +3",
+  "id": 9963,
+  "content": "\tYou have a +3 bonus to attack and damage rolls made with this weapon.\n\n",
+  "data": {
+    "Damage": "1d8",
+    "Source": "SRD 5.0",
+    "Weight": "3",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Modifiers": "Melee Attacks +3, Melee Damage +3",
+    "Properties": "Versatile",
+    "Damage Type": "Slashing",
+    "Secondary Damage": "1d10"
+  }
+}

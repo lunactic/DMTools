@@ -1,0 +1,14 @@
+{
+  "name": "Sickle",
+  "id": 10182,
+  "content": "",
+  "data": {
+    "Damage": "1d4",
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Light",
+    "Damage Type": "Slashing"
+  }
+}

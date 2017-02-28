@@ -1,0 +1,16 @@
+{
+  "name": "Trident",
+  "id": 10268,
+  "content": "",
+  "data": {
+    "Range": "20/60",
+    "Damage": "1d6",
+    "Source": "SRD 5.0",
+    "Weight": "4",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Range, Thrown, Versatile",
+    "Damage Type": "Piercing",
+    "Secondary Damage": "1d8"
+  }
+}

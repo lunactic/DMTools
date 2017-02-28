@@ -1,0 +1,14 @@
+{
+  "name": "Glaive",
+  "id": 9847,
+  "content": "",
+  "data": {
+    "Damage": "1d10",
+    "Source": "SRD 5.0",
+    "Weight": "6",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Heavy, Reach, Two-Handed",
+    "Damage Type": "Slashing"
+  }
+}

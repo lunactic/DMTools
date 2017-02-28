@@ -1,0 +1,14 @@
+{
+  "name": "Shortsword",
+  "id": 10177,
+  "content": "",
+  "data": {
+    "Damage": "1d6",
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Finesse, Light",
+    "Damage Type": "Piercing"
+  }
+}

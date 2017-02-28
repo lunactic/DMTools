@@ -1,0 +1,12 @@
+{
+  "name": "Hide Armor of Psychic Resistance",
+  "id": 9913,
+  "content": "Requires Attunement\n\n\tYou have resistance to psychic damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "12",
+    "Source": "SRD 5.0",
+    "Weight": "12",
+    "Category": "Items",
+    "Item Type": "Medium Armor"
+  }
+}

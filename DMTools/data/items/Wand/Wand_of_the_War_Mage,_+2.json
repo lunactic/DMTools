@@ -1,0 +1,12 @@
+{
+  "name": "Wand of the War Mage, +2",
+  "id": 10324,
+  "content": "Requires Attunement by a Spellcaster\n\nWhile you are holding this wand, you gain a +2 bonus to spell attack rolls. In addition, you ignore half cover when making a spell attack.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "1",
+    "Category": "Items",
+    "Item Type": "Wand",
+    "Modifiers": "Spell Attack +2"
+  }
+}

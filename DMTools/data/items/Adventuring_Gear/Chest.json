@@ -1,0 +1,11 @@
+{
+  "name": "Chest",
+  "id": 9784,
+  "content": "A chest holds 12 cubic feet or 300 pounds of gear.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "25",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

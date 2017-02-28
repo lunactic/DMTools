@@ -1,0 +1,13 @@
+{
+  "name": "Breastplate +3",
+  "id": 9731,
+  "content": "\tYou have a +3 bonus to AC while wearing this armor.\n\n",
+  "data": {
+    "AC": "14",
+    "Source": "SRD 5.0",
+    "Weight": "20",
+    "Category": "Items",
+    "Item Type": "Medium Armor",
+    "Modifiers": "Ac +3"
+  }
+}

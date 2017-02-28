@@ -1,0 +1,16 @@
+{
+  "name": "Quarterstaff +1",
+  "id": 10075,
+  "content": "\tYou have a +1 bonus to attack and damage rolls made with this weapon.\n\n",
+  "data": {
+    "Damage": "1d6",
+    "Source": "SRD 5.0",
+    "Weight": "4",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Modifiers": "Melee Attacks +1, Melee Damage +1",
+    "Properties": "Versatile",
+    "Damage Type": "Bludgeoning",
+    "Secondary Damage": "1d8"
+  }
+}

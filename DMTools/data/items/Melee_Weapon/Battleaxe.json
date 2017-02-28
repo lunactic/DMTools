@@ -1,0 +1,15 @@
+{
+  "name": "Battleaxe",
+  "id": 9708,
+  "content": "",
+  "data": {
+    "Damage": "1d8",
+    "Source": "SRD 5.0",
+    "Weight": "4",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Versatile",
+    "Damage Type": "Slashing",
+    "Secondary Damage": "1d10"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Halberd",
+  "id": 9868,
+  "content": "",
+  "data": {
+    "Damage": "1d10",
+    "Source": "SRD 5.0",
+    "Weight": "6",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Reach, Two-Handed",
+    "Damage Type": "Slashing"
+  }
+}

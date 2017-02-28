@@ -1,0 +1,15 @@
+{
+  "name": "Longbow",
+  "id": 9960,
+  "content": "",
+  "data": {
+    "Range": "150/600",
+    "Damage": "1d8",
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Ranged Weapon",
+    "Properties": "Ammunition, Heavy, Range, Two-Handed",
+    "Damage Type": "Piercing"
+  }
+}

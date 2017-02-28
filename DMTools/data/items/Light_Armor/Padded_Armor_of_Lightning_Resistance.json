@@ -1,0 +1,13 @@
+{
+  "name": "Padded Armor of Lightning Resistance",
+  "id": 10011,
+  "content": "Requires Attunement\n\n\tYou have resistance to lightning damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "11",
+    "Source": "SRD 5.0",
+    "Weight": "8",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Light Armor"
+  }
+}

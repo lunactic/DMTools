@@ -1,0 +1,11 @@
+{
+  "name": "Dungeoneer's Pack",
+  "id": 9820,
+  "content": "Includes:\n\n• a backpack\n\n• a crowbar\n\n• a hammer\n\n• 10 pitons\n\n• 10 torches\n\n• a tinderbox\n\n• 10 days of rations\n\n• a waterskin\n\n• 50 feet of hempen rope\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "61.5",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

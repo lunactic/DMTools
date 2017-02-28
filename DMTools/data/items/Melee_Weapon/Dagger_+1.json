@@ -1,0 +1,16 @@
+{
+  "name": "Dagger +1",
+  "id": 9803,
+  "content": "\tYou have a +1 bonus to attack and damage rolls made with this weapon.\n\n",
+  "data": {
+    "Range": "20/60",
+    "Damage": "1d4",
+    "Source": "SRD 5.0",
+    "Weight": "1",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Modifiers": "Weapon Attacks +1, Weapon Damage +1",
+    "Properties": "Finesse, Light, Range, Thrown",
+    "Damage Type": "Piercing"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chain Shirt +2",
+  "id": 9771,
+  "content": "\tYou have a +2 bonus to AC while wearing this armor.\n\n",
+  "data": {
+    "AC": "13",
+    "Source": "SRD 5.0",
+    "Weight": "20",
+    "Category": "Items",
+    "Item Type": "Medium Armor",
+    "Modifiers": "Ac +2"
+  }
+}

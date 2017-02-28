@@ -1,0 +1,15 @@
+{
+  "name": "Lance +1",
+  "id": 9932,
+  "content": "\tYou have a +1 bonus to attack and damage rolls made with this weapon.\n\n",
+  "data": {
+    "Damage": "1d12",
+    "Source": "SRD 5.0",
+    "Weight": "6",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Modifiers": "Melee Attacks +1, Melee Damage +1",
+    "Properties": "Reach",
+    "Damage Type": "Piercing"
+  }
+}

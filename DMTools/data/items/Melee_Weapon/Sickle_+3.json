@@ -1,0 +1,15 @@
+{
+  "name": "Sickle +3",
+  "id": 10181,
+  "content": "\tYou have a +3 bonus to attack and damage rolls made with this weapon.\n\n",
+  "data": {
+    "Damage": "1d4",
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Modifiers": "Melee Attacks +3, Melee Damage +3",
+    "Properties": "Light",
+    "Damage Type": "Slashing"
+  }
+}

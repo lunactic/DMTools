@@ -1,0 +1,12 @@
+{
+  "name": "Studded Leather Armor of Poison Resistance",
+  "id": 10247,
+  "content": "Requires Attunement\n\n\tYou have resistance to poison damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "12",
+    "Source": "SRD 5.0",
+    "Weight": "13",
+    "Category": "Items",
+    "Item Type": "Light Armor"
+  }
+}

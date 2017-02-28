@@ -1,0 +1,13 @@
+{
+  "name": "Shield +2",
+  "id": 10166,
+  "content": "\tWhile holding this shield, you have a +2 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.\n\n",
+  "data": {
+    "AC": "2",
+    "Source": "SRD 5.0",
+    "Weight": "6",
+    "Category": "Items",
+    "Item Type": "Shield",
+    "Modifiers": "Ac +2"
+  }
+}

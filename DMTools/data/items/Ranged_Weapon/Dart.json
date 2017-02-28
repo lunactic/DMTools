@@ -1,0 +1,15 @@
+{
+  "name": "Dart",
+  "id": 9811,
+  "content": "",
+  "data": {
+    "Range": "20/60",
+    "Damage": "1d4",
+    "Source": "SRD 5.0",
+    "Weight": "0.25",
+    "Category": "Items",
+    "Item Type": "Ranged Weapon",
+    "Properties": "Finesse, Range, Thrown",
+    "Damage Type": "Piercing"
+  }
+}

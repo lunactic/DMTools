@@ -1,0 +1,11 @@
+{
+  "name": "Ring of Protection",
+  "id": 10113,
+  "content": "Requires Attunement\n\nYou gain a +1 bonus to AC and saving throws while wearing this ring.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Ring",
+    "Modifiers": "Ac +1, Saving Throws +1"
+  }
+}

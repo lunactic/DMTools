@@ -1,0 +1,12 @@
+{
+  "name": "Chain Shirt of Poison Resistance",
+  "id": 9779,
+  "content": "Requires Attunement\n\n\tYou have resistance to poison damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "13",
+    "Source": "SRD 5.0",
+    "Weight": "20",
+    "Category": "Items",
+    "Item Type": "Medium Armor"
+  }
+}

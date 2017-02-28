@@ -1,0 +1,10 @@
+{
+  "name": "Helm of Teleportation",
+  "id": 9902,
+  "content": "Requires Attunement\n\nThis helm has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the teleport spell from it. The helm regains 1d3 expended charges daily at dawn.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Wondrous"
+  }
+}

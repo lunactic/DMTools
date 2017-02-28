@@ -1,0 +1,10 @@
+{
+  "name": "Ring of Invisibility",
+  "id": 10107,
+  "content": "Requires Attunement\n\nWhile wearing this ring, you can turn invisible as an action. Anything you are wearing or carrying is invisible with you. You remain invisible until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Ring"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Hide Armor of Fire Resistance",
+  "id": 9908,
+  "content": "Requires Attunement\n\n\tYou have resistance to fire damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "12",
+    "Source": "SRD 5.0",
+    "Weight": "12",
+    "Category": "Items",
+    "Item Type": "Medium Armor"
+  }
+}

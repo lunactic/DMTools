@@ -1,0 +1,13 @@
+{
+  "name": "Plate Armor of Cold Resistance",
+  "id": 10035,
+  "content": "Requires Attunement\n\n\tYou have resistance to cold damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "18",
+    "Source": "SRD 5.0",
+    "Weight": "65",
+    "Stealth": "Disadvantage",
+    "Category": "Items",
+    "Item Type": "Heavy Armor"
+  }
+}

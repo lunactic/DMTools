@@ -1,0 +1,15 @@
+{
+  "name": "Torch",
+  "id": 10262,
+  "content": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.\n\n",
+  "data": {
+    "Range": "20/40",
+    "Damage": "1",
+    "Source": "SRD 5.0",
+    "Weight": "1",
+    "Category": "Items",
+    "Duration": "1 Hour",
+    "Item Type": "Adventuring Gear",
+    "Damage Type": "Fire"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Elemental Gem",
+  "id": 12274,
+  "content": "This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the conjure elemental spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell.\n\n**Gem****Summoned Elemental**Blue SapphireAir elementalYellow diamondEarth elementalRed corundumFire elementalEmeraldWater elemental",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Wondrous"
+  }
+}

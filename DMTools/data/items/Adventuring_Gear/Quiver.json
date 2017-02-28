@@ -1,0 +1,11 @@
+{
+  "name": "Quiver",
+  "id": 10079,
+  "content": "A quiver can hold up to 20 arrows.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "1",
+    "Category": "Items",
+    "Item Type": "Adventuring Gear"
+  }
+}

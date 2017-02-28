@@ -1,0 +1,15 @@
+{
+  "name": "Javelin",
+  "id": 9928,
+  "content": "",
+  "data": {
+    "Range": "30/120",
+    "Damage": "1d6",
+    "Source": "SRD 5.0",
+    "Weight": "2",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Range, Thrown",
+    "Damage Type": "Piercing"
+  }
+}

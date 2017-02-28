@@ -1,0 +1,15 @@
+{
+  "name": "Dagger",
+  "id": 9807,
+  "content": "",
+  "data": {
+    "Range": "20/60",
+    "Damage": "1d4",
+    "Source": "SRD 5.0",
+    "Weight": "1",
+    "Category": "Items",
+    "Item Type": "Melee Weapon",
+    "Properties": "Finesse, Light, Range, Thrown",
+    "Damage Type": "Piercing"
+  }
+}

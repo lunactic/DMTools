@@ -1,0 +1,10 @@
+{
+  "name": "Potion of Giant Strength",
+  "id": 12249,
+  "content": "Potion, rarity varies \n\n\n\n When you drink this potion, your Strength score  changes for 1 hour. The type of giant determines the  score (see the table below). The potion has no effect  on you if your Strength is equal to or greater than  that score.  \n   This potion’s transparent liquid has floating in it a  sliver of fingernail from a giant of the appropriate  type. The potion of frost giant strength and the potion  of stone giant strength have the same effect.  \n\n\nType of GiantStrengthRarityHill giant21UncommonFrost/stone giant23RareFire giant25RareCloud giant27Very RareStorm giant29Legendary",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Potion"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Staff of Healing",
+  "id": 10226,
+  "content": "Requires Attunement by a Bard, Cleric, or Druid\n\nThis staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: cure wounds (1 charge per spell level, up to 4th), lesser restoration (2 charges). or mass cure wounds (5 charges).\n\nThe staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1. the staff vanishes in a flash of light, lost forever.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Weight": "4",
+    "Category": "Items",
+    "Item Type": "Staff"
+  }
+}

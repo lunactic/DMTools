@@ -1,0 +1,10 @@
+{
+  "name": "Ring of Swimming",
+  "id": 10120,
+  "content": "You have a swimming speed of 40 feet while wearing this ring.\n\n",
+  "data": {
+    "Source": "SRD 5.0",
+    "Category": "Items",
+    "Item Type": "Ring"
+  }
+}

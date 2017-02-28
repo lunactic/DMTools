@@ -1,0 +1,12 @@
+{
+  "name": "Breastplate of Cold Resistance",
+  "id": 9733,
+  "content": "Requires Attunement\n\n\tYou have resistance to cold damage while you wear this armor.\n\n",
+  "data": {
+    "AC": "14",
+    "Source": "SRD 5.0",
+    "Weight": "20",
+    "Category": "Items",
+    "Item Type": "Medium Armor"
+  }
+}
