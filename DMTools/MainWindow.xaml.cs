@@ -22,6 +22,12 @@ namespace DMTools
             List<Item> items = ItemController.GetAllItems();
             Items _items = (Items) this.Resources["items"];
             items.ForEach(_items.Add);
+
+            List<Monster> monsters = MonsterController.GetAllMonsters();
+            Monsters _monsters = (Monsters) this.Resources["monsters"];
+            monsters.ForEach(_monsters.Add);
+
+
         }
 
 
@@ -68,17 +74,32 @@ namespace DMTools
         }
 
 
-        private void Search_Click(object sender, RoutedEventArgs e)
+        private void ItemSearch_Click(object sender, RoutedEventArgs e)
         {
             CollectionViewSource cvsItems = (CollectionViewSource) this.Resources["cvsItems"];
             cvsItems.View.Refresh();
         }
 
-        private void NameFilter(object sender, FilterEventArgs e)
+        private void MonsterSearch_Click(object sender, RoutedEventArgs e)
+        {
+            CollectionViewSource cvsItems = (CollectionViewSource)this.Resources["cvsMonsters"];
+            cvsItems.View.Refresh();
+        }
+
+        private void ItemGrid_MouseDoubleClick(object sender, System.Windows.Input.MouseButtonEventArgs e)
+        {
+
+            Console.Out.WriteLine((((DataGrid)sender).SelectedItem as Item).Name);
+            ItemDetails details = new ItemDetails(((DataGrid)sender).SelectedItem as Item);
+            details.Show();
+
+        }
+        
+        private void ItemNameFilter(object sender, FilterEventArgs e)
         {
             Item item = e.Item as Item;
 
-            if (item.Name.Contains(TxtSearch.Text))
+            if (item.Name.Contains(TxtItemSearch.Text))
             {
                 e.Accepted = true;
             }
@@ -88,12 +109,17 @@ namespace DMTools
             }
         }
 
-        private void ItemGrid_MouseDoubleClick(object sender, System.Windows.Input.MouseButtonEventArgs e)
+        private void MonsterNameFilter(object sender, FilterEventArgs e)
         {
-
-            Console.Out.WriteLine((((DataGrid)sender).SelectedItem as Item).Name);
-            ItemDetails details = new ItemDetails(((DataGrid)sender).SelectedItem as Item);
-            details.Show();
+            Monster monster = e.Item as Monster;
+            if (monster.Name.Contains(TxtMonsterSearch.Text))
+            {
+                e.Accepted = true;
+            }
+            else
+            {
+                e.Accepted = false;
+            }
 
         }
     }

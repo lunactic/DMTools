@@ -86,6 +86,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="controllers\ItemController.cs" />
+    <Compile Include="controllers\MonsterController.cs" />
     <Compile Include="controllers\NPCController.cs" />
     <Compile Include="controllers\ShopController.cs" />
     <Compile Include="ItemDetails.xaml.cs">
@@ -100,6 +101,7 @@
     <Compile Include="models\Item.cs" />
     <Compile Include="models\Items.cs" />
     <Compile Include="models\Monster.cs" />
+    <Compile Include="models\Monsters.cs" />
     <Compile Include="models\NPC.cs" />
     <Compile Include="models\Shop.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">

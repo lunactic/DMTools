@@ -10,6 +10,7 @@ namespace DMTools.models
     {
         public String Name { get; set; }
         public String Content { get; set; }
+        public String HtmlContent { get; set; }
         public String AC { get; set; }
         public String HP { get; set; }
         public int CHA { get; set; }
@@ -30,7 +31,7 @@ namespace DMTools.models
         public string Alignment { get; set; }
         public string Languages { get; set; }
         public string SavingThrows { get; set; }
-        public int ChallengeRating { get; set; }
+        public string ChallengeRating { get; set; }
         public int PassivePerception { get; set; }
     }
 }

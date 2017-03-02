@@ -8,8 +8,10 @@
         mc:Ignorable="d"
         Title="Dungeon Master Tools for DnD 5e" Height="601.457" Width="1022.25">
     <Window.Resources>
-        <models:Items x:Key="items"></models:Items>
-        <CollectionViewSource x:Key="cvsItems" Source="{StaticResource items}" Filter="NameFilter"></CollectionViewSource>
+        <models:Items x:Key="items" />
+        <models:Monsters x:Key="monsters" />
+        <CollectionViewSource x:Key="cvsItems" Source="{StaticResource items}" Filter="ItemNameFilter"/>
+        <CollectionViewSource x:Key="cvsMonsters" Source="{StaticResource monsters}" Filter="MonsterNameFilter" />
     </Window.Resources>
     <Grid>
         <TabControl x:Name="tabControl">
@@ -63,6 +65,8 @@
             </TabItem>
             <TabItem Header="Item Browser" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="85">
                 <Grid Background="#FFE5E5E5">
+                    <TextBox x:Name="TxtItemSearch" HorizontalAlignment="Left" Margin="10,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="250"/>
+                    <Button x:Name="ItemSearch" Content="Search" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="138" Height="30" Click="ItemSearch_Click"/>
                     <DataGrid x:Name="ItemGrid" Margin="10,95,10,10" IsReadOnly="True" ItemsSource="{Binding Source={StaticResource cvsItems}}" AutoGenerateColumns="False" MouseDoubleClick="ItemGrid_MouseDoubleClick">
                         <DataGrid.Columns>
                             <DataGridTextColumn Header="Name" Binding="{Binding Name}"/>
@@ -71,8 +75,20 @@
                             <DataGridTextColumn Header="Weight" Binding="{Binding Weight}"/>
                         </DataGrid.Columns>
                     </DataGrid>
-                    <TextBox x:Name="TxtSearch" HorizontalAlignment="Left" Margin="10,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="250"/>
-                    <Button x:Name="Search" Content="Search" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="138" Height="30" Click="Search_Click"/>
+                               </Grid>
+            </TabItem>
+            <TabItem Header="Monster Browser" IsSelected="False">
+                <Grid Background="#FFE5E5E5">
+                    <TextBox x:Name="TxtMonsterSearch" HorizontalAlignment="Left" Margin="10,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="250"/>
+                    <Button x:Name="MonsterSearch" Content="Search" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="138" Height="30" Click="MonsterSearch_Click" />
+                    <DataGrid x:Name="MonsterGrid" Margin="10,95,10,10" IsReadOnly="True" ItemsSource="{Binding Source={StaticResource cvsMonsters}}" AutoGenerateColumns="False">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Name" Binding="{Binding Name}"/>
+                            <DataGridTextColumn Header="Type" Binding="{Binding Type}"/>
+                            <DataGridTextColumn Header="Challenge Rating" Binding="{Binding ChallengeRating}"/>
+                            <DataGridTextColumn Header="¨Size" Binding="{Binding Size}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
                 </Grid>
             </TabItem>
 
