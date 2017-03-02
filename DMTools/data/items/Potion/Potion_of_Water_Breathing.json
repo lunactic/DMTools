@@ -2,6 +2,7 @@
   "name": "Potion of Water Breathing",
   "id": 10071,
   "content": "You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.\n\n",
+  "htmlcontent": "You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "0.5",

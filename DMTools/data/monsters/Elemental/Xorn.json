@@ -1,0 +1,30 @@
+{
+  "name": "Xorn",
+  "id": 12213,
+  "content": " Traits\n\n**Earth Glide**: The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.\n\n**Stone Camouflage**: The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\n\n**Treasure Sense**: The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 ft. of it.\n\n Actions\n\n**Multiattack**: The xorn makes three claw attacks and one bite attack.\n\n**Bite**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) piercing damage.\n\n**Claw**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Earth Glide</strong>: The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.<br><br><strong>Stone Camouflage</strong>: The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.<br><br><strong>Treasure Sense</strong>: The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 ft. of it.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The xorn makes three claw attacks and one bite attack.<br><br><strong>Bite</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) piercing damage.<br><br><strong>Claw</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.<br><br>",
+  "data": {
+    "AC": "19 (Natural Armor)",
+    "HP": "73 (7d8+42)",
+    "CHA": "11",
+    "CON": "22",
+    "DEX": "10",
+    "INT": "11",
+    "STR": "17",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Elemental",
+    "Speed": "20 ft., burrow 20 ft.",
+    "Roll 0": "Bite\n1d20 + 6\n3d6+3",
+    "Roll 1": "Claw\n1d20 + 6\n1d6+3",
+    "Senses": "Darkvision 60 Ft., Tremorsense 60 Ft.",
+    "Skills": "Perception +6, Stealth +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral",
+    "Languages": "Terran",
+    "Resistances": "Piercing And Slashing From Nonmagical Weapons That Aren't Adamantine",
+    "Challenge Rating": "5",
+    "Passive Perception": "16"
+  }
+}

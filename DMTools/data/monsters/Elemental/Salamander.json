@@ -1,0 +1,31 @@
+{
+  "name": "Salamander",
+  "id": 12148,
+  "content": " Traits\n\n**Heated Body**: A creature that touches the salamander or hits it with a melee attack while within 5 ft. of it takes 7 (2d6) fire damage.\n\n**Heated Weapons**: Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).\n\n Actions\n\n**Multiattack**: The salamander makes two attacks: one with its spear and one with its tail.\n\n**Spear**: Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.\n\n**Tail**: Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Heated Body</strong>: A creature that touches the salamander or hits it with a melee attack while within 5 ft. of it takes 7 (2d6) fire damage.<br><br><strong>Heated Weapons</strong>: Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).<br><br><h2>Actions</h2><strong>Multiattack</strong>: The salamander makes two attacks: one with its spear and one with its tail.<br><br><strong>Spear</strong>: Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.<br><br><strong>Tail</strong>: Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.<br><br>",
+  "data": {
+    "AC": "15 (Natural Armor)",
+    "HP": "90 (12d10+24)",
+    "CHA": "12",
+    "CON": "15",
+    "DEX": "14",
+    "INT": "11",
+    "STR": "18",
+    "WIS": "10",
+    "Size": "Large",
+    "Type": "Elemental",
+    "Speed": "30 ft.",
+    "Roll 0": "Spear\n1d20 + 7\n2d6+4",
+    "Roll 1": "Tail\n1d20 + 7\n2d6+4+2d6",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "Ignan",
+    "Immunities": "Fire",
+    "Resistances": "Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Vulnerabilities": "Cold",
+    "Challenge Rating": "5",
+    "Passive Perception": "10"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Magmin",
+  "id": 12094,
+  "content": " Traits\n\n**Death Burst**: When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 ft. of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.\n\n**Ignited Illumination**: As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 ft.\n\n Actions\n\n**Touch**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the creature takes 3 (1d6) fire damage at the end of each of its turns.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Death Burst</strong>: When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 ft. of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.<br><br><strong>Ignited Illumination</strong>: As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 ft.<br><br><h2>Actions</h2><strong>Touch</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the creature takes 3 (1d6) fire damage at the end of each of its turns.<br><br>",
+  "data": {
+    "AC": "14 (Natural Armor)",
+    "HP": "9 (2d6+2)",
+    "CHA": "10",
+    "CON": "12",
+    "DEX": "15",
+    "INT": "8",
+    "STR": "7",
+    "WIS": "11",
+    "Size": "Small",
+    "Type": "Elemental",
+    "Speed": "30 ft.",
+    "Roll 0": "Touch\n1d20 + 4\n2d6",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Neutral",
+    "Languages": "Ignan",
+    "Immunities": "Fire",
+    "Resistances": "Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "10"
+  }
+}

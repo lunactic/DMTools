@@ -1,0 +1,31 @@
+{
+  "name": "Sahuagin",
+  "id": 12147,
+  "content": " Traits\n\n**Blood Frenzy**: The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.\n\n**Limited Amphibiousness**: The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.\n\n**Shark Telepathy**: The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.\n\n Actions\n\n**Multiattack**: The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.\n\n**Bite**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.\n\n**Claws**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.\n\n**Spear**: Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Blood Frenzy</strong>: The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.<br><br><strong>Limited Amphibiousness</strong>: The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.<br><br><strong>Shark Telepathy</strong>: The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.<br><br><strong>Bite</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.<br><br><strong>Spear</strong>: Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.<br><br>",
+  "data": {
+    "AC": "12 (Natural Armor)",
+    "HP": "22 (4d8+4)",
+    "CHA": "9",
+    "CON": "12",
+    "DEX": "11",
+    "INT": "12",
+    "STR": "13",
+    "WIS": "13",
+    "Size": "Medium",
+    "Type": "Humanoid (Sahuagin)",
+    "Speed": "30 ft., swim 40 ft.",
+    "Roll 0": "Bite\n1d20 + 3\n1d4+1",
+    "Roll 1": "Claws\n1d20 + 3\n1d4+1",
+    "Roll 2": "One Handed\n1d20 + 3\n1d6+1",
+    "Roll 3": "Two Handed\n1d20 + 3\n1d8+1",
+    "Senses": "Darkvision 120 Ft.",
+    "Skills": "Perception +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Sahuagin",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "15"
+  }
+}

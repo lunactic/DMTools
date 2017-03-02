@@ -2,6 +2,7 @@
   "name": "Sickle +3",
   "id": 10181,
   "content": "\tYou have a +3 bonus to attack and damage rolls made with this weapon.\n\n",
+  "htmlcontent": "\tYou have a +3 bonus to attack and damage rolls made with this weapon.<br><br>",
   "data": {
     "Damage": "1d4",
     "Source": "SRD 5.0",

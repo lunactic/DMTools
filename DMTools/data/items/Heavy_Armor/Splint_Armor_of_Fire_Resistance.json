@@ -2,6 +2,7 @@
   "name": "Splint Armor of Fire Resistance",
   "id": 10213,
   "content": "Requires Attunement\n\n\tYou have resistance to fire damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to fire damage while you wear this armor.<br><br>",
   "data": {
     "AC": "17",
     "Source": "SRD 5.0",

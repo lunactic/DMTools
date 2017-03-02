@@ -1,0 +1,26 @@
+{
+  "name": "Frog",
+  "id": 12012,
+  "content": "A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog’s statistics can also be used to represent a toad. \n\n Traits\n\n**Amphibious**: The frog can breathe air and water\n\n**Standing Leap**: The frog's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start.\n\n ",
+  "htmlcontent": "A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog’s statistics can also be used to represent a toad. \n\n<h2>Traits</h2><strong>Amphibious</strong>: The frog can breathe air and water<br><br><strong>Standing Leap</strong>: The frog's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start.<br><br>",
+  "data": {
+    "AC": "11",
+    "HP": "1 (1d4-1)",
+    "CHA": "3",
+    "CON": "8",
+    "DEX": "13",
+    "INT": "1",
+    "STR": "1",
+    "WIS": "8",
+    "Size": "Tiny",
+    "Type": "Beast",
+    "Speed": "20 ft., swim 20 ft.",
+    "Senses": "Darkvision 30 Ft.",
+    "Skills": "Perception +1, Stealth +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "11"
+  }
+}

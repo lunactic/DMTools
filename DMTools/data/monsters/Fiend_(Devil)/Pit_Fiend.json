@@ -1,0 +1,31 @@
+{
+  "name": "Pit Fiend",
+  "id": 12124,
+  "content": " Traits\n\n**Fear Aura**: Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.\n\n**Magic Resistance**: The pit fiend has advantage on saving throws against spells and other magical effects.\n\n**Magic Weapons**: The pit fiend's weapon attacks are magical.\n\n**Innate Spellcasting**: The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components: \nAt will: detect magic, fireball\n3/day each: hold monster, wall of fire\n\n\n\n Actions\n\n**Multiattack**: The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.\n\n**Bite**: Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can’t regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n\n**Claw**: Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage.\n\n**Mace**: Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.\n\n**Tail**: Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.\n\n\n\n**Variant: Summon Devil (1/Day)**: The devil chooses what to summon and attempts a magical summoning. \n\nA pit fiend summons 2d4 bearded devils, 1d4 barbed devils, or one erinyes with no chance of failure.\n\nA summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can’t summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Fear Aura</strong>: Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.<br><br><strong>Magic Resistance</strong>: The pit fiend has advantage on saving throws against spells and other magical effects.<br><br><strong>Magic Weapons</strong>: The pit fiend's weapon attacks are magical.<br><br><strong>Innate Spellcasting</strong>: The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components: <br>At will: detect magic, fireball<br>3/day each: hold monster, wall of fire<br><br><h2>Actions</h2><strong>Multiattack</strong>: The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.<br><br><strong>Bite</strong>: Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can’t regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.<br><br><strong>Claw</strong>: Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage.<br><br><strong>Mace</strong>: Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.<br><br><strong>Tail</strong>: Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.<br><br><strong>Variant: Summon Devil (1/Day)</strong>: The devil chooses what to summon and attempts a magical summoning. \n\nA pit fiend summons 2d4 bearded devils, 1d4 barbed devils, or one erinyes with no chance of failure.\n\nA summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can’t summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.<br>",
+  "data": {
+    "AC": "19 (Natural Armor)",
+    "HP": "300 (24d10+168)",
+    "CHA": "24",
+    "CON": "24",
+    "DEX": "14",
+    "INT": "22",
+    "STR": "26",
+    "WIS": "18",
+    "Size": "Large",
+    "Type": "Fiend (Devil)",
+    "Speed": "30 ft., fly 60 ft.",
+    "Senses": "Truesight 120 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Infernal, Telepathy 120 Ft.",
+    "Immunities": "Fire, Poison",
+    "Spell Book": "Detect Magic, Fireball, Hold Monster, Wall Of Fire",
+    "Resistances": "Cold; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered",
+    "Saving Throws": "Dex +8, Con +13, Wis +10",
+    "Challenge Rating": "20",
+    "Passive Perception": "14",
+    "Condition Immunities": "Poisoned"
+  }
+}

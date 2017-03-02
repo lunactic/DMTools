@@ -1,0 +1,26 @@
+{
+  "name": "Cat",
+  "id": 11966,
+  "content": " Traits\n\n**Keen Smell**: The cat has advantage on Wisdom (Perception) checks that rely on smell.\n\n Actions\n\n**Claws**: Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Smell</strong>: The cat has advantage on Wisdom (Perception) checks that rely on smell.<br><br><h2>Actions</h2><strong>Claws</strong>: Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "2 (1d4)",
+    "CHA": "7",
+    "CON": "10",
+    "DEX": "15",
+    "INT": "3",
+    "STR": "3",
+    "WIS": "12",
+    "Size": "Tiny",
+    "Type": "Beast",
+    "Speed": "40 ft., climb 30 ft.",
+    "Roll 0": "Claws\n1d20 + 0\n1",
+    "Skills": "Perception +3, Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "13"
+  }
+}

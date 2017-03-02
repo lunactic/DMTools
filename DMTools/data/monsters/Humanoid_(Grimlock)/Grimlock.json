@@ -1,0 +1,29 @@
+{
+  "name": "Grimlock",
+  "id": 12060,
+  "content": " Traits\n\n**Blind Senses**: The grimlock can't use its blindsight while deafened and unable to smell.\n\n**Keen Hearing and Smell**: The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.\n\n**Stone Camouflage**: The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\n\n Actions\n\n**Spiked Bone Club**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Blind Senses</strong>: The grimlock can't use its blindsight while deafened and unable to smell.<br><br><strong>Keen Hearing and Smell</strong>: The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br><strong>Stone Camouflage</strong>: The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.<br><br><h2>Actions</h2><strong>Spiked Bone Club</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.<br><br>",
+  "data": {
+    "AC": "11",
+    "HP": "11 (2d8+2)",
+    "CHA": "6",
+    "CON": "12",
+    "DEX": "12",
+    "INT": "9",
+    "STR": "16",
+    "WIS": "8",
+    "Size": "Medium",
+    "Type": "Humanoid (Grimlock)",
+    "Speed": "30 ft.",
+    "Roll 0": "Spiked Bone Club\n1d20 + 5\n1d4+5+1d4",
+    "Senses": "Blindsight 30 Ft. Or 10 Ft. While Deafened (Blind Beyond This Radius)",
+    "Skills": "Athletics +5, Perception +3, Stealth +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "Undercommon",
+    "Immunities": "Blinded",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "13"
+  }
+}

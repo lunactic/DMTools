@@ -1,0 +1,27 @@
+{
+  "name": "Cultist",
+  "id": 11982,
+  "content": "Cultists swear allegiance to dark powers such as  elemental princes, demon lords, or archdevils. Most  conceal their loyalties to avoid being ostracized,  imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their  beliefs and practices.\n \n\n Traits\n\n**Dark Devotion**: The cultist has advantage on saving throws against being charmed or frightened.\n\n Actions\n\n**Scimitar**: Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.\n\n  ",
+  "htmlcontent": "Cultists swear allegiance to dark powers such as  elemental princes, demon lords, or archdevils. Most  conceal their loyalties to avoid being ostracized,  imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their  beliefs and practices.<br><h2>Traits</h2><strong>Dark Devotion</strong>: The cultist has advantage on saving throws against being charmed or frightened.<br><br><h2>Actions</h2><strong>Scimitar</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage.<br><br>",
+  "data": {
+    "AC": "12 (Leather Armor)",
+    "HP": "9 (2d8)",
+    "CHA": "10",
+    "CON": "10",
+    "DEX": "12",
+    "INT": "10",
+    "STR": "11",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 3\n1d6+1",
+    "Skills": "Deception +2, Religion +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Non-good Alignment",
+    "Languages": "Any One Language (Usually Common)",
+    "Challenge Rating": "1/8",
+    "Passive Perception": "10"
+  }
+}

@@ -2,6 +2,7 @@
   "name": "Splint Armor",
   "id": 10221,
   "content": "This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.\n\n",
+  "htmlcontent": "This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.<br><br>",
   "data": {
     "AC": "17",
     "Source": "SRD 5.0",

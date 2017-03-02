@@ -2,6 +2,7 @@
   "name": "Barrel",
   "id": 9703,
   "content": "A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.\n\n",
+  "htmlcontent": "A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "70",

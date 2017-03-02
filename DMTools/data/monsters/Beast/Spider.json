@@ -1,0 +1,27 @@
+{
+  "name": "Spider",
+  "id": 12162,
+  "content": " Traits\n\n**Spider Climb**: The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\n\n**Web Sense**: While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.\n\n**Web Walker**: The spider ignores movement restrictions caused by webbing.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Spider Climb</strong>: The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.<br><br><strong>Web Sense</strong>: While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.<br><br><strong>Web Walker</strong>: The spider ignores movement restrictions caused by webbing.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "1 (1d4-1)",
+    "CHA": "2",
+    "CON": "8",
+    "DEX": "14",
+    "INT": "1",
+    "STR": "2",
+    "WIS": "10",
+    "Size": "Tiny",
+    "Type": "Beast",
+    "Speed": "20 ft., climb 20 ft.",
+    "Roll 0": "Bite\n1d20 + 4\n1",
+    "Senses": "Darkvision 30 Ft.",
+    "Skills": "Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "12"
+  }
+}

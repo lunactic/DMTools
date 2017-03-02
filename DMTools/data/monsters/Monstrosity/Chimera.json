@@ -1,0 +1,31 @@
+{
+  "name": "Chimera",
+  "id": 11969,
+  "content": " Actions\n\n**Multiattack**: The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.\n\n**Bite**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.\n\n**Horns**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) bludgeoning damage.\n\n**Claws**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.\n\n**Fire Breath (Recharge 5-6)**: The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Multiattack</strong>: The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.<br><br><strong>Bite</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.<br><br><strong>Horns</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) bludgeoning damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.<br><br><strong>Fire Breath (Recharge 5-6)</strong>: The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "14 (Natural Armor)",
+    "HP": "114 (12d10+48)",
+    "CHA": "10",
+    "CON": "19",
+    "DEX": "11",
+    "INT": "3",
+    "STR": "19",
+    "WIS": "14",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "30 ft., fly 60 ft.",
+    "Roll 0": "\n1d20 + 7\n2d6+4",
+    "Roll 1": "\n1d20 + 7\n1d12+4",
+    "Roll 2": "\n1d20 + 7\n2d6+4",
+    "Roll 3": "\n1d20 + 0\n7d8",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +8",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Understands Draconic But Can't Speak",
+    "Challenge Rating": "6",
+    "Passive Perception": "18"
+  }
+}

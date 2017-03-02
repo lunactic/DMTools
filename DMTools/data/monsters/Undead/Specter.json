@@ -1,0 +1,30 @@
+{
+  "name": "Specter",
+  "id": 12161,
+  "content": " Traits\n\n**Incorporeal Movement**: The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.\n\n**Sunlight Sensitivity**: While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.\n\n Actions\n\n**Life Drain**: Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Incorporeal Movement</strong>: The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.<br><br><strong>Sunlight Sensitivity</strong>: While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.<br><br><h2>Actions</h2><strong>Life Drain</strong>: Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "22 (5d8)",
+    "CHA": "11",
+    "CON": "11",
+    "DEX": "14",
+    "INT": "10",
+    "STR": "1",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Undead",
+    "Speed": "0 ft., fly 50 ft. (hover)",
+    "Roll 0": "\n1d20 + 4\n3d6",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Understands All Languages It Knew In Life But Can't Speak",
+    "Immunities": "Necrotic, Poison",
+    "Resistances": "Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Challenge Rating": "1",
+    "Passive Perception": "10",
+    "Condition Immunities": "Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious"
+  }
+}

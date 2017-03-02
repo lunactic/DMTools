@@ -2,6 +2,7 @@
   "name": "Scholar's Pack",
   "id": 10158,
   "content": "Includes:\n\n• a backpack\n\n• a book of lore\n\n• a bottle of ink\n\n• an ink pen\n\n• 10 sheets of parchment\n\n• a little bag of sand\n\n• a small knife.\n\n",
+  "htmlcontent": "Includes:<br><br>• a backpack<br><br>• a book of lore<br><br>• a bottle of ink<br><br>• an ink pen<br><br>• 10 sheets of parchment<br><br>• a little bag of sand<br><br>• a small knife.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "10",

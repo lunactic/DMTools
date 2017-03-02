@@ -1,0 +1,32 @@
+{
+  "name": "Young Bronze Dragon",
+  "id": 12217,
+  "content": " Traits\n\n**Amphibious**: The dragon can breathe air and water.\n\n Actions\n\n**Multiattack**: The dragon makes three attacks: one with its bite and two with its claws.\n\n**Bite**: Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.\n\n**Claw**: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.\n\n**Breath Weapons (Recharge 5-6)**: The dragon uses one of the following breath weapons.\nLightning Breath. The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.\nRepulsion Breath. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Amphibious</strong>: The dragon can breathe air and water.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The dragon makes three attacks: one with its bite and two with its claws.<br><br><strong>Bite</strong>: Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.<br><br><strong>Claw</strong>: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.<br><br><strong>Breath Weapons (Recharge 5-6)</strong>: The dragon uses one of the following breath weapons.<br>Lightning Breath. The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.<br>Repulsion Breath. The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.<br><br>",
+  "data": {
+    "AC": "18 (Natural Armor)",
+    "HP": "142 (15d10+60)",
+    "CHA": "17",
+    "CON": "19",
+    "DEX": "10",
+    "INT": "14",
+    "STR": "21",
+    "WIS": "13",
+    "Size": "Large",
+    "Type": "Dragon",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Roll 0": "Bite\n1d20 + 8\n2d10+5",
+    "Roll 1": "Claw\n1d20 + 8\n2d6+5",
+    "Roll 2": "Lightning Breath\n1d20 + 0\n10d10",
+    "Senses": "Blindsight 30 Ft., Darkvision 120 Ft.",
+    "Skills": "Insight +4, Perception +7, Stealth +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Good",
+    "Languages": "Common, Draconic",
+    "Immunities": "Lightning",
+    "Saving Throws": "Dex +3, Con +7, Wis +4, Cha +6",
+    "Challenge Rating": "8",
+    "Passive Perception": "17"
+  }
+}

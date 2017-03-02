@@ -1,0 +1,28 @@
+{
+  "name": "Giant Elk",
+  "id": 12028,
+  "content": "The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath. \n\n Traits\n\n**Charge**: If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.\n\n Actions\n\n**Ram**: Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.\n\n**Hooves**: Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. Hit: 22 (4d8 + 4) bludgeoning damage.\n\n  ",
+  "htmlcontent": "The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath. \n\n<h2>Traits</h2><strong>Charge</strong>: If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.<br><br><h2>Actions</h2><strong>Ram</strong>: Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.<br><br><strong>Hooves</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one prone creature. Hit: 22 (4d8 + 4) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "14 (Natural Armor)",
+    "HP": "42 (5d12+10)",
+    "CHA": "10",
+    "CON": "14",
+    "DEX": "16",
+    "INT": "7",
+    "STR": "19",
+    "WIS": "14",
+    "Size": "Huge",
+    "Type": "Beast",
+    "Speed": "60 ft.",
+    "Roll 0": "Ram\n1d20 + 6\n2d6+4",
+    "Roll 1": "Hooves\n1d20 + 6\n4d8+4",
+    "Skills": "Perception +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Languages": "Giant Elk, Understands Common, Elvish, And Sylvan But Can't Speak",
+    "Challenge Rating": "2",
+    "Passive Perception": "14"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Gray Ooze",
+  "id": 12055,
+  "content": " Traits\n\n**Amorphous**: The ooze can move through a space as narrow as 1 inch wide without squeezing.\n\n**Corrode Metal**: Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.\nThe ooze can eat through 2-inch-thick, nonmagical metal in 1 round.\n\n**False Appearance**: While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.\n\n Actions\n\n**Pseudopod**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Amorphous</strong>: The ooze can move through a space as narrow as 1 inch wide without squeezing.<br><br><strong>Corrode Metal</strong>: Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.<br>The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.<br><br><strong>False Appearance</strong>: While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.<br><br><h2>Actions</h2><strong>Pseudopod</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.<br><br>",
+  "data": {
+    "AC": "8",
+    "HP": "22 (3d8+9)",
+    "CHA": "2",
+    "CON": "16",
+    "DEX": "6",
+    "INT": "1",
+    "STR": "12",
+    "WIS": "6",
+    "Size": "Medium",
+    "Type": "Ooze",
+    "Speed": "10 ft., climb 10 ft.",
+    "Roll 0": "\n1d20 + 3\n1d6+1",
+    "Senses": "Blindsight 60 Ft. (Blind Beyond This Radius)",
+    "Skills": "Stealth +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Resistances": "Acid, Cold, Fire",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "8",
+    "Condition Immunities": "Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cockatrice",
+  "id": 11974,
+  "content": " Actions\n\n**Bite**: Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.<br><br>",
+  "data": {
+    "AC": "11",
+    "HP": "27 (6d6+6)",
+    "CHA": "5",
+    "CON": "12",
+    "DEX": "12",
+    "INT": "2",
+    "STR": "6",
+    "WIS": "13",
+    "Size": "Small",
+    "Type": "Monstrosity",
+    "Speed": "20 ft., fly 40 ft.",
+    "Roll 0": "\n1d20 + 3\n1d4+1",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "11"
+  }
+}

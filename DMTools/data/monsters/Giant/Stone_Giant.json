@@ -1,0 +1,30 @@
+{
+  "name": "Stone Giant",
+  "id": 12168,
+  "content": " Traits\n\n**Stone Camouflage**: The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\n\n Actions\n\n**Multiattack**: The giant makes two greatclub attacks.\n\n**Greatclub**: Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.\n\n**Rock**: Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.\n\n Reactions\n\n**Rock Catching**: If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.\n\n   ",
+  "htmlcontent": "<h2>Traits</h2><strong>Stone Camouflage</strong>: The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The giant makes two greatclub attacks.<br><br><strong>Greatclub</strong>: Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.<br><br><strong>Rock</strong>: Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.<br><br><h2>Reactions</h2><strong>Rock Catching</strong>: If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.<br><br>",
+  "data": {
+    "AC": "17 (Natural Armor)",
+    "HP": "126 (11d12+55)",
+    "CHA": "9",
+    "CON": "20",
+    "DEX": "15",
+    "INT": "10",
+    "STR": "23",
+    "WIS": "12",
+    "Size": "Huge",
+    "Type": "Giant",
+    "Speed": "40 ft.",
+    "Roll 0": "\n1d20 + 9\n3d8+6",
+    "Roll 1": "\n1d20 + 9\n4d10+6",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Athletics +12, Perception +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral",
+    "Languages": "Giant",
+    "Saving Throws": "Dex +5, Con +8, Wis +4",
+    "Challenge Rating": "7",
+    "Passive Perception": "14"
+  }
+}

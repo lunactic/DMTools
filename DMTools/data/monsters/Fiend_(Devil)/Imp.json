@@ -1,0 +1,31 @@
+{
+  "name": "Imp",
+  "id": 12078,
+  "content": " Traits\n\n**Shapechanger**: The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.\n\n**Devil's Sight**: Magical darkness doesn't impede the imp's darkvision.\n\n**Magic Resistance**: The imp has advantage on saving throws against spells and other magical effects.\n\n**Variant: Familiar**: The imp can serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the quasit senses as long as they are within 1 mile of each other. While the imp is within 10 feet of its master, the master shares the quasit's Magic Resistance trait. At any time and for any reason, the imp can end its service as a familiar, ending the telepathic bond.\n\n Actions\n\n**Sting (Bite in Beast Form)**: Melee Weapon Attack: +5 to hit, reach 5 ft ., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.\n\n**Invisibility**: The imp magically turns invisible until it attacks, or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Shapechanger</strong>: The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.<br><br><strong>Devil's Sight</strong>: Magical darkness doesn't impede the imp's darkvision.<br><br><strong>Magic Resistance</strong>: The imp has advantage on saving throws against spells and other magical effects.<br><br><strong>Variant: Familiar</strong>: The imp can serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the quasit senses as long as they are within 1 mile of each other. While the imp is within 10 feet of its master, the master shares the quasit's Magic Resistance trait. At any time and for any reason, the imp can end its service as a familiar, ending the telepathic bond.<br><br><h2>Actions</h2><strong>Sting (Bite in Beast Form)</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft ., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.<br><br><strong>Invisibility</strong>: The imp magically turns invisible until it attacks, or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.<br><br>",
+  "data": {
+    "AC": "13",
+    "HP": "10 (3d4+3)",
+    "CHA": "14",
+    "CON": "13",
+    "DEX": "17",
+    "INT": "11",
+    "STR": "6",
+    "WIS": "12",
+    "Size": "Tiny",
+    "Type": "Fiend (Devil)",
+    "Speed": "20 ft., fly 40 ft.",
+    "Roll 0": "Sting/Bite\n1d20 + 5\n1d4+3",
+    "Senses": "Darkvision 120 Ft.",
+    "Skills": "Deception +4, Insight +3, Persuasion +4, Stealth +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Infernal, Common",
+    "Immunities": "Fire, Poison",
+    "Resistances": "Cold; Bludgeoning, Piercing, And Slashing From Nonmagical/nonsilver Weapons",
+    "Challenge Rating": "1",
+    "Passive Perception": "11",
+    "Condition Immunities": "Poisoned"
+  }
+}

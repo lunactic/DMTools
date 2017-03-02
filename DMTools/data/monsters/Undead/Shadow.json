@@ -1,0 +1,31 @@
+{
+  "name": "Shadow",
+  "id": 12154,
+  "content": " Traits\n\n**Amorphous**: The shadow can move through a space as narrow as 1 inch wide without squeezing.\n\n**Shadow Stealth**: While in dim light or darkness, the shadow can take the Hide action as a bonus action. Its stealth bonus is also improved to +6.\n\n**Sunlight Weakness**: While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.\n\n Actions\n\n**Strength Drain**: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.\nIf a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Amorphous</strong>: The shadow can move through a space as narrow as 1 inch wide without squeezing.<br><br><strong>Shadow Stealth</strong>: While in dim light or darkness, the shadow can take the Hide action as a bonus action. Its stealth bonus is also improved to +6.<br><br><strong>Sunlight Weakness</strong>: While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.<br><br><h2>Actions</h2><strong>Strength Drain</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.<br>If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "16 (3d8+3)",
+    "CHA": "8",
+    "CON": "13",
+    "DEX": "14",
+    "INT": "6",
+    "STR": "6",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Undead",
+    "Speed": "40 ft.",
+    "Roll 0": "Strength Drain\n1d20 + 4\n2d6+2",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Immunities": "Necrotic, Poison",
+    "Resistances": "Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Vulnerabilities": "Radiant",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "10",
+    "Condition Immunities": "Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained"
+  }
+}

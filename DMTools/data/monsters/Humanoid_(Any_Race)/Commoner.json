@@ -1,0 +1,26 @@
+{
+  "name": "Commoner",
+  "id": 11975,
+  "content": "Commoners include peasants, serfs, slaves, servants,  pilgrims, merchants, artisans, and hermits.\n\n\n Actions\n\n**Club**: Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.\n\n ",
+  "htmlcontent": "Commoners include peasants, serfs, slaves, servants,  pilgrims, merchants, artisans, and hermits.<br><h2>Actions</h2><strong>Club</strong>: Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "10",
+    "HP": "4 (1d8)",
+    "CHA": "10",
+    "CON": "10",
+    "DEX": "10",
+    "INT": "10",
+    "STR": "10",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 2\n1d4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Any One Language (Usually Common)",
+    "Challenge Rating": "0",
+    "Passive Perception": "10"
+  }
+}

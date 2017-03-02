@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DMTools.models;
+using Markdig;
 using Newtonsoft.Json;
 
 namespace DMTools.controllers
@@ -21,7 +22,8 @@ namespace DMTools.controllers
             if (!initialized)
             {
                 var itemsDirectory = Directory.GetDirectories(Path.Combine(Environment.CurrentDirectory, @"data\items"));
-
+                var pipeline = new MarkdownPipelineBuilder().UseAdvancedExtensions().Build();
+          
                 foreach (var directory in itemsDirectory)
                 {
                     var files = Directory.GetFiles(directory);
@@ -36,7 +38,8 @@ namespace DMTools.controllers
                             item.Weight = content.data.Weight != null ? double.Parse((string) content.data.Weight) : 0;
                             item.Category = (string) content.data.Category;
                             item.Type = (string) content.data["Item Type"];
-                            item.Description = (string) content.content;
+                            item.Description = Markdown.ToHtml((string) content.content,pipeline);
+                            item.HtmlContent = (string) content.htmlcontent;
                             allItems.Add(item);
                         }
                     }

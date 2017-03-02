@@ -2,6 +2,7 @@
   "name": "Chest",
   "id": 9784,
   "content": "A chest holds 12 cubic feet or 300 pounds of gear.\n\n",
+  "htmlcontent": "A chest holds 12 cubic feet or 300 pounds of gear.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "25",

@@ -1,0 +1,30 @@
+{
+  "name": "Lamia",
+  "id": 12086,
+  "content": " Traits\n\n**Innate Spellcasting**: The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components. At will: disguise self (any humanoid form), major image 3/day each: charm person, mirror image, scrying, suggestion 1/day: geas\n\n Actions\n\n**Multiattack**: The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.\n\n**Claws**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) slashing damage.\n\n**Dagger**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.\n\n**Intoxicating Touch**: Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Innate Spellcasting</strong>: The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components. At will: disguise self (any humanoid form), major image 3/day each: charm person, mirror image, scrying, suggestion 1/day: geas<br><br><h2>Actions</h2><strong>Multiattack</strong>: The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.<br><br><strong>Claws</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) slashing damage.<br><br><strong>Dagger</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.<br><br><strong>Intoxicating Touch</strong>: Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "97 (13d10+26)",
+    "CHA": "16",
+    "CON": "15",
+    "DEX": "13",
+    "INT": "14",
+    "STR": "16",
+    "WIS": "15",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "30 ft.",
+    "Roll 0": "Claws\n1d20 + 5\n2d10+3",
+    "Roll 1": "Dagger\n1d20 + 5\n1d4+3",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Deception +7, Insight +4, Stealth +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Abyssal, Common",
+    "Spell Book": "Disguise Self, Major Image, Charm Person, Mirror Image, Scrying, Suggestion, Geas",
+    "Challenge Rating": "4",
+    "Passive Perception": "12"
+  }
+}

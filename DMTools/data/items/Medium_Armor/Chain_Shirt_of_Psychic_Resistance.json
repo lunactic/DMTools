@@ -2,6 +2,7 @@
   "name": "Chain Shirt of Psychic Resistance",
   "id": 9780,
   "content": "Requires Attunement\n\n\tYou have resistance to psychic damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to psychic damage while you wear this armor.<br><br>",
   "data": {
     "AC": "13",
     "Source": "SRD 5.0",

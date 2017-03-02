@@ -2,6 +2,7 @@
   "name": "Crystal Ball",
   "id": 9799,
   "content": "Requires Attunement\n\nThis crystal ball is about 6 inches in diameter. While touching it, you can cast the scrying spell (save DC 17) with it.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>This crystal ball is about 6 inches in diameter. While touching it, you can cast the scrying spell (save DC 17) with it.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "3",

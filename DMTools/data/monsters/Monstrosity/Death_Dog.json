@@ -1,0 +1,27 @@
+{
+  "name": "Death Dog",
+  "id": 11984,
+  "content": "A death dog is an ugly two-headed hound that roams plains, and deserts. Hate burns in a death  dog’s heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim’s flesh to slowly rot off the bone.\n \n Traits\n\n**Two-Headed**: The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.\n\n Actions\n\n**Multiattack**: The dog makes two bite attacks.\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.\n\n  ",
+  "htmlcontent": "A death dog is an ugly two-headed hound that roams plains, and deserts. Hate burns in a death  dog’s heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim’s flesh to slowly rot off the bone.<br><h2>Traits</h2><strong>Two-Headed</strong>: The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The dog makes two bite attacks.<br><br><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "39 (6d8+12)",
+    "CHA": "6",
+    "CON": "14",
+    "DEX": "14",
+    "INT": "3",
+    "STR": "15",
+    "WIS": "13",
+    "Size": "Medium",
+    "Type": "Monstrosity",
+    "Speed": "40 ft.",
+    "Roll 0": "\n1d20 + 4\n1d6+2",
+    "Senses": "Darkvision 120 Ft.",
+    "Skills": "Perception +5, Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Challenge Rating": "1",
+    "Passive Perception": "15"
+  }
+}

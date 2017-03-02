@@ -2,6 +2,7 @@
   "name": "Universal Solvent",
   "id": 10269,
   "content": "This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 1 square foot of adhesive it touches, including sovereign glue.\n\n",
+  "htmlcontent": "This tube holds milky liquid with a strong alcohol smell. You can use an action to pour the contents of the tube onto a surface within reach. The liquid instantly dissolves up to 1 square foot of adhesive it touches, including sovereign glue.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

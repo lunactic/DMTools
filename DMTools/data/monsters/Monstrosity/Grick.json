@@ -1,0 +1,28 @@
+{
+  "name": "Grick",
+  "id": 12058,
+  "content": " Traits\n\n**Stone Camouflage**: The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\n\n Actions\n\n**Multiattack**: The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.\n\n**Tentacles**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.\n\n**Beak**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Stone Camouflage</strong>: The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.<br><br><strong>Tentacles</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.<br><br><strong>Beak</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.<br><br>",
+  "data": {
+    "AC": "14 (Natural Armor)",
+    "HP": "27 (6d8)",
+    "CHA": "5",
+    "CON": "11",
+    "DEX": "14",
+    "INT": "3",
+    "STR": "14",
+    "WIS": "14",
+    "Size": "Medium",
+    "Type": "Monstrosity",
+    "Speed": "30 ft., climb 30 ft.",
+    "Roll 0": "\n1d20 + 4\n2d6+2",
+    "Roll 1": "\n1d20 + 4\n1d6+2",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral",
+    "Resistances": "Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons",
+    "Challenge Rating": "2",
+    "Passive Perception": "12"
+  }
+}

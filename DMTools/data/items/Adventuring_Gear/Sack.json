@@ -2,6 +2,7 @@
   "name": "Sack",
   "id": 10142,
   "content": "A sack can hold up to 1 cubic foot or 30 pounds of gear.\n\n",
+  "htmlcontent": "A sack can hold up to 1 cubic foot or 30 pounds of gear.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "0.5",

@@ -1,0 +1,27 @@
+{
+  "name": "Giant Shark",
+  "id": 12040,
+  "content": "A giant shark is 30 feet long and normally found in  deep oceans. Utterly fearless, it preys on anything  that crosses its path, including whales and ships.\n\n Traits\n\n**Blood Frenzy**: The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.\n\n**Water Breathing**: The shark can breathe only underwater.\n\n Actions\n\n**Bite**: Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage.\n\n  ",
+  "htmlcontent": "A giant shark is 30 feet long and normally found in  deep oceans. Utterly fearless, it preys on anything  that crosses its path, including whales and ships.\n\n<h2>Traits</h2><strong>Blood Frenzy</strong>: The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.<br><br><strong>Water Breathing</strong>: The shark can breathe only underwater.<br><br><h2>Actions</h2><strong>Bite</strong>: Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "126 (11d12+55)",
+    "CHA": "5",
+    "CON": "21",
+    "DEX": "11",
+    "INT": "1",
+    "STR": "23",
+    "WIS": "10",
+    "Size": "Huge",
+    "Type": "Beast",
+    "Speed": "Swim 50 ft.",
+    "Roll 0": "Bite\n1d20 + 9\n3d10+6",
+    "Senses": "Blindsight 60 Ft.",
+    "Skills": "Perception +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "5",
+    "Passive Perception": "13"
+  }
+}

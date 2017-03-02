@@ -1,0 +1,25 @@
+{
+  "name": "Giant Boar",
+  "id": 12022,
+  "content": " Traits\n\n**Charge**: If the boar moves at least 20 ft. straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.\n\n**Relentless (Recharges after a Short or Long Rest)**: If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.\n\n Actions\n\n**Tusk**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Charge</strong>: If the boar moves at least 20 ft. straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.<br><br><strong>Relentless (Recharges after a Short or Long Rest)</strong>: If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.<br><br><h2>Actions</h2><strong>Tusk</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.<br><br>",
+  "data": {
+    "AC": "12 (Natural Armor)",
+    "HP": "42 (5d10+5)",
+    "CHA": "5",
+    "CON": "16",
+    "DEX": "10",
+    "INT": "2",
+    "STR": "17",
+    "WIS": "7",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "40 ft.",
+    "Roll 0": "Tusk\n1d20 + 5\n2d6+3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "2",
+    "Passive Perception": "8"
+  }
+}

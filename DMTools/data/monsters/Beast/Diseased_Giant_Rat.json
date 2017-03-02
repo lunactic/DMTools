@@ -1,0 +1,27 @@
+{
+  "name": "Diseased Giant Rat",
+  "id": 12258,
+  "content": " Traits\n\n**\nKeen Smell**. The rat has advantage on Wisdom  (Perception) checks that rely on smell.\n\n**Pack Tactics**. The rat has advantage on an attack roll  against a creature if at least one of the rat’s allies is  within 5 feet of the creature and the ally isn’t  incapacitated.\n\n Actions\n\n**\nBite**. Melee Weapon Attack: +4 to hit, reach 5 ft., one  target. Hit: 4 (1d4 + 2) piercing damage. If the target is a  creature, it must succeed on a DC 10 Constitution saving  throw or contract a disease. Until the disease is cured, the  target can’t regain hit points except by magical means, and  the target’s hit point maximum decreases by 3 (1d6) every 24 \nhours. If the target’s hit point maximum drops to 0 as a result  of this disease, the target dies.  ",
+  "htmlcontent": "<h2>Traits</h2><strong>\nKeen Smell</strong>. The rat has advantage on Wisdom  (Perception) checks that rely on smell.<br><br><strong>Pack Tactics</strong>. The rat has advantage on an attack roll  against a creature if at least one of the rat’s allies is  within 5 feet of the creature and the ally isn’t  incapacitated.<br><h2>Actions</h2><strong>\nBite</strong>. Melee Weapon Attack: +4 to hit, reach 5 ft., one  target. Hit: 4 (1d4 + 2) piercing damage. If the target is a  creature, it must succeed on a DC 10 Constitution saving  throw or contract a disease. Until the disease is cured, the  target can’t regain hit points except by magical means, and  the target’s hit point maximum decreases by 3 (1d6) every 24 \nhours. If the target’s hit point maximum drops to 0 as a result  of this disease, the target dies.",
+  "data": {
+    "AC": "12",
+    "HP": "7",
+    "CHA": "4",
+    "CON": "11",
+    "DEX": "15",
+    "INT": "2",
+    "STR": "7",
+    "WIS": "10",
+    "Size": "Small",
+    "Type": "Beast",
+    "Speed": "30 ft.",
+    "Roll 0": "1d20+4\n1d4+2",
+    "Senses": "Darkvision 60 ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Hit Dice": "2d6",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/8",
+    "Passive Perception": "10"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Storm Giant",
+  "id": 12170,
+  "content": " Traits\n\n**Amphibious**: The giant can breathe air and water.\n\n**Innate Spellcasting**: The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components: \n\nAt will: detect magic, feather fall, levitate, light\n3/day each: control weather, water breathing\n\n Actions\n\n**Multiattack**: The giant makes two greatsword attacks.\n\n**Greatsword**: Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 30 (6d6 + 9) slashing damage.\n\n**Rock**: Ranged Weapon Attack: +14 to hit, range 60/240 ft., one target. Hit: 35 (4d12 + 9) bludgeoning damage.\n\n**Lightning Strike (Recharge 5-6)**: The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Amphibious</strong>: The giant can breathe air and water.<br><br><strong>Innate Spellcasting</strong>: The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components: <br><br>At will: detect magic, feather fall, levitate, light<br>3/day each: control weather, water breathing<br><br><h2>Actions</h2><strong>Multiattack</strong>: The giant makes two greatsword attacks.<br><br><strong>Greatsword</strong>: Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 30 (6d6 + 9) slashing damage.<br><br><strong>Rock</strong>: Ranged Weapon Attack: +14 to hit, range 60/240 ft., one target. Hit: 35 (4d12 + 9) bludgeoning damage.<br><br><strong>Lightning Strike (Recharge 5-6)</strong>: The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "16 (Scale Mail)",
+    "HP": "230 (20d12+100)",
+    "CHA": "18",
+    "CON": "20",
+    "DEX": "14",
+    "INT": "16",
+    "STR": "29",
+    "WIS": "18",
+    "Size": "Huge",
+    "Type": "Giant",
+    "Speed": "50 ft., swim 50 ft.",
+    "Roll 0": "Greatsword\n1d20 + 14\n6d6+9",
+    "Roll 1": "Rock\n1d20 + 14\n4d12+9",
+    "Roll 2": "Lightning Strike\n1d20 + 0\n12d8",
+    "Skills": "Arcana +8, Athletics +14, History +8, Perception +9",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Good",
+    "Languages": "Common, Giant",
+    "Immunities": "Lightning, Thunder",
+    "Spell Book": "Detect Magic, Feather Fall, Levitate, Light, Control Weather, Water Breathing",
+    "Resistances": "Cold",
+    "Saving Throws": "Str +14, Con +10, Wis +9, Cha +9",
+    "Challenge Rating": "13",
+    "Passive Perception": "19"
+  }
+}

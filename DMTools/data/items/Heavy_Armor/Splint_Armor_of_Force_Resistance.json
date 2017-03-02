@@ -2,6 +2,7 @@
   "name": "Splint Armor of Force Resistance",
   "id": 10214,
   "content": "Requires Attunement\n\n\tYou have resistance to force damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to force damage while you wear this armor.<br><br>",
   "data": {
     "AC": "17",
     "Source": "SRD 5.0",

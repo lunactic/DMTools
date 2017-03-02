@@ -1,0 +1,28 @@
+{
+  "name": "Saber-Toothed Tiger",
+  "id": 12257,
+  "content": " Traits\n\n**\nKeen Smell**. The tiger has advantage on Wisdom  (Perception) checks that rely on smell. \n\n\n\n**Pounce**. If the tiger moves at least 20 feet straight  toward a creature and then hits it with a claw attack on  the same turn, that target must succeed on a DC 14  Strength saving throw or be knocked prone. If the  target is prone, the tiger can make one bite attack  against it as a bonus action.\n \n\n Actions\n\n**\n\nBite**. Melee Weapon Attack: +6 to hit, reach 5 ft., one  target. Hit: 10 (1d10 + 5) piercing damage. \n\n**Claw**. Melee Weapon Attack: +6 to hit, reach 5 ft., one  target. Hit: 12 (2d6 + 5) slashing damage.  ",
+  "htmlcontent": "<h2>Traits</h2><strong>\nKeen Smell</strong>. The tiger has advantage on Wisdom  (Perception) checks that rely on smell. \n\n<br><br><strong>Pounce</strong>. If the tiger moves at least 20 feet straight  toward a creature and then hits it with a claw attack on  the same turn, that target must succeed on a DC 14  Strength saving throw or be knocked prone. If the  target is prone, the tiger can make one bite attack  against it as a bonus action.<br><h2>Actions</h2><strong>\n\nBite</strong>. Melee Weapon Attack: +6 to hit, reach 5 ft., one  target. Hit: 10 (1d10 + 5) piercing damage. <br><br><strong>Claw</strong>. Melee Weapon Attack: +6 to hit, reach 5 ft., one  target. Hit: 12 (2d6 + 5) slashing damage.",
+  "data": {
+    "AC": "12",
+    "HP": "52",
+    "CHA": "8",
+    "CON": "15",
+    "DEX": "14",
+    "INT": "3",
+    "STR": "18",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "40 ft.",
+    "Roll 0": "1d20+6\n1d10+5",
+    "Roll 1": "1d20+6\n2d6+5",
+    "Skills": "Perception +3, Stealth +6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Hit Dice": "7d10+14",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "2",
+    "Passive Perception": "13"
+  }
+}

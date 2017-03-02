@@ -1,0 +1,24 @@
+{
+  "name": "Elk",
+  "id": 12003,
+  "content": " Traits\n\n**Charge**: If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.\n\n Actions\n\n**Ram**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.\n\n**Hooves**: Melee Weapon Attack: +5 to hit, reach 5 ft., one prone creature. Hit: 8 (2d4 + 3) bludgeoning damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Charge</strong>: If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.<br><br><h2>Actions</h2><strong>Ram</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.<br><br><strong>Hooves</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one prone creature. Hit: 8 (2d4 + 3) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "10",
+    "HP": "13 (2d10+2)",
+    "CHA": "6",
+    "CON": "12",
+    "DEX": "10",
+    "INT": "2",
+    "STR": "16",
+    "WIS": "10",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "50 ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "10"
+  }
+}

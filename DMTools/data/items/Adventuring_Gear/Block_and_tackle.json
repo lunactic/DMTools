@@ -2,6 +2,7 @@
   "name": "Block and tackle",
   "id": 12510,
   "content": "A set of pulleys with a cable threaded through them and a hook to attach to Objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.",
+  "htmlcontent": "A set of pulleys with a cable threaded through them and a hook to attach to Objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.",
   "data": {
     "Weight": "5",
     "Category": "Items",

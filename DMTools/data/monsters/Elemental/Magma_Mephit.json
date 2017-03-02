@@ -1,0 +1,32 @@
+{
+  "name": "Magma Mephit",
+  "id": 12093,
+  "content": " Traits\n\n**Death Burst**: When the mephit dies, it explodes in a burst of lava. Each creature within 5 ft. of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.\n\n**False Appearance**: While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.\n\n**Innate Spellcasting (1/Day)**: The mephit can innately cast heat metal (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.\n\n Actions\n\n**Claws**: Melee Weapon Attack: +3 to hit, reach 5 ft ., one creature. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.\n\n**Fire Breath (Recharge 6)**: The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.\n\n**Variant: Summon Mephits (1/Day)**: The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Death Burst</strong>: When the mephit dies, it explodes in a burst of lava. Each creature within 5 ft. of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.<br><br><strong>False Appearance</strong>: While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.<br><br><strong>Innate Spellcasting (1/Day)</strong>: The mephit can innately cast heat metal (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.<br><br><h2>Actions</h2><strong>Claws</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft ., one creature. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.<br><br><strong>Fire Breath (Recharge 6)</strong>: The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.<br><br><strong>Variant: Summon Mephits (1/Day)</strong>: The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.<br><br>",
+  "data": {
+    "AC": "11",
+    "HP": "22 (5d6+5)",
+    "CHA": "10",
+    "CON": "12",
+    "DEX": "12",
+    "INT": "7",
+    "STR": "8",
+    "WIS": "10",
+    "Size": "Small",
+    "Type": "Elemental",
+    "Speed": "30 ft., fly 30 ft.",
+    "Roll 0": "Claws\n1d20 + 3\n1d4+1",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Stealth +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "Ignan, Terran",
+    "Immunities": "Fire, Poison",
+    "Spell Book": "Heat Metal",
+    "Vulnerabilities": "Cold",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "10",
+    "Condition Immunities": "Poisoned"
+  }
+}

@@ -2,6 +2,7 @@
   "name": "Ring of Three Wishes",
   "id": 10122,
   "content": "While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the wish spell from it. The ring becomes nonmagical when you use the last charge.\n\n",
+  "htmlcontent": "While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the wish spell from it. The ring becomes nonmagical when you use the last charge.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

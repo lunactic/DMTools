@@ -2,6 +2,7 @@
   "name": "Padded Armor of Necrotic Resistance",
   "id": 10012,
   "content": "Requires Attunement\n\n\tYou have resistance to necrotic damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to necrotic damage while you wear this armor.<br><br>",
   "data": {
     "AC": "11",
     "Source": "SRD 5.0",

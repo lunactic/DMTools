@@ -1,0 +1,28 @@
+{
+  "name": "Giant Vulture",
+  "id": 12043,
+  "content": "A giant vulture has advanced intelligence and a  malevolent bent. Unlike its smaller kin, it will attack  a wounded creature to hasten its end. Giant vultures  have been known to haunt a thirsty, starving  creature for days to enjoy its suffering. \n\n Traits\n\n**Keen Sight and Smell**: The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.\n\n**Pack Tactics**: The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.\n\n Actions\n\n**Multiattack**: The vulture makes two attacks: one with its beak and one with its talons.\n\n**Beak**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.\n\n**Talons**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.\n\n  ",
+  "htmlcontent": "A giant vulture has advanced intelligence and a  malevolent bent. Unlike its smaller kin, it will attack  a wounded creature to hasten its end. Giant vultures  have been known to haunt a thirsty, starving  creature for days to enjoy its suffering. \n\n<h2>Traits</h2><strong>Keen Sight and Smell</strong>: The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.<br><br><strong>Pack Tactics</strong>: The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The vulture makes two attacks: one with its beak and one with its talons.<br><br><strong>Beak</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.<br><br><strong>Talons</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.<br><br>",
+  "data": {
+    "AC": "10",
+    "HP": "22 (3d10+6)",
+    "CHA": "7",
+    "CON": "15",
+    "DEX": "10",
+    "INT": "6",
+    "STR": "15",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "10 ft., fly 60 ft.",
+    "Roll 0": "Beak\n1d20 + 4\n2d4+2",
+    "Roll 1": "Talons\n1d20 + 4\n2d6+2",
+    "Skills": "Perception +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "Understands Common But Can't Speak",
+    "Challenge Rating": "1",
+    "Passive Perception": "13"
+  }
+}

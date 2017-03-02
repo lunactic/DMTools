@@ -2,6 +2,7 @@
   "name": "Eyes of the Eagle",
   "id": 9833,
   "content": "Requires Attunement\n\nThese crystal lenses fit over the eyes. While wearing them, you have advantage on Wisdom (Perception) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>These crystal lenses fit over the eyes. While wearing them, you have advantage on Wisdom (Perception) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

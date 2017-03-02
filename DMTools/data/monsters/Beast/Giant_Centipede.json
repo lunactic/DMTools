@@ -1,0 +1,26 @@
+{
+  "name": "Giant Centipede",
+  "id": 12023,
+  "content": " Actions\n\n**Bite**: Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Bite</strong>: Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "4 (1d6+1)",
+    "CHA": "3",
+    "CON": "12",
+    "DEX": "14",
+    "INT": "1",
+    "STR": "5",
+    "WIS": "7",
+    "Size": "Small",
+    "Type": "Beast",
+    "Speed": "30 ft., climb 30 ft.",
+    "Roll 0": "Bite\n1d20 + 4\n1d4+2",
+    "Senses": "Blindsight 30 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "8"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Swarm of Rats",
+  "id": 12178,
+  "content": " Traits\n\n**Keen Smell**: The swarm has advantage on Wisdom (Perception) checks that rely on smell.\n\n**Swarm**: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.\n\n Actions\n\n**Bites**: Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Smell</strong>: The swarm has advantage on Wisdom (Perception) checks that rely on smell.<br><br><strong>Swarm</strong>: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.<br><br><h2>Actions</h2><strong>Bites</strong>: Melee Weapon Attack: +2 to hit, reach 0 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.<br><br>",
+  "data": {
+    "AC": "10",
+    "HP": "24 (7d8-7)",
+    "CHA": "3",
+    "CON": "9",
+    "DEX": "11",
+    "INT": "2",
+    "STR": "9",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Swarm Of Tiny Beasts",
+    "Speed": "30 ft.",
+    "Roll 0": "Full\n1d20 + 2\n2d6",
+    "Roll 1": "Half\n1d20 + 2\n1d6",
+    "Senses": "Darkvision 30 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Resistances": "Bludgeoning, Piercing, Slashing",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "10",
+    "Condition Immunities": "Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned"
+  }
+}

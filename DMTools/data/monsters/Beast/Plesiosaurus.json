@@ -1,0 +1,26 @@
+{
+  "name": "Plesiosaurus",
+  "id": 12126,
+  "content": " Traits\n\n**Hold Breath**: The plesiosaurus can hold its breath for 1 hour.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Hold Breath</strong>: The plesiosaurus can hold its breath for 1 hour.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) piercing damage.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "68 (8d10+24)",
+    "CHA": "5",
+    "CON": "16",
+    "DEX": "15",
+    "INT": "2",
+    "STR": "18",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "20 ft., swim 40 ft.",
+    "Roll 0": "Bite\n1d20 + 6\n3d6+4",
+    "Skills": "Perception +3, Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "2",
+    "Passive Perception": "13"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Giant Hyena",
+  "id": 12032,
+  "content": " Traits\n\n**Rampage**: When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Rampage</strong>: When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "45 (6d10+12)",
+    "CHA": "7",
+    "CON": "14",
+    "DEX": "14",
+    "INT": "2",
+    "STR": "16",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "50 ft.",
+    "Roll 0": "Bite\n1d20 + 5\n1d6+3",
+    "Skills": "Perception +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1",
+    "Passive Perception": "13"
+  }
+}

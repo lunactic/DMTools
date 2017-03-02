@@ -1,0 +1,30 @@
+{
+  "name": "Assassin",
+  "id": 11936,
+  "content": "Trained in the use of poison, assassins are  remorseless killers who work for nobles,  guildmasters, sovereigns, and anyone else who can  afford them.\n\n Traits\n\n**Assassinate**: During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.\n\n**Evasion**: If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.\n\n**Sneak Attack (1/Turn)**: The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.\n\n Actions\n\n**Multiattack**: The assassin makes two shortsword attacks.\n\n**Shortsword**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.\n\n**Light Crossbow**: Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.\n\n  ",
+  "htmlcontent": "Trained in the use of poison, assassins are  remorseless killers who work for nobles,  guildmasters, sovereigns, and anyone else who can  afford them.\n\n<h2>Traits</h2><strong>Assassinate</strong>: During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.<br><br><strong>Evasion</strong>: If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.<br><br><strong>Sneak Attack (1/Turn)</strong>: The assassin deals an extra 13 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The assassin makes two shortsword attacks.<br><br><strong>Shortsword</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.<br><br><strong>Light Crossbow</strong>: Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "15 (Studded Leather)",
+    "HP": "78 (12d8+24)",
+    "CHA": "10",
+    "CON": "14",
+    "DEX": "16",
+    "INT": "13",
+    "STR": "11",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 6\n1d6+3",
+    "Roll 1": "\n1d20 + 6\n1d8+3",
+    "Skills": "Acrobatics +6, Deception +3, Perception +3, Stealth +9",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Non-good Alignment",
+    "Languages": "Thieves' Cant Plus Any Two Languages",
+    "Resistances": "Poison",
+    "Saving Throws": "Dex +6, Int +4",
+    "Challenge Rating": "8",
+    "Passive Perception": "13"
+  }
+}

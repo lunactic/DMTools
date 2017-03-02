@@ -1,0 +1,32 @@
+{
+  "name": "Mummy",
+  "id": 12107,
+  "content": " Actions\n\n**Multiattack**: The mummy can use its Dreadful Glare and makes one attack with its rotting fist.\n\n**Rotting Fist**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.\n\n**Dreadful Glare**: The mummy targets one creature it can see within 60 ft. of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Multiattack</strong>: The mummy can use its Dreadful Glare and makes one attack with its rotting fist.<br><br><strong>Rotting Fist</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.<br><br><strong>Dreadful Glare</strong>: The mummy targets one creature it can see within 60 ft. of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.<br><br>",
+  "data": {
+    "AC": "11 (Natural Armor)",
+    "HP": "58 (9d8+18)",
+    "CHA": "12",
+    "CON": "15",
+    "DEX": "8",
+    "INT": "6",
+    "STR": "16",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Undead",
+    "Speed": "20 ft.",
+    "Roll 0": "Rotting Fist\n1d20 + 5\n2d6+3",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "The Languages It Knew In Life",
+    "Immunities": "Necrotic, Poisoned",
+    "Resistances": "bludgeoning, piercing, and slashing from nonmagical attacks",
+    "Saving Throws": "Wis +2",
+    "Vulnerabilities": "Fire",
+    "Challenge Rating": "3",
+    "Passive Perception": "10",
+    "Condition Immunities": "Charmed, Exhaustion, Frightened, Paralyzed, Poisoned"
+  }
+}

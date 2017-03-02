@@ -1,0 +1,28 @@
+{
+  "name": "Knight",
+  "id": 12083,
+  "content": "Knights are warriors who pledge service to rulers,  religious orders, and noble causes. A knight’s alignment determines the extent to which a pledge is  honored. Whether undertaking a quest or patrolling  a realm, a knight often travels with an entourage  that includes squires and hirelings who are  commoners.\n \n\n Traits\n\n**Brave**: The knight has advantage on saving throws against being frightened.\n\n Actions\n\n**Multiattack**: The knight makes two melee attacks.\n\n**Greatsword**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.\n\n**Heavy Crossbow**: Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.\n\n**Leadership (Recharges after a Short or Long Rest)**: For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.\n\n Reactions\n\n**Parry**: The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.\n\n   ",
+  "htmlcontent": "Knights are warriors who pledge service to rulers,  religious orders, and noble causes. A knight’s alignment determines the extent to which a pledge is  honored. Whether undertaking a quest or patrolling  a realm, a knight often travels with an entourage  that includes squires and hirelings who are  commoners.<br><h2>Traits</h2><strong>Brave</strong>: The knight has advantage on saving throws against being frightened.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The knight makes two melee attacks.<br><br><strong>Greatsword</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.<br><br><strong>Heavy Crossbow</strong>: Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.<br><br><strong>Leadership (Recharges after a Short or Long Rest)</strong>: For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.<br><br><h2>Reactions</h2><strong>Parry</strong>: The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.<br><br>",
+  "data": {
+    "AC": "18 (Plate)",
+    "HP": "52 (8d8+16)",
+    "CHA": "15",
+    "CON": "14",
+    "DEX": "11",
+    "INT": "11",
+    "STR": "16",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 5\n2d6+3",
+    "Roll 1": "\n1d20 + 2\n1d10",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Any One Language (Usually Common)",
+    "Saving Throws": "Con +4, Wis +2",
+    "Challenge Rating": "3",
+    "Passive Perception": "10"
+  }
+}

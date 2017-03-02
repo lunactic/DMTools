@@ -1,0 +1,28 @@
+{
+  "name": "Hobgoblin",
+  "id": 12070,
+  "content": " Traits\n\n**Martial Advantage**: Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the hobgoblin that isn't incapacitated.\n\n Actions\n\n**Longsword**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.\n\n**Longbow**: Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Martial Advantage</strong>: Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the hobgoblin that isn't incapacitated.<br><br><h2>Actions</h2><strong>Longsword</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.<br><br><strong>Longbow</strong>: Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.<br><br>",
+  "data": {
+    "AC": "18 (Chain Mail, Shield)",
+    "HP": "11 (2d8+2)",
+    "CHA": "9",
+    "CON": "12",
+    "DEX": "12",
+    "INT": "10",
+    "STR": "13",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Humanoid (Goblinoid)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 3\n1d8+1",
+    "Roll 1": "\n1d20 + 3\n1d8+1",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Common, Goblin",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "10"
+  }
+}

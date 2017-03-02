@@ -1,0 +1,27 @@
+{
+  "name": "Giant Scorpion",
+  "id": 12038,
+  "content": " Actions\n\n**Claw**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.\n\n**Multiattack**: The scorpion makes three attacks: two with its claws and one with its sting.\n\n**Sting**: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Claw</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.<br><br><strong>Multiattack</strong>: The scorpion makes three attacks: two with its claws and one with its sting.<br><br><strong>Sting</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "15 (Natural Armor)",
+    "HP": "52 (7d10+14)",
+    "CHA": "3",
+    "CON": "15",
+    "DEX": "13",
+    "INT": "1",
+    "STR": "15",
+    "WIS": "9",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "40 ft.",
+    "Roll 0": "Claw\n1d20 + 4\n1d8+2",
+    "Roll 1": "Sting\n1d20 + 4\n1d10+2",
+    "Senses": "Blindsight 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "3",
+    "Passive Perception": "9"
+  }
+}

@@ -2,6 +2,7 @@
   "name": "Mithral Armor",
   "id": 12246,
   "content": "Armor (medium or heavy, but not hide), uncommon \n\n\n\n Mithral is a light, flexible metal. A mithral chain shirt  or breastplate can be worn under normal clothes. If  the armor normally imposes disadvantage on  Dexterity (Stealth) checks or has a Strength  requirement, the mithral version of the armor  doesn’t.  ",
+  "htmlcontent": "<em>Armor (medium or heavy, but not hide), uncommon </em>\n<br><br><p>Mithral is a light, flexible metal. A mithral chain shirt  or breastplate can be worn under normal clothes. If  the armor normally imposes disadvantage on  Dexterity (Stealth) checks or has a Strength  requirement, the mithral version of the armor  doesn’t. </p>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

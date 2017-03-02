@@ -1,0 +1,28 @@
+{
+  "name": "Owlbear",
+  "id": 12120,
+  "content": " Traits\n\n**Keen Sight and Smell**: The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.\n\n Actions\n\n**Multiattack**: The owlbear makes two attacks: one with its beak and one with its claws.\n\n**Beak**: Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage.\n\n**Claws**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Sight and Smell</strong>: The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The owlbear makes two attacks: one with its beak and one with its claws.<br><br><strong>Beak</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "59 (7d10+21)",
+    "CHA": "7",
+    "CON": "17",
+    "DEX": "12",
+    "INT": "3",
+    "STR": "20",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "40 ft.",
+    "Roll 0": "\n1d20 + 7\n1d10+5",
+    "Roll 1": "\n1d20 + 7\n2d8+5",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "3",
+    "Passive Perception": "13"
+  }
+}

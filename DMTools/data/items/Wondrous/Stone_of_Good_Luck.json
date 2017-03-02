@@ -2,6 +2,7 @@
   "name": "Stone of Good Luck",
   "id": 10237,
   "content": "Requires Attunement\n\nWhile this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

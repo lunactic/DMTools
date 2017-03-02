@@ -1,0 +1,30 @@
+{
+  "name": "Fire Elemental",
+  "id": 12007,
+  "content": " Traits\n\n**Fire Form**: The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.\n\n**Illumination**: The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 ft..\n\n**Water Susceptibility**: For every 5 ft. the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.\n\n Actions\n\n**Multiattack**: The elemental makes two touch attacks.\n\n**Touch**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Fire Form</strong>: The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.<br><br><strong>Illumination</strong>: The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 ft..<br><br><strong>Water Susceptibility</strong>: For every 5 ft. the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The elemental makes two touch attacks.<br><br><strong>Touch</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.<br><br>",
+  "data": {
+    "AC": "13",
+    "HP": "102 (12d10+36)",
+    "CHA": "7",
+    "CON": "16",
+    "DEX": "17",
+    "INT": "6",
+    "STR": "10",
+    "WIS": "10",
+    "Size": "Large",
+    "Type": "Elemental",
+    "Speed": "50 ft.",
+    "Roll 0": "Touch\n1d20 + 6\n2d6+3",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral",
+    "Languages": "Ignan",
+    "Immunities": "Fire, Poison",
+    "Resistances": "Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Challenge Rating": "5",
+    "Passive Perception": "10",
+    "Condition Immunities": "Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious"
+  }
+}

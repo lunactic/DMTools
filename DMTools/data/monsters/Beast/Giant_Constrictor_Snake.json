@@ -1,0 +1,28 @@
+{
+  "name": "Giant Constrictor Snake",
+  "id": 12024,
+  "content": " Actions\n\n**Bite**: Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.\n\n**Constrict**: Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +6 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.<br><br><strong>Constrict</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "60 (8d12+8)",
+    "CHA": "3",
+    "CON": "12",
+    "DEX": "14",
+    "INT": "1",
+    "STR": "19",
+    "WIS": "10",
+    "Size": "Huge",
+    "Type": "Beast",
+    "Speed": "30 ft., swim 30 ft.",
+    "Roll 0": "Bite\n1d20 + 6\n2d6+4",
+    "Roll 1": "Constrict\n1d20 + 6\n2d8+4",
+    "Senses": "Blindsight 10 Ft.",
+    "Skills": "Perception +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "2",
+    "Passive Perception": "12"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Hill Giant",
+  "id": 12068,
+  "content": " Actions\n\n**Multiattack**: The giant makes two greatclub attacks.\n\n**Greatclub**: Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.\n\n**Rock**: Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Multiattack</strong>: The giant makes two greatclub attacks.<br><br><strong>Greatclub</strong>: Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.<br><br><strong>Rock</strong>: Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "105 (10d12+40)",
+    "CHA": "6",
+    "CON": "19",
+    "DEX": "8",
+    "INT": "5",
+    "STR": "21",
+    "WIS": "9",
+    "Size": "Huge",
+    "Type": "Giant",
+    "Speed": "40 ft.",
+    "Roll 0": "Greatclub\n1d20 + 8\n3d8+5",
+    "Roll 1": "\n1d20 + 8\n3d10+5",
+    "Skills": "Perception +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Giant",
+    "Challenge Rating": "5",
+    "Passive Perception": "12"
+  }
+}

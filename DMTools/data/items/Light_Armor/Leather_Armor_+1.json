@@ -2,6 +2,7 @@
   "name": "Leather Armor +1",
   "id": 9937,
   "content": "\tYou have a +1 bonus to AC while wearing this armor.\n\n",
+  "htmlcontent": "\tYou have a +1 bonus to AC while wearing this armor.<br><br>",
   "data": {
     "AC": "11",
     "Source": "SRD 5.0",

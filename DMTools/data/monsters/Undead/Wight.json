@@ -1,0 +1,33 @@
+{
+  "name": "Wight",
+  "id": 12207,
+  "content": " Traits\n\n**Sunlight Sensitivity**: While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.\n\n Actions\n\n**Multiattack**: The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.\n\n**Life Drain**: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.\nA humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.\n\n**Longsword**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.\n\n**Longbow**: Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Sunlight Sensitivity</strong>: While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.<br><br><strong>Life Drain</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.<br>A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.<br><br><strong>Longsword</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.<br><br><strong>Longbow</strong>: Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.<br><br>",
+  "data": {
+    "AC": "14 (Studded Leather)",
+    "HP": "45 (6d8+18)",
+    "CHA": "15",
+    "CON": "16",
+    "DEX": "14",
+    "INT": "10",
+    "STR": "15",
+    "WIS": "13",
+    "Size": "Medium",
+    "Type": "Undead",
+    "Speed": "30 ft.",
+    "Roll 0": "Life Drain\n1d20 + 4\n1d6+2",
+    "Roll 1": "Longsword\n1d20 + 4\n1d8+2",
+    "Roll 2": "Longbow\n1d20 + 4\n1d8+2",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +3, Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "The Languages It Knew In Life",
+    "Immunities": "poison",
+    "Resistances": "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren’t silvered",
+    "Challenge Rating": "3",
+    "Passive Perception": "13",
+    "Condition Immunities": "exhaustion, poisoned"
+  }
+}

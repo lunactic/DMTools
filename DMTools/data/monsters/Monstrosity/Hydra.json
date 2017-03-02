@@ -1,0 +1,27 @@
+{
+  "name": "Hydra",
+  "id": 12074,
+  "content": " Traits\n\n**Hold Breath**: The hydra can hold its breath for 1 hour.\n\n**Multiple Heads**: The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.\nWhenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.\nAt the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.\n\n**Reactive Heads**: For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.\n\n**Wakeful**: While the hydra sleeps, at least one of its heads is awake.\n\n Actions\n\n**Multiattack**: The hydra makes as many bite attacks as it has heads.\n\n**Bite**: Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Hold Breath</strong>: The hydra can hold its breath for 1 hour.<br><br><strong>Multiple Heads</strong>: The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.<br>Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.<br>At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.<br><br><strong>Reactive Heads</strong>: For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.<br><br><strong>Wakeful</strong>: While the hydra sleeps, at least one of its heads is awake.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The hydra makes as many bite attacks as it has heads.<br><br><strong>Bite</strong>: Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage.<br><br>",
+  "data": {
+    "AC": "15 (Natural Armor)",
+    "HP": "172 (15d12+75)",
+    "CHA": "7",
+    "CON": "20",
+    "DEX": "12",
+    "INT": "2",
+    "STR": "20",
+    "WIS": "10",
+    "Size": "Huge",
+    "Type": "Monstrosity",
+    "Speed": "30 ft., swim 30 ft.",
+    "Roll 0": "\n1d20 + 8\n1d10+5",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "8",
+    "Passive Perception": "16"
+  }
+}

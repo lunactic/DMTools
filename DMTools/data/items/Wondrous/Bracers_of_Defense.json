@@ -2,6 +2,7 @@
   "name": "Bracers of Defense",
   "id": 9727,
   "content": "Requires Attunement\n\nWhile wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no shield.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

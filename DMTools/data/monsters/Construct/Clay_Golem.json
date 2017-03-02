@@ -1,0 +1,29 @@
+{
+  "name": "Clay Golem",
+  "id": 11971,
+  "content": " Traits\n\n**Acid Absorption**: Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.\n\n**Berserk**: Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.\n\n**Immutable Form**: The golem is immune to any spell or effect that would alter its form.\n\n**Magic Resistance**: The golem has advantage on saving throws against spells and other magical effects.\n\n**Magic Weapons**: The golem's weapon attacks are magical.\n\n Actions\n\n**Multiattack**: The golem makes two slam attacks.\n\n**Slam**: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the greater restoration spell or other magic.\n\n**Haste (Recharge 5-6)**: Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Acid Absorption</strong>: Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.<br><br><strong>Berserk</strong>: Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.<br><br><strong>Immutable Form</strong>: The golem is immune to any spell or effect that would alter its form.<br><br><strong>Magic Resistance</strong>: The golem has advantage on saving throws against spells and other magical effects.<br><br><strong>Magic Weapons</strong>: The golem's weapon attacks are magical.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The golem makes two slam attacks.<br><br><strong>Slam</strong>: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the greater restoration spell or other magic.<br><br><strong>Haste (Recharge 5-6)</strong>: Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.<br><br>",
+  "data": {
+    "AC": "14 (Natural Armor)",
+    "HP": "133 (14d10+56)",
+    "CHA": "1",
+    "CON": "18",
+    "DEX": "9",
+    "INT": "3",
+    "STR": "20",
+    "WIS": "8",
+    "Size": "Large",
+    "Type": "Construct",
+    "Speed": "20 ft.",
+    "Roll 0": "Slam\n1d20 + 8\n2d10+5",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Languages": "Understands The Languages Of Its Creator But Can't Speak",
+    "Immunities": "Acid, Poison, Psychic; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Adamantine",
+    "Challenge Rating": "9",
+    "Passive Perception": "9",
+    "Condition Immunities": "Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned"
+  }
+}

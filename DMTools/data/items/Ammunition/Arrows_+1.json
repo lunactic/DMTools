@@ -2,6 +2,7 @@
   "name": "Arrows +1",
   "id": 9694,
   "content": "\tYou have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.\n\n",
+  "htmlcontent": "\tYou have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "0.05",

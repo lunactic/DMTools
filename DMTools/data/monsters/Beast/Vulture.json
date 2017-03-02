@@ -1,0 +1,26 @@
+{
+  "name": "Vulture",
+  "id": 12196,
+  "content": " Traits\n\n**Keen Sight and Smell**: The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.\n\n**Pack Tactics**: The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.\n\n Actions\n\n**Beak**: Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Sight and Smell</strong>: The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.<br><br><strong>Pack Tactics</strong>: The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 ft. of the creature and the ally isn't incapacitated.<br><br><h2>Actions</h2><strong>Beak</strong>: Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage.<br><br>",
+  "data": {
+    "AC": "10",
+    "HP": "5 (1d8+1)",
+    "CHA": "4",
+    "CON": "13",
+    "DEX": "10",
+    "INT": "2",
+    "STR": "7",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Beast",
+    "Speed": "10 ft., fly 50 ft.",
+    "Roll 0": "Beak\n1d20 + 2\n1d4",
+    "Skills": "Perception +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "13"
+  }
+}

@@ -2,6 +2,7 @@
   "name": "Padded Armor +3",
   "id": 10006,
   "content": "\tYou have a +3 bonus to AC while wearing this armor.\n\n",
+  "htmlcontent": "\tYou have a +3 bonus to AC while wearing this armor.<br><br>",
   "data": {
     "AC": "11",
     "Source": "SRD 5.0",

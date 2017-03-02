@@ -2,6 +2,7 @@
   "name": "Fishing tackle",
   "id": 12525,
   "content": "This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.",
+  "htmlcontent": "This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.",
   "data": {
     "Weight": "4",
     "Category": "Items",

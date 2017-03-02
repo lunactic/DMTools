@@ -1,0 +1,30 @@
+{
+  "name": "Gladiator",
+  "id": 12049,
+  "content": "Gladiators battle for the entertainment of raucous  crowds. Some gladiators are brutal pit fighters who  treat each match as a life-or-death struggle, while  others are professional duelists who command huge  fees but rarely fight to the death.\n\n\n Traits\n\n**Brave**: The gladiator has advantage on saving throws against being frightened.\n\n**Brute**: A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).\n\n Actions\n\n**Multiattack**: The gladiator makes three melee attacks or two ranged attacks.\n\n**Spear**: Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.\n\n**Shield Bash**: Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.\n\n Reactions\n\n**Parry**: The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.\n\n   ",
+  "htmlcontent": "Gladiators battle for the entertainment of raucous  crowds. Some gladiators are brutal pit fighters who  treat each match as a life-or-death struggle, while  others are professional duelists who command huge  fees but rarely fight to the death.<br><h2>Traits</h2><strong>Brave</strong>: The gladiator has advantage on saving throws against being frightened.<br><br><strong>Brute</strong>: A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).<br><br><h2>Actions</h2><strong>Multiattack</strong>: The gladiator makes three melee attacks or two ranged attacks.<br><br><strong>Spear</strong>: Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.<br><br><strong>Shield Bash</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.<br><br><h2>Reactions</h2><strong>Parry</strong>: The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.<br><br>",
+  "data": {
+    "AC": "16 (Studded Leather, Shield)",
+    "HP": "112 (15d8+45)",
+    "CHA": "15",
+    "CON": "16",
+    "DEX": "15",
+    "INT": "10",
+    "STR": "18",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "One Handed\n1d20 + 7\n2d6+4",
+    "Roll 1": "Two Handed\n1d20 + 7\n2d8+4",
+    "Roll 2": "Shield Bash\n1d20 + 7\n2d4+4",
+    "Skills": "Athletics +10, Intimidation +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Any One Language (Usually Common)",
+    "Saving Throws": "Str +7, Dex +5, Con +6",
+    "Challenge Rating": "5",
+    "Passive Perception": "11"
+  }
+}

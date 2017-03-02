@@ -1,0 +1,33 @@
+{
+  "name": "Young Green Dragon",
+  "id": 12220,
+  "content": " Traits\n\n**Amphibious**: The dragon can breathe air and water.\n\n Actions\n\n**Multiattack**: The dragon makes three attacks: one with its bite and two with its claws.\n\n**Bite**: Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.\n\n**Claw**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.\n\n**Poison Breath (Recharge 5-6)**: The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Amphibious</strong>: The dragon can breathe air and water.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The dragon makes three attacks: one with its bite and two with its claws.<br><br><strong>Bite</strong>: Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.<br><br><strong>Claw</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.<br><br><strong>Poison Breath (Recharge 5-6)</strong>: The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "18 (Natural Armor)",
+    "HP": "136 (16d10+48)",
+    "CHA": "15",
+    "CON": "17",
+    "DEX": "12",
+    "INT": "16",
+    "STR": "19",
+    "WIS": "13",
+    "Size": "Large",
+    "Type": "Dragon",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Roll 0": "Bite\n1d20 + 7\n2d10+4+2d6",
+    "Roll 1": "Claw\n1d20 + 7\n2d6+4",
+    "Roll 2": "Poison Breath\n1d20 + 0\n12d6",
+    "Senses": "Blindsight 30 Ft., Darkvision 120 Ft.",
+    "Skills": "Deception +5, Perception +7, Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Common, Draconic",
+    "Immunities": "Poison",
+    "Saving Throws": "Dex +4, Con +6, Wis +4, Cha +5",
+    "Challenge Rating": "8",
+    "Passive Perception": "17",
+    "Condition Immunities": "Poisoned"
+  }
+}

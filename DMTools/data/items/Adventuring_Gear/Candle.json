@@ -2,6 +2,7 @@
   "name": "Candle",
   "id": 9751,
   "content": "For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.\n\n",
+  "htmlcontent": "For 1 hour, a candle sheds bright light in a 5-foot radius and dim light for an additional 5 feet.<br><br>",
   "data": {
     "Range": "5/10",
     "Source": "SRD 5.0",

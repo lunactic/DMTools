@@ -2,6 +2,7 @@
   "name": "Hide Armor of Necrotic Resistance",
   "id": 9911,
   "content": "Requires Attunement\n\n\tYou have resistance to necrotic damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to necrotic damage while you wear this armor.<br><br>",
   "data": {
     "AC": "12",
     "Source": "SRD 5.0",

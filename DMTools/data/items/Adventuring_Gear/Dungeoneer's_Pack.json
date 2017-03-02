@@ -2,6 +2,7 @@
   "name": "Dungeoneer's Pack",
   "id": 9820,
   "content": "Includes:\n\n• a backpack\n\n• a crowbar\n\n• a hammer\n\n• 10 pitons\n\n• 10 torches\n\n• a tinderbox\n\n• 10 days of rations\n\n• a waterskin\n\n• 50 feet of hempen rope\n\n",
+  "htmlcontent": "Includes:<br><br>• a backpack<br><br>• a crowbar<br><br>• a hammer<br><br>• 10 pitons<br><br>• 10 torches<br><br>• a tinderbox<br><br>• 10 days of rations<br><br>• a waterskin<br><br>• 50 feet of hempen rope<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "61.5",

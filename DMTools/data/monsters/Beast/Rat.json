@@ -1,0 +1,26 @@
+{
+  "name": "Rat",
+  "id": 12136,
+  "content": " Traits\n\n**Keen Smell**: The rat has advantage on Wisdom (Perception) checks that rely on smell.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Smell</strong>: The rat has advantage on Wisdom (Perception) checks that rely on smell.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.<br><br>",
+  "data": {
+    "AC": "10",
+    "HP": "1 (1d4-1)",
+    "CHA": "4",
+    "CON": "9",
+    "DEX": "11",
+    "INT": "2",
+    "STR": "2",
+    "WIS": "10",
+    "Size": "Tiny",
+    "Type": "Beast",
+    "Speed": "20 ft.",
+    "Roll 0": "Bite\n1d20 + 0\n1",
+    "Senses": "Darkvision 30 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "10"
+  }
+}

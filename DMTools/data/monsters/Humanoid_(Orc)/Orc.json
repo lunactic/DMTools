@@ -1,0 +1,29 @@
+{
+  "name": "Orc",
+  "id": 12117,
+  "content": " Traits\n\n**Aggressive**: As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.\n\n Actions\n\n**Greataxe**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.\n\n**Javelin**: Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Aggressive</strong>: As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.<br><br><h2>Actions</h2><strong>Greataxe</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.<br><br><strong>Javelin</strong>: Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.<br><br>",
+  "data": {
+    "AC": "13 (Hide Armor)",
+    "HP": "15 (2d8+6)",
+    "CHA": "10",
+    "CON": "16",
+    "DEX": "12",
+    "INT": "7",
+    "STR": "16",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Humanoid (Orc)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 5\n1d12+3",
+    "Roll 1": "\n1d20 + 5\n1d6+3",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Intimidation +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Common, Orc",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "10"
+  }
+}

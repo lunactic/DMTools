@@ -1,0 +1,28 @@
+{
+  "name": "Roper",
+  "id": 12144,
+  "content": " Traits\n\n**False Appearance**: While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.\n\n**Grasping Tendrils**: The roper can have up to six tendrils at a time. Each tendril can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage). Destroying a tendril deals no damage to the roper, which can extrude a replacement tendril on its next turn. A tendril can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it.\n\n**Spider Climb**: The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\n\n Actions\n\n**Multiattack**: The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.\n\n**Bite**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 22 (4d8 + 4) piercing damage.\n\n**Tendril**: Melee Weapon Attack: +7 to hit, reach 50 ft., one creature. Hit: The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.\n\n**Reel**: The roper pulls each creature grappled by it up to 25 ft. straight toward it.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>False Appearance</strong>: While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.<br><br><strong>Grasping Tendrils</strong>: The roper can have up to six tendrils at a time. Each tendril can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage). Destroying a tendril deals no damage to the roper, which can extrude a replacement tendril on its next turn. A tendril can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it.<br><br><strong>Spider Climb</strong>: The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.<br><br><strong>Bite</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 22 (4d8 + 4) piercing damage.<br><br><strong>Tendril</strong>: Melee Weapon Attack: +7 to hit, reach 50 ft., one creature. Hit: The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.<br><br><strong>Reel</strong>: The roper pulls each creature grappled by it up to 25 ft. straight toward it.<br><br>",
+  "data": {
+    "AC": "20 (Natural Armor)",
+    "HP": "93 (11d10+33)",
+    "CHA": "6",
+    "CON": "17",
+    "DEX": "8",
+    "INT": "7",
+    "STR": "18",
+    "WIS": "16",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "10 ft., climb 10 ft.",
+    "Roll 0": "\n1d20 + 7\n4d8+4",
+    "Roll 1": "\n1d20 + 7\n",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +6, Stealth +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Challenge Rating": "5",
+    "Passive Perception": "16"
+  }
+}

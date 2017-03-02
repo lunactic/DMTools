@@ -2,6 +2,7 @@
   "name": "Shield +3",
   "id": 10167,
   "content": "\tWhile holding this shield, you have a +3 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.\n\n",
+  "htmlcontent": "\tWhile holding this shield, you have a +3 bonus to AC. This bonus is in addition to the shield's normal bonus to AC.<br><br>",
   "data": {
     "AC": "2",
     "Source": "SRD 5.0",

@@ -1,0 +1,28 @@
+{
+  "name": "Giant Eagle",
+  "id": 12027,
+  "content": "A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young  as normal eagles). \n\n Traits\n\n**Keen Sight**: The eagle has advantage on Wisdom (Perception) checks that rely on sight.\n\n Actions\n\n**Multiattack**: The eagle makes two attacks: one with its beak and one with its talons.\n\n**Beak**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.\n\n**Talons**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.\n\n  ",
+  "htmlcontent": "A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young  as normal eagles). \n\n<h2>Traits</h2><strong>Keen Sight</strong>: The eagle has advantage on Wisdom (Perception) checks that rely on sight.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The eagle makes two attacks: one with its beak and one with its talons.<br><br><strong>Beak</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.<br><br><strong>Talons</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.<br><br>",
+  "data": {
+    "AC": "13",
+    "HP": "26 (4d10+4)",
+    "CHA": "10",
+    "CON": "13",
+    "DEX": "17",
+    "INT": "8",
+    "STR": "16",
+    "WIS": "14",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "10 ft., fly 80 ft.",
+    "Roll 0": "Beak\n1d20 + 5\n1d6+3",
+    "Roll 1": "Talons\n1d20 + 5\n2d6+3",
+    "Skills": "Perception +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Good",
+    "Languages": "Giant Eagle, Understands Common And Auran But Can't Speak",
+    "Challenge Rating": "1",
+    "Passive Perception": "14"
+  }
+}

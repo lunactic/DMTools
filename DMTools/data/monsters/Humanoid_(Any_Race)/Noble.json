@@ -1,0 +1,27 @@
+{
+  "name": "Noble",
+  "id": 12111,
+  "content": "Nobles wield great authority and influence as  members of the upper class, possessing wealth and  connections that can make them as powerful as  monarchs and generals. A noble often travels in the  company of guards, as well as servants who are  commoners. \n\n  \n\nThe noble’s statistics can also be used to represent  courtiers who aren’t of noble birth.\n\n\n Actions\n\n**Rapier**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.\n\n Reactions\n\n**Parry**: The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.\n\n  ",
+  "htmlcontent": "Nobles wield great authority and influence as  members of the upper class, possessing wealth and  connections that can make them as powerful as  monarchs and generals. A noble often travels in the  company of guards, as well as servants who are  commoners. \n\n  <br><br>The noble’s statistics can also be used to represent  courtiers who aren’t of noble birth.<br><h2>Actions</h2><strong>Rapier</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.<br><br><h2>Reactions</h2><strong>Parry</strong>: The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.<br><br>",
+  "data": {
+    "AC": "15 (Breastplate)",
+    "HP": "9 (2d8)",
+    "CHA": "16",
+    "CON": "11",
+    "DEX": "12",
+    "INT": "12",
+    "STR": "11",
+    "WIS": "14",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 3\n1d8+1",
+    "Skills": "Deception +5, Insight +4, Persuasion +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Any Two Languages",
+    "Challenge Rating": "1/8",
+    "Passive Perception": "12"
+  }
+}

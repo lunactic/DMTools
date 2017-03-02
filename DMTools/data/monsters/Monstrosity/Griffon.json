@@ -1,0 +1,28 @@
+{
+  "name": "Griffon",
+  "id": 12059,
+  "content": " Traits\n\n**Keen Sight**: The griffon has advantage on Wisdom (Perception) checks that rely on sight.\n\n Actions\n\n**Multiattack**: The griffon makes two attacks: one with its beak and one with its claws.\n\n**Beak**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.\n\n**Claws**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Sight</strong>: The griffon has advantage on Wisdom (Perception) checks that rely on sight.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The griffon makes two attacks: one with its beak and one with its claws.<br><br><strong>Beak</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "59 (7d10+21)",
+    "CHA": "8",
+    "CON": "16",
+    "DEX": "15",
+    "INT": "2",
+    "STR": "18",
+    "WIS": "13",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "30 ft., fly 80 ft.",
+    "Roll 0": "\n1d20 + 6\n1d8+4",
+    "Roll 1": "\n1d20 + 6\n2d6+4",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "2",
+    "Passive Perception": "15"
+  }
+}

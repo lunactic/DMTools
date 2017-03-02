@@ -2,6 +2,7 @@
   "name": "Scale Mail +2",
   "id": 10144,
   "content": "\tYou have a +2 bonus to AC while wearing this armor.\n\n",
+  "htmlcontent": "\tYou have a +2 bonus to AC while wearing this armor.<br><br>",
   "data": {
     "AC": "14",
     "Source": "SRD 5.0",

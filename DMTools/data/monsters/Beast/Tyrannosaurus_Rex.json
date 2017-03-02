@@ -1,0 +1,27 @@
+{
+  "name": "Tyrannosaurus Rex",
+  "id": 12189,
+  "content": " Actions\n\n**Multiattack**: The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.\n\n**Bite**: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 33 (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the tyrannosaurus can't bite another target.\n\n**Tail**: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Multiattack</strong>: The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.<br><br><strong>Bite</strong>: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 33 (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the tyrannosaurus can't bite another target.<br><br><strong>Tail</strong>: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "136 (13d12+52)",
+    "CHA": "9",
+    "CON": "19",
+    "DEX": "10",
+    "INT": "2",
+    "STR": "25",
+    "WIS": "12",
+    "Size": "Huge",
+    "Type": "Beast",
+    "Speed": "50 ft.",
+    "Roll 0": "Bite\n1d20 + 10\n4d12+7",
+    "Roll 1": "Tail\n1d20 + 10\n3d8+7",
+    "Skills": "Perception +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "8",
+    "Passive Perception": "14"
+  }
+}

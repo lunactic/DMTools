@@ -1,0 +1,29 @@
+{
+  "name": "Swarm of Poisonous Snakes",
+  "id": 12176,
+  "content": " Traits\n\n**Swarm**: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.\n\n Actions\n\n**Bites**: Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Swarm</strong>: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.<br><br><h2>Actions</h2><strong>Bites</strong>: Melee Weapon Attack: +6 to hit, reach 0 ft., one creature in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "14",
+    "HP": "36 (8d8)",
+    "CHA": "3",
+    "CON": "11",
+    "DEX": "18",
+    "INT": "1",
+    "STR": "8",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Swarm Of Tiny Beasts",
+    "Speed": "30 ft., swim 30 ft.",
+    "Roll 0": "Full\n1d20 + 6\n2d6",
+    "Roll 1": "Half\n1d20 + 6\n1d6",
+    "Senses": "Blindsight 10 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Resistances": "Bludgeoning, Piercing, Slashing",
+    "Challenge Rating": "2",
+    "Passive Perception": "10",
+    "Condition Immunities": "Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned"
+  }
+}

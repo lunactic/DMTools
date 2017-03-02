@@ -1,0 +1,27 @@
+{
+  "name": "Panther",
+  "id": 12121,
+  "content": " Traits\n\n**Keen Smell**: The panther has advantage on Wisdom (Perception) checks that rely on smell.\n\n**Pounce**: If the panther moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.\n\n**Claw**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Smell</strong>: The panther has advantage on Wisdom (Perception) checks that rely on smell.<br><br><strong>Pounce</strong>: If the panther moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.<br><br><strong>Claw</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "13 (3d8)",
+    "CHA": "7",
+    "CON": "10",
+    "DEX": "15",
+    "INT": "3",
+    "STR": "14",
+    "WIS": "14",
+    "Size": "Medium",
+    "Type": "Beast",
+    "Speed": "50 ft., climb 40 ft.",
+    "Roll 0": "Bite\n1d20 + 4\n1d6+2",
+    "Roll 1": "Claw\n1d20 + 4\n1d4+2",
+    "Skills": "Perception +4, Stealth +6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "14"
+  }
+}

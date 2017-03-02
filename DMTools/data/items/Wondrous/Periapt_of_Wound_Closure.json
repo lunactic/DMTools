@@ -2,6 +2,7 @@
   "name": "Periapt of Wound Closure",
   "id": 10021,
   "content": "Requires Attunement\n\nWhile you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>While you wear this pendant, you stabilize whenever you are dying at the start of your turn. In addition, whenever you roll a Hit Die to regain hit points, double the number of hit points it restores.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "1",

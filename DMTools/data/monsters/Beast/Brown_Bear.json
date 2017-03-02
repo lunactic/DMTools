@@ -1,0 +1,27 @@
+{
+  "name": "Brown Bear",
+  "id": 11962,
+  "content": " Traits\n\n**Keen Smell**: The bear has advantage on Wisdom (Perception) checks that rely on smell.\n\n Actions\n\n**Multiattack**: The bear makes two attacks: one with its bite and one with its claws.\n\n**Bite**: Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.\n\n**Claws**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Smell</strong>: The bear has advantage on Wisdom (Perception) checks that rely on smell.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The bear makes two attacks: one with its bite and one with its claws.<br><br><strong>Bite</strong>: Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.<br><br>",
+  "data": {
+    "AC": "11 (Natural Armor)",
+    "HP": "34 (4d10+12)",
+    "CHA": "7",
+    "CON": "16",
+    "DEX": "10",
+    "INT": "2",
+    "STR": "19",
+    "WIS": "13",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "40 ft., climb 30 ft.",
+    "Roll 0": "Bite\n1d20 + 5\n1d8+4",
+    "Roll 1": "Claws\n1d20 + 5\n2d6+4",
+    "Skills": "Perception +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1",
+    "Passive Perception": "13"
+  }
+}

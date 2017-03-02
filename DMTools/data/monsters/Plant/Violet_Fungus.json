@@ -1,0 +1,27 @@
+{
+  "name": "Violet Fungus",
+  "id": 12194,
+  "content": " Traits\n\n**False Appearance**: While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.\n\n Actions\n\n**Multiattack**: The fungus makes 1d4 Rotting Touch attacks.\n\n**Rotting Touch**: Melee Weapon Attack: +2 to hit, reach 10 ft., one creature. Hit: 4 (1d8) necrotic damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>False Appearance</strong>: While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The fungus makes 1d4 Rotting Touch attacks.<br><br><strong>Rotting Touch</strong>: Melee Weapon Attack: +2 to hit, reach 10 ft., one creature. Hit: 4 (1d8) necrotic damage.<br><br>",
+  "data": {
+    "AC": "5",
+    "HP": "18 (4d8)",
+    "CHA": "1",
+    "CON": "10",
+    "DEX": "1",
+    "INT": "1",
+    "STR": "3",
+    "WIS": "3",
+    "Size": "Medium",
+    "Type": "Plant",
+    "Speed": "5 ft.",
+    "Roll 0": "\n1d20 + 2\n1d8",
+    "Senses": "Blindsight 30 Ft. (Blind Beyond This Radius)",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "6",
+    "Condition Immunities": "Blinded, Deafened, Frightened"
+  }
+}

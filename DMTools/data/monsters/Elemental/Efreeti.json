@@ -1,0 +1,31 @@
+{
+  "name": "Efreeti",
+  "id": 12001,
+  "content": " Traits\n\n**Elemental Demise**: If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the djinni was wearing or carrying.\n\n**Innate Spellcasting**: The efreeti's innate spell casting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components: \n\nAt will: detect magic\n3/day: enlarge/reduce, tongues\n1/day each: conjure elemental (fire elemental only), gaseous form, invisibility, major image, plane shift, wall of fire\n\n**Variant: Genie Powers**: Genies have a variety of magical capabilities, including spells. A few have even greater powers that allow them to alter their appearance or the nature of reality.\n\nDisguises.\nSome genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the disguise self spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the true polymorph spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well.\nWishes.\nThe genie power to grant wishes is legendary among mortals. Only the most potent genies, such as those among the nobility, can do so. A particular genie that has this power can grant one to three wishes to a creature that isn't a genie. Once a genie has granted its limit of wishes, it can't grant wishes again for some amount of time (usually 1 year). and cosmic law dictates that the same genie can expend its limit of wishes on a specific creature only once in that creature's existence.\nTo be granted a wish, a creature within 60 feet of the genie states a desired effect to it. The genie can then cast the wish spell on the creature's behalf to bring about the effect. Depending on the genie's nature, the genie might try to pervert the intent of the wish by exploiting the wish's poor wording. The perversion of the wording is usually crafted to be to the genie's benefit.\n\n Actions\n\n**Multiattack**: The efreeti makes two scimitar attacks or uses its Hurl Flame twice.\n\n**Scimitar**: Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.\n\n**Hurl Flame**: Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17 (5d6) fire damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Elemental Demise</strong>: If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the djinni was wearing or carrying.<br><br><strong>Innate Spellcasting</strong>: The efreeti's innate spell casting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components: <br><br>At will: detect magic<br>3/day: enlarge/reduce, tongues<br>1/day each: conjure elemental (fire elemental only), gaseous form, invisibility, major image, plane shift, wall of fire<br><br><strong>Variant: Genie Powers</strong>: Genies have a variety of magical capabilities, including spells. A few have even greater powers that allow them to alter their appearance or the nature of reality.<br><br>Disguises.<br>Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the disguise self spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the true polymorph spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well.<br>Wishes.<br>The genie power to grant wishes is legendary among mortals. Only the most potent genies, such as those among the nobility, can do so. A particular genie that has this power can grant one to three wishes to a creature that isn't a genie. Once a genie has granted its limit of wishes, it can't grant wishes again for some amount of time (usually 1 year). and cosmic law dictates that the same genie can expend its limit of wishes on a specific creature only once in that creature's existence.<br>To be granted a wish, a creature within 60 feet of the genie states a desired effect to it. The genie can then cast the wish spell on the creature's behalf to bring about the effect. Depending on the genie's nature, the genie might try to pervert the intent of the wish by exploiting the wish's poor wording. The perversion of the wording is usually crafted to be to the genie's benefit.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The efreeti makes two scimitar attacks or uses its Hurl Flame twice.<br><br><strong>Scimitar</strong>: Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.<br><br><strong>Hurl Flame</strong>: Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17 (5d6) fire damage.<br><br>",
+  "data": {
+    "AC": "17 (Natural Armor)",
+    "HP": "200 (16d10+112)",
+    "CHA": "16",
+    "CON": "24",
+    "DEX": "12",
+    "INT": "16",
+    "STR": "22",
+    "WIS": "15",
+    "Size": "Large",
+    "Type": "Elemental",
+    "Speed": "40 ft., fly 60 ft.",
+    "Roll 0": "Scimitar\n1d20 + 10\n2d6+6+2d6",
+    "Roll 1": "Flame\n1d20 + 7\n5d6",
+    "Senses": "Darkvision 120 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Ignan",
+    "Immunities": "Fire",
+    "Spell Book": "Detect Magic, Enlarge/reduce, Tongues, Conjure Elemental, Gaseous Form, Invisibility, Major Image, Plane Shift, Wall Of Fire",
+    "Saving Throws": "Int +7, Wis +6, Cha +7",
+    "Challenge Rating": "11",
+    "Passive Perception": "12"
+  }
+}

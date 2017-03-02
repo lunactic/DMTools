@@ -1,0 +1,30 @@
+{
+  "name": "Werebear",
+  "id": 12201,
+  "content": " Traits\n\n**Shapechanger**: The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it. is wearing or carrying isn't transformed. It reverts to its true form if it dies.\n\n**Keen Smell**: The werebear has advantage on WisGlom (Perception) checks that rely on smell.\n\n Actions\n\n**Multiattack**: In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.\n\n**Bite (Bear or Hybrid Form Only)**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with were bear lycanthropy.\n\n**Claw (Bear or Hybrid Form Only)**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.\n\n**Greataxe (Humanoid or Hybrid Form Only)**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Shapechanger</strong>: The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it. is wearing or carrying isn't transformed. It reverts to its true form if it dies.<br><br><strong>Keen Smell</strong>: The werebear has advantage on WisGlom (Perception) checks that rely on smell.<br><br><h2>Actions</h2><strong>Multiattack</strong>: In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.<br><br><strong>Bite (Bear or Hybrid Form Only)</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with were bear lycanthropy.<br><br><strong>Claw (Bear or Hybrid Form Only)</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.<br><br><strong>Greataxe (Humanoid or Hybrid Form Only)</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.<br><br>",
+  "data": {
+    "AC": "10 (In Humanoid Form, 11 In Bear And Hybrid Forms )",
+    "HP": "135 (18d8+54)",
+    "CHA": "12",
+    "CON": "17",
+    "DEX": "10",
+    "INT": "11",
+    "STR": "19",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Humanoid (Human, Shapechanger)",
+    "Speed": "30 ft. (40 ft., climb 30 ft. in bear or hybrid form)",
+    "Roll 0": "Bite\n1d20 + 7\n2d10+4",
+    "Roll 1": "Claw\n1d20 + 7\n2d8+4",
+    "Roll 2": "Greataxe\n1d20 + 7\n1d12+4",
+    "Skills": "Perception +7",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Good",
+    "Languages": "Common (Can't Speak In Bear Form)",
+    "Immunities": "Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons That Aren't Silvered",
+    "Challenge Rating": "5",
+    "Passive Perception": "17"
+  }
+}

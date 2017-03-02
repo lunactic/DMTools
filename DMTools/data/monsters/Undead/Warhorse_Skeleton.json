@@ -1,0 +1,29 @@
+{
+  "name": "Warhorse Skeleton",
+  "id": 12197,
+  "content": " Actions\n\n**Hooves**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Hooves</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "13 (Barding Scraps)",
+    "HP": "22 (3d10+6)",
+    "CHA": "5",
+    "CON": "15",
+    "DEX": "12",
+    "INT": "2",
+    "STR": "18",
+    "WIS": "8",
+    "Size": "Large",
+    "Type": "Undead",
+    "Speed": "60 ft.",
+    "Roll 0": "Hooves\n1d20 + 6\n2d6+4",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Immunities": "Poison",
+    "Vulnerabilities": "Bludgeoning",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "9",
+    "Condition Immunities": "Exhaustion, Poisoned"
+  }
+}

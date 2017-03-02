@@ -2,6 +2,7 @@
   "name": "Mantle of Spell Resistance",
   "id": 9975,
   "content": "Requires Attunement\n\nYou have advantage on saving throws against spells while you wear this cloak.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>You have advantage on saving throws against spells while you wear this cloak.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

@@ -1,0 +1,29 @@
+{
+  "name": "Merrow",
+  "id": 12101,
+  "content": " Traits\n\n**Amphibious**: The merrow can breathe air and water.\n\n Actions\n\n**Multiattack**: The merrow makes two attacks: one with its bite and one with its claws or harpoon.\n\n**Bite**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.\n\n**Claws**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.\n\n**Harpoon**: Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Amphibious</strong>: The merrow can breathe air and water.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The merrow makes two attacks: one with its bite and one with its claws or harpoon.<br><br><strong>Bite</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.<br><br><strong>Harpoon</strong>: Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "45 (6d10+12)",
+    "CHA": "9",
+    "CON": "15",
+    "DEX": "10",
+    "INT": "8",
+    "STR": "18",
+    "WIS": "10",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "10 ft., swim 40 ft.",
+    "Roll 0": "Bite\n1d20 + 6\n1d8+4",
+    "Roll 1": "Claws\n1d20 + 6\n2d4+4",
+    "Roll 2": "Harpoon\n1d20 + 6\n2d6+4",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Abyssal, Aquan",
+    "Challenge Rating": "2",
+    "Passive Perception": "10"
+  }
+}

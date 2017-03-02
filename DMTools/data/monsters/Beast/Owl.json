@@ -1,0 +1,27 @@
+{
+  "name": "Owl",
+  "id": 12119,
+  "content": " Traits\n\n**Flyby**: The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.\n\n**Keen Hearing and Sight**: The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.\n\n Actions\n\n**Talons**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Flyby</strong>: The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.<br><br><strong>Keen Hearing and Sight</strong>: The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.<br><br><h2>Actions</h2><strong>Talons</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1 slashing damage.<br><br>",
+  "data": {
+    "AC": "11",
+    "HP": "1 (1d4-1)",
+    "CHA": "7",
+    "CON": "8",
+    "DEX": "13",
+    "INT": "2",
+    "STR": "3",
+    "WIS": "12",
+    "Size": "Tiny",
+    "Type": "Beast",
+    "Speed": "5 ft., fly 60 ft.",
+    "Roll 0": "Talons\n1d20 + 3\n1",
+    "Senses": "Darkvision 120 Ft.",
+    "Skills": "Perception +3, Stealth +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "13"
+  }
+}

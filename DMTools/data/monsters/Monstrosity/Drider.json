@@ -1,0 +1,32 @@
+{
+  "name": "Drider",
+  "id": 11993,
+  "content": " Traits\n\n**Fey Ancestry**: The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.\n\n**Innate Spellcasting**: The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components: \nAt will: dancing lights\n1/day each: darkness, faerie fire\n\n**Spider Climb**: The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\n\n**Sunlight Sensitivity**: While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.\n\n**Web Walker**: The drider ignores movement restrictions caused by webbing.\n\n Actions\n\n**Multiattack**: The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.\n\n**Bite**: Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage.\n\n**Longsword**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.\n\n**Longbow**: Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Fey Ancestry</strong>: The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.<br><br><strong>Innate Spellcasting</strong>: The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components: <br>At will: dancing lights<br>1/day each: darkness, faerie fire<br><br><strong>Spider Climb</strong>: The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.<br><br><strong>Sunlight Sensitivity</strong>: While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.<br><br><strong>Web Walker</strong>: The drider ignores movement restrictions caused by webbing.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.<br><br><strong>Bite</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage.<br><br><strong>Longsword</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.<br><br><strong>Longbow</strong>: Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.<br><br>",
+  "data": {
+    "AC": "19 (Natural Armor)",
+    "HP": "123 (13d10+52)",
+    "CHA": "12",
+    "CON": "18",
+    "DEX": "16",
+    "INT": "13",
+    "STR": "16",
+    "WIS": "14",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "30 ft., climb 30 ft.",
+    "Roll 0": "Bite\n1d20 + 6\n1d4+2d8",
+    "Roll 1": "One Handed\n1d20 + 6\n1d8+3",
+    "Roll 2": "Two Handed\n1d20 + 6\n1d10+3",
+    "Roll 3": "Longbow\n1d20 + 6\n1d8+3",
+    "Senses": "Darkvision 120 Ft.",
+    "Skills": "Perception +5, Stealth +9",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Elvish, Undercommon",
+    "Spell Book": "Dancing Lights, Darkness, Faerie Fire",
+    "Challenge Rating": "6",
+    "Passive Perception": "15"
+  }
+}

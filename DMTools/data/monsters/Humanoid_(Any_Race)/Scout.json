@@ -1,0 +1,28 @@
+{
+  "name": "Scout",
+  "id": 12151,
+  "content": "Scouts are skilled hunters and trackers who offer  their services for a fee. Most hunt wild game, but a  few work as bounty hunters, serve as guides, or  provide military reconnaissance.\n \n\n Traits\n\n**Keen Hearing and Sight**: The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.\n\n Actions\n\n**Multiattack**: The scout makes two melee attacks or two ranged attacks.\n\n**Shortsword**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.\n\n**Longbow**: Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.\n\n  ",
+  "htmlcontent": "Scouts are skilled hunters and trackers who offer  their services for a fee. Most hunt wild game, but a  few work as bounty hunters, serve as guides, or  provide military reconnaissance.<br><h2>Traits</h2><strong>Keen Hearing and Sight</strong>: The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The scout makes two melee attacks or two ranged attacks.<br><br><strong>Shortsword</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.<br><br><strong>Longbow</strong>: Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.<br><br>",
+  "data": {
+    "AC": "13 (Leather Armor)",
+    "HP": "16 (3d8+3)",
+    "CHA": "11",
+    "CON": "12",
+    "DEX": "14",
+    "INT": "11",
+    "STR": "11",
+    "WIS": "13",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 4\n1d6+2",
+    "Roll 1": "\n1d20 + 4\n1d8+2",
+    "Skills": "Nature +4, Perception +5, Stealth +6, Survival +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Any One Language (Usually Common)",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "15"
+  }
+}

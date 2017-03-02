@@ -1,0 +1,26 @@
+{
+  "name": "Lizard",
+  "id": 12090,
+  "content": " Actions\n\n**Bite**: Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 piercing damage.<br><br>",
+  "data": {
+    "AC": "10",
+    "HP": "2 (1d4)",
+    "CHA": "3",
+    "CON": "10",
+    "DEX": "11",
+    "INT": "1",
+    "STR": "2",
+    "WIS": "8",
+    "Size": "Tiny",
+    "Type": "Beast",
+    "Speed": "20 ft., climb 20 ft.",
+    "Roll 0": "Bite\n1d20 + 0\n1",
+    "Senses": "Darkvision 30 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "9"
+  }
+}

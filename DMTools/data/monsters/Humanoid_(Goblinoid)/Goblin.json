@@ -1,0 +1,29 @@
+{
+  "name": "Goblin",
+  "id": 12052,
+  "content": " Traits\n\n**Nimble Escape**: The goblin can take the Disengage or Hide action as a bonus action on each of its turns.\n\n Actions\n\n**Scimitar**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.\n\n**Shortbow**: Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Nimble Escape</strong>: The goblin can take the Disengage or Hide action as a bonus action on each of its turns.<br><br><h2>Actions</h2><strong>Scimitar</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.<br><br><strong>Shortbow</strong>: Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.<br><br>",
+  "data": {
+    "AC": "15 (Leather Armor, Shield)",
+    "HP": "7 (2d6)",
+    "CHA": "8",
+    "CON": "10",
+    "DEX": "14",
+    "INT": "10",
+    "STR": "8",
+    "WIS": "8",
+    "Size": "Small",
+    "Type": "Humanoid (Goblinoid)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 4\n1d6+2",
+    "Roll 1": "\n1d20 + 4\n1d6+2",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Stealth +6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "Common, Goblin",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "9"
+  }
+}

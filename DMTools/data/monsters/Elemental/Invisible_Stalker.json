@@ -1,0 +1,31 @@
+{
+  "name": "Invisible Stalker",
+  "id": 12079,
+  "content": " Traits\n\n**Invisibility**: The stalker is invisible.\n\n**Faultless Tracker**: The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.\n\n Actions\n\n**Multiattack**: The stalker makes two slam attacks.\n\n**Slam**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Invisibility</strong>: The stalker is invisible.<br><br><strong>Faultless Tracker</strong>: The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The stalker makes two slam attacks.<br><br><strong>Slam</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "14",
+    "HP": "104 (16d8+32)",
+    "CHA": "11",
+    "CON": "14",
+    "DEX": "19",
+    "INT": "10",
+    "STR": "16",
+    "WIS": "15",
+    "Size": "Medium",
+    "Type": "Elemental",
+    "Speed": "50 ft., fly 50 ft. (hover)",
+    "Roll 0": "Slam\n1d20 + 6\n2d6+3",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +8, Stealth +10",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral",
+    "Languages": "Auran, Understands Common But Doesn't Speak It",
+    "Immunities": "Poison",
+    "Resistances": "Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Challenge Rating": "6",
+    "Passive Perception": "18",
+    "Condition Immunities": "Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious"
+  }
+}

@@ -2,6 +2,7 @@
   "name": "Light Hammer",
   "id": 12225,
   "content": "",
+  "htmlcontent": "",
   "data": {
     "Range": "20/60",
     "Damage": "1d4",

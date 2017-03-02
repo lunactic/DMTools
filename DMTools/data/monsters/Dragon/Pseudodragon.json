@@ -1,0 +1,29 @@
+{
+  "name": "Pseudodragon",
+  "id": 12131,
+  "content": " Traits\n\n**Keen Senses**: The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.\n\n**Magic Resistance**: The pseudodragon has advantage on saving throws against spells and other magical effects.\n\n**Limited Telepathy**: The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 ft. of it that can understand a language.\n\n**Variant: Familiar**: The pseudodragon can serve another creature as a familiar, forming a magic, telepathic bond with that willing companion. While the two are bonded, the companion can sense what the pseudodragon senses as long as they are within 1 mile of each other. While the pseudodragon is within 10 feet of its companion, the companion shares the pseudodragon's Magic Resistance trait. At any time and for any reason, the pseudodragon can end its service as a familiar, ending the telepathic bond.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.\n\n**Sting**: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Senses</strong>: The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.<br><br><strong>Magic Resistance</strong>: The pseudodragon has advantage on saving throws against spells and other magical effects.<br><br><strong>Limited Telepathy</strong>: The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 ft. of it that can understand a language.<br><br><strong>Variant: Familiar</strong>: The pseudodragon can serve another creature as a familiar, forming a magic, telepathic bond with that willing companion. While the two are bonded, the companion can sense what the pseudodragon senses as long as they are within 1 mile of each other. While the pseudodragon is within 10 feet of its companion, the companion shares the pseudodragon's Magic Resistance trait. At any time and for any reason, the pseudodragon can end its service as a familiar, ending the telepathic bond.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.<br><br><strong>Sting</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.<br><br>",
+  "data": {
+    "AC": "13",
+    "HP": "7 (2d4+2)",
+    "CHA": "10",
+    "CON": "13",
+    "DEX": "15",
+    "INT": "10",
+    "STR": "6",
+    "WIS": "12",
+    "Size": "Tiny",
+    "Type": "Dragon",
+    "Speed": "15 ft., fly 60 ft.",
+    "Roll 0": "Bite\n1d20 + 4\n1d4+2",
+    "Roll 1": "Sting\n1d20 + 4\n1d4+2",
+    "Senses": "Blindsight 10 Ft., Darkvision 60 Ft.",
+    "Skills": "Perception +3, Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Good",
+    "Languages": "Understands Common And Draconic But Can't Speak",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "13"
+  }
+}

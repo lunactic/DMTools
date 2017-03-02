@@ -1,0 +1,26 @@
+{
+  "name": "Bat",
+  "id": 11948,
+  "content": " Traits\n\n**Echolocation**: The bat can't use its blindsight while deafened.\n\n**Keen Hearing**: The bat has advantage on Wisdom (Perception) checks that rely on hearing.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Echolocation</strong>: The bat can't use its blindsight while deafened.<br><br><strong>Keen Hearing</strong>: The bat has advantage on Wisdom (Perception) checks that rely on hearing.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "1 (1d4-1)",
+    "CHA": "4",
+    "CON": "8",
+    "DEX": "15",
+    "INT": "2",
+    "STR": "2",
+    "WIS": "12",
+    "Size": "Tiny",
+    "Type": "Beast",
+    "Speed": "5 ft., fly 30 ft.",
+    "Roll 0": "Bite\n1d20 + 0\n1",
+    "Senses": "Blindsight 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "11"
+  }
+}

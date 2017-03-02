@@ -1,0 +1,28 @@
+{
+  "name": "Deep Gnome (Svirfneblin)",
+  "id": 12287,
+  "content": " Traits\n\n**Stone Camouflage**: The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\n\n**Gnome Cunning**: The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.\n\n**Innate Spellcasting**: The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:\n\nAt will: nondetection (self only)\n1/day each: blindness deafness, blur, disguise self\n\n\n Actions\n\n**War Pick**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.\n\n**Poisoned Dart**: Ranged Weapon Attack: +4 to hit, range 30/120 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Stone Camouflage</strong>: The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.<br><br><strong>Gnome Cunning</strong>: The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.<br><br><strong>Innate Spellcasting</strong>: The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:<br><br>At will: <em>nondetection</em> (self only)<br>1/day each: <em>blindness deafness, blur, disguise self</em><br><br><br><h2>Actions</h2><strong>War Pick</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.<br><br><strong>Poisoned Dart</strong>: Ranged Weapon Attack: +4 to hit, range 30/120 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.<br>",
+  "data": {
+    "AC": "15 (chain shirt)",
+    "HP": "16 (3d6 + 6)",
+    "CHA": "9",
+    "CON": "14",
+    "DEX": "14",
+    "INT": "12",
+    "STR": "15",
+    "WIS": "10",
+    "Size": "Small",
+    "Type": "Humanoid (gnome)",
+    "Speed": "20 ft.",
+    "Roll 0": "1d20 + 4\n1d8+2",
+    "Roll 1": "1d20 + 4\n1d4+2",
+    "Senses": "darkvision 120 ft.",
+    "Skills": "Investigation +3, Perception +2, Stealth +4",
+    "Category": "Monsters",
+    "Alignment": "Neutral Good",
+    "Languages": "Gnomish, Terran, Undercommon",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "12"
+  }
+}

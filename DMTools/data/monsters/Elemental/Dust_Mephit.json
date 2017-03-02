@@ -1,0 +1,32 @@
+{
+  "name": "Dust Mephit",
+  "id": 11998,
+  "content": " Traits\n\n**Death Burst**: When the mephit dies, it explodes in a burst of dust. Each creature within 5 ft. of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.\n\n**Innate Spellcasting (1/Day)**: The mephit can innately cast sleep, requiring no material components. Its innate spellcasting ability is Charisma.\n\n Actions\n\n**Claws**: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) slashing damage.\n\n**Blinding Breath (Recharge 6)**: The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n\n**Variant: Summon Mephits (1/Day)**: The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Death Burst</strong>: When the mephit dies, it explodes in a burst of dust. Each creature within 5 ft. of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.<br><br><strong>Innate Spellcasting (1/Day)</strong>: The mephit can innately cast sleep, requiring no material components. Its innate spellcasting ability is Charisma.<br><br><h2>Actions</h2><strong>Claws</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) slashing damage.<br><br><strong>Blinding Breath (Recharge 6)</strong>: The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.<br><br><strong>Variant: Summon Mephits (1/Day)</strong>: The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "17 (5d6)",
+    "CHA": "10",
+    "CON": "10",
+    "DEX": "14",
+    "INT": "9",
+    "STR": "5",
+    "WIS": "11",
+    "Size": "Small",
+    "Type": "Elemental",
+    "Speed": "30 ft., fly 30 ft.",
+    "Roll 0": "Claws\n1d20 + 4\n1d4+2",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +2, Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "Auran, Terran",
+    "Immunities": "Poison",
+    "Spell Book": "Sleep",
+    "Vulnerabilities": "Fire",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "12",
+    "Condition Immunities": "Poisoned"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Tiger",
+  "id": 12184,
+  "content": " Traits\n\n**Keen Smell**: The tiger has advantage on Wisdom (Perception) checks that rely on smell.\n\n**Pounce**: If the tiger moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.\n\n**Claw**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Smell</strong>: The tiger has advantage on Wisdom (Perception) checks that rely on smell.<br><br><strong>Pounce</strong>: If the tiger moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.<br><br><strong>Claw</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "37 (5d10+10)",
+    "CHA": "8",
+    "CON": "14",
+    "DEX": "15",
+    "INT": "3",
+    "STR": "17",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "40 ft.",
+    "Roll 0": "Bite\n1d20 + 5\n1d10+3",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +3, Stealth +6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1",
+    "Passive Perception": "13"
+  }
+}

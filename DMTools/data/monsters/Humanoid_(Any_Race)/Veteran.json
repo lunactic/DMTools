@@ -1,0 +1,29 @@
+{
+  "name": "Veteran",
+  "id": 12193,
+  "content": "Veterans are professional fighters that take up arms  for pay or to protect something they believe in or  value. Their ranks include soldiers retired from long  service and warriors who never served anyone but  themselves.\n\n\n Actions\n\n**Multiattack**: The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.\n\n**Longsword**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.\n\n**Shortsword**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.\n\n**Heavy Crossbow**: Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.\n\n ",
+  "htmlcontent": "Veterans are professional fighters that take up arms  for pay or to protect something they believe in or  value. Their ranks include soldiers retired from long  service and warriors who never served anyone but  themselves.<br><h2>Actions</h2><strong>Multiattack</strong>: The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.<br><br><strong>Longsword</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.<br><br><strong>Shortsword</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.<br><br><strong>Heavy Crossbow</strong>: Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.<br><br>",
+  "data": {
+    "AC": "17 (Splint)",
+    "HP": "58 (9d8+18)",
+    "CHA": "10",
+    "CON": "14",
+    "DEX": "13",
+    "INT": "10",
+    "STR": "16",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 5\n1d8+3",
+    "Roll 1": "\n1d20 + 5\n1d6+3",
+    "Roll 2": "\n1d20 + 3\n1d10+1",
+    "Skills": "Athletics +5, Perception +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Any One Language (Usually Common)",
+    "Challenge Rating": "3",
+    "Passive Perception": "12"
+  }
+}

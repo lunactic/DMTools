@@ -2,6 +2,7 @@
   "name": "Chain Mail of Thunder Resistance",
   "id": 9768,
   "content": "Requires Attunement\n\n\tYou have resistance to thunder damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to thunder damage while you wear this armor.<br><br>",
   "data": {
     "AC": "16",
     "Source": "SRD 5.0",

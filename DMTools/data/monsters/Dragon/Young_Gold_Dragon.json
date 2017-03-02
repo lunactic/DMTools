@@ -1,0 +1,32 @@
+{
+  "name": "Young Gold Dragon",
+  "id": 12219,
+  "content": " Traits\n\n**Amphibious**: The dragon can breathe air and water.\n\n Actions\n\n**Multiattack**: The dragon makes three attacks: one with its bite and two with its claws.\n\n**Bite**: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.\n\n**Claw**: Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.\n\n**Breath Weapons (Recharge 5-6)**: The dragon uses one of the following breath weapons.\nFire Breath. The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.\nWeakening Breath. The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Amphibious</strong>: The dragon can breathe air and water.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The dragon makes three attacks: one with its bite and two with its claws.<br><br><strong>Bite</strong>: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.<br><br><strong>Claw</strong>: Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.<br><br><strong>Breath Weapons (Recharge 5-6)</strong>: The dragon uses one of the following breath weapons.<br>Fire Breath. The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.<br>Weakening Breath. The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.<br><br>",
+  "data": {
+    "AC": "18 (Natural Armor)",
+    "HP": "178 (17d10+85)",
+    "CHA": "20",
+    "CON": "21",
+    "DEX": "14",
+    "INT": "16",
+    "STR": "23",
+    "WIS": "13",
+    "Size": "Large",
+    "Type": "Dragon",
+    "Speed": "40 ft., fly 80 ft., swim 40 ft.",
+    "Roll 0": "Bite\n1d20 + 10\n2d10+6",
+    "Roll 1": "Claw\n1d20 + 10\n2d6+6",
+    "Roll 2": "Fire Breath\n1d20 + 0\n10d10",
+    "Senses": "Blindsight 30 Ft., Darkvision 120 Ft.",
+    "Skills": "Insight +5, Perception +9, Persuasion +9, Stealth +6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Good",
+    "Languages": "Common, Draconic",
+    "Immunities": "Fire",
+    "Saving Throws": "Dex +6, Con +9, Wis +5, Cha +9",
+    "Challenge Rating": "10",
+    "Passive Perception": "19"
+  }
+}

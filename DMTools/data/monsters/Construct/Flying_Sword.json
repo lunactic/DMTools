@@ -1,0 +1,29 @@
+{
+  "name": "Flying Sword",
+  "id": 12011,
+  "content": " Traits\n\n**Antimagic Susceptibility**: The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.\n\n**False Appearance**: While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.\n\n Actions\n\n**Longsword**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Antimagic Susceptibility</strong>: The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.<br><br><strong>False Appearance</strong>: While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.<br><br><h2>Actions</h2><strong>Longsword</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.<br><br>",
+  "data": {
+    "AC": "17 (Natural Armor)",
+    "HP": "17 (5d6)",
+    "CHA": "1",
+    "CON": "11",
+    "DEX": "15",
+    "INT": "1",
+    "STR": "12",
+    "WIS": "5",
+    "Size": "Small",
+    "Type": "Construct",
+    "Speed": "0 ft., fly 50 ft. It can hover.",
+    "Roll 0": "\n1d20 + 3\n1d8+1",
+    "Senses": "Blindsight 60 Ft. (Blind Beyond This Radius)",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Immunities": "Poison, Psychic",
+    "Saving Throws": "Dex +4",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "7",
+    "Condition Immunities": "Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned"
+  }
+}

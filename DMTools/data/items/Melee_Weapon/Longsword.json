@@ -2,6 +2,7 @@
   "name": "Longsword",
   "id": 9964,
   "content": "",
+  "htmlcontent": "",
   "data": {
     "Damage": "1d8",
     "Source": "SRD 5.0",

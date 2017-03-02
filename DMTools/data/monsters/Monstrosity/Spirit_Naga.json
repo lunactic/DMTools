@@ -1,0 +1,31 @@
+{
+  "name": "Spirit Naga",
+  "id": 12163,
+  "content": " Traits\n\n**Rejuvenation**: If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.\n\n**Spellcasting**: The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared: \n\n• Cantrips (at will): mage hand, minor illusion, ray of frost\n• 1st level (4 slots): charm person, detect magic, sleep\n• 2nd level (3 slots): detect thoughts, hold person\n• 3rd level (3 slots): lightning bolt, water breathing\n• 4th level (3 slots): blight, dimension door\n• 5th level (2 slots): dominate person\n\n Actions\n\n**Bite**: Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Rejuvenation</strong>: If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.<br><br><strong>Spellcasting</strong>: The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared: <br><br>• Cantrips (at will): mage hand, minor illusion, ray of frost<br>• 1st level (4 slots): charm person, detect magic, sleep<br>• 2nd level (3 slots): detect thoughts, hold person<br>• 3rd level (3 slots): lightning bolt, water breathing<br>• 4th level (3 slots): blight, dimension door<br>• 5th level (2 slots): dominate person<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "15 (Natural Armor)",
+    "HP": "75 (10d10+20)",
+    "CHA": "16",
+    "CON": "14",
+    "DEX": "17",
+    "INT": "16",
+    "STR": "18",
+    "WIS": "15",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "40 ft.",
+    "Roll 0": "Bite\n1d20 + 7\n1d6+4",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Abyssal, Common",
+    "Immunities": "Poison",
+    "Spell Book": "Mage Hand, Minor Illusion, Ray Of Frost, Charm Person, Detect Magic, Sleep, Detect Thoughts, Hold Person, Lightning Bolt, Water Breathing, Blight, Dimension Door, Dominate Person",
+    "Saving Throws": "Dex +6, Con +5, Wis +5, Cha +6",
+    "Challenge Rating": "8",
+    "Passive Perception": "12",
+    "Condition Immunities": "Charmed, Poisoned"
+  }
+}

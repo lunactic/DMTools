@@ -2,6 +2,7 @@
   "name": "Maul",
   "id": 9983,
   "content": "",
+  "htmlcontent": "",
   "data": {
     "Damage": "2d6",
     "Source": "SRD 5.0",

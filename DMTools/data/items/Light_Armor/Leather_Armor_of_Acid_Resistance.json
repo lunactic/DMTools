@@ -2,6 +2,7 @@
   "name": "Leather Armor of Acid Resistance",
   "id": 9940,
   "content": "Requires Attunement\n\n\tYou have resistance to acid damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to acid damage while you wear this armor.<br><br>",
   "data": {
     "AC": "11",
     "Source": "SRD 5.0",

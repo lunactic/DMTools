@@ -1,0 +1,30 @@
+{
+  "name": "Cloud Giant",
+  "id": 11973,
+  "content": " Traits\n\n**Keen Smell**: The giant has advantage on Wisdom (Perception) checks that rely on smell.\n\n**Innate Spellcasting**: The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components: \n\nAt will: detect magic, fog cloud, light\n3/day each: feather fall, fly, misty step, telekinesis\n1/day each: control weather, gaseous form\n\n Actions\n\n**Multiattack**: The giant makes two morningstar attacks.\n\n**Morningstar**: Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) piercing damage.\n\n**Rock**: Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Smell</strong>: The giant has advantage on Wisdom (Perception) checks that rely on smell.<br><br><strong>Innate Spellcasting</strong>: The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components: <br><br>At will: detect magic, fog cloud, light<br>3/day each: feather fall, fly, misty step, telekinesis<br>1/day each: control weather, gaseous form<br><br><h2>Actions</h2><strong>Multiattack</strong>: The giant makes two morningstar attacks.<br><br><strong>Morningstar</strong>: Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) piercing damage.<br><br><strong>Rock</strong>: Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "14 (Natural Armor)",
+    "HP": "200 (16d12+96)",
+    "CHA": "16",
+    "CON": "22",
+    "DEX": "10",
+    "INT": "12",
+    "STR": "27",
+    "WIS": "16",
+    "Size": "Huge",
+    "Type": "Giant",
+    "Speed": "40 ft.",
+    "Roll 0": "Morningstar\n1d20 + 12\n3d8+8",
+    "Roll 1": "Rock\n1d20 + 12\n4d10+8",
+    "Skills": "Insight +7, Perception +7",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Good (50%) Or Neutral Evil (50%)",
+    "Languages": "Common, Giant",
+    "Spell Book": "Detect Magic, Fog Cloud, Light, Feather Fall, Fly, Misty Step, Telekinesis, Control Weather, Gaseous Form",
+    "Saving Throws": "Con +10, Wis +7, Cha +7",
+    "Challenge Rating": "9",
+    "Passive Perception": "17"
+  }
+}

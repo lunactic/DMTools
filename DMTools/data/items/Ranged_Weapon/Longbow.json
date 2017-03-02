@@ -2,6 +2,7 @@
   "name": "Longbow",
   "id": 9960,
   "content": "",
+  "htmlcontent": "",
   "data": {
     "Range": "150/600",
     "Damage": "1d8",

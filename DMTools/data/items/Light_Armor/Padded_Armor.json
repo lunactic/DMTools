@@ -2,6 +2,7 @@
   "name": "Padded Armor",
   "id": 10017,
   "content": "Padded armor consists of quilted layers of cloth and batting.\n\n",
+  "htmlcontent": "Padded armor consists of quilted layers of cloth and batting.<br><br>",
   "data": {
     "AC": "11",
     "Source": "SRD 5.0",

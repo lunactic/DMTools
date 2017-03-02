@@ -1,0 +1,29 @@
+{
+  "name": "Homunculus",
+  "id": 12071,
+  "content": " Traits\n\n**Telepathic Bond**: While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Telepathic Bond</strong>: While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "5 (2d4)",
+    "CHA": "7",
+    "CON": "11",
+    "DEX": "15",
+    "INT": "10",
+    "STR": "4",
+    "WIS": "10",
+    "Size": "Tiny",
+    "Type": "Construct",
+    "Speed": "20 ft., fly 40 ft.",
+    "Roll 0": "Bite\n1d20 + 4\n1",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral",
+    "Languages": "Understands The Languages Of Its Creator But Can't Speak",
+    "Immunities": "Poison",
+    "Challenge Rating": "0",
+    "Passive Perception": "10",
+    "Condition Immunities": "Charmed, Poisoned"
+  }
+}

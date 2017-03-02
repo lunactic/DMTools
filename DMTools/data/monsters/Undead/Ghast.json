@@ -1,0 +1,30 @@
+{
+  "name": "Ghast",
+  "id": 12016,
+  "content": " Traits\n\n**Stench**: Any creature that starts its turn within 5 ft. of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.\n\n**Turn Defiance**: The ghast and any ghouls within 30 ft. of it have advantage on saving throws against effects that turn undead.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) piercing damage.\n\n**Claws**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Stench</strong>: Any creature that starts its turn within 5 ft. of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.<br><br><strong>Turn Defiance</strong>: The ghast and any ghouls within 30 ft. of it have advantage on saving throws against effects that turn undead.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) piercing damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.<br><br>",
+  "data": {
+    "AC": "13",
+    "HP": "36 (8d8)",
+    "CHA": "8",
+    "CON": "10",
+    "DEX": "17",
+    "INT": "11",
+    "STR": "16",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Undead",
+    "Speed": "30 ft.",
+    "Roll 0": "Bite\n1d20 + 3\n2d8+3",
+    "Roll 1": "Claws\n1d20 + 5\n2d6+3",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Common",
+    "Immunities": "Necrotic",
+    "Challenge Rating": "2",
+    "Passive Perception": "10",
+    "Condition Immunities": "Poisoned"
+  }
+}

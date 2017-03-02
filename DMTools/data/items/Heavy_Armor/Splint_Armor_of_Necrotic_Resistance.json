@@ -2,6 +2,7 @@
   "name": "Splint Armor of Necrotic Resistance",
   "id": 10216,
   "content": "Requires Attunement\n\n\tYou have resistance to necrotic damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to necrotic damage while you wear this armor.<br><br>",
   "data": {
     "AC": "17",
     "Source": "SRD 5.0",

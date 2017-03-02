@@ -1,0 +1,31 @@
+{
+  "name": "Werewolf",
+  "id": 12205,
+  "content": " Traits\n\n**Shapechanger**: The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.\n\n**Keen Hearing and Smell**: The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.\n\n Actions\n\n**Multiattack (Humanoid or Hybrid Form Only)**: The werewolf makes two attacks: one with its bite and one with its claws or spear.\n\n**Bite (Wolf or Hybrid Form Only)**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.\n\n**Claws (Hybrid Form Only)**: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (2d4 + 2) slashing damage.\n\n**Spear (Humanoid Form Only)**: Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Shapechanger</strong>: The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.<br><br><strong>Keen Hearing and Smell</strong>: The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br><h2>Actions</h2><strong>Multiattack (Humanoid or Hybrid Form Only)</strong>: The werewolf makes two attacks: one with its bite and one with its claws or spear.<br><br><strong>Bite (Wolf or Hybrid Form Only)</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.<br><br><strong>Claws (Hybrid Form Only)</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (2d4 + 2) slashing damage.<br><br><strong>Spear (Humanoid Form Only)</strong>: Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.<br><br>",
+  "data": {
+    "AC": "11 (In Humanoid Form, 12 In Wolf Or Hybrid Form)",
+    "HP": "58 (9d8+18)",
+    "CHA": "10",
+    "CON": "14",
+    "DEX": "13",
+    "INT": "10",
+    "STR": "15",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Humanoid (Human, Shapechanger)",
+    "Speed": "30 ft. (40 ft. in wolf form)",
+    "Roll 0": "\n1d20 + 4\n1d8+2",
+    "Roll 1": "\n1d20 + 4\n2d4+2",
+    "Roll 2": "One-Handed\n1d20 + 4\n1d6+2",
+    "Roll 3": "Two-Handed\n1d20 + 4\n1d8+2",
+    "Skills": "Perception +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Common (Can't Speak In Wolf Form)",
+    "Immunities": "Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons That Aren't Silvered",
+    "Challenge Rating": "3",
+    "Passive Perception": "14"
+  }
+}

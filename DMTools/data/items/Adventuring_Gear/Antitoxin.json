@@ -2,6 +2,7 @@
   "name": "Antitoxin",
   "id": 9690,
   "content": "A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.\n\n",
+  "htmlcontent": "A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

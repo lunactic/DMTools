@@ -2,6 +2,7 @@
   "name": "Horseshoes of Speed",
   "id": 9919,
   "content": "These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they increase the creature's walking speed by 30 feet.\n\n",
+  "htmlcontent": "These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they increase the creature's walking speed by 30 feet.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

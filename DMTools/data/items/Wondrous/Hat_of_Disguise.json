@@ -2,6 +2,7 @@
   "name": "Hat of Disguise",
   "id": 9893,
   "content": "Requires Attunement\n\nWhile wearing this hat, you can use an action to cast the disguise self spell from it at will. The spell ends if the hat is removed.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>While wearing this hat, you can use an action to cast the disguise self spell from it at will. The spell ends if the hat is removed.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

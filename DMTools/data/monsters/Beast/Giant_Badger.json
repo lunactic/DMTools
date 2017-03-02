@@ -1,0 +1,27 @@
+{
+  "name": "Giant Badger",
+  "id": 12020,
+  "content": " Traits\n\n**Keen Smell**: The badger has advantage on Wisdom (Perception) checks that rely on smell.\n\n Actions\n\n**Multiattack**: The badger makes two attacks: one with its bite and one with its claws.\n\n**Bite**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.\n\n**Claws**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Smell</strong>: The badger has advantage on Wisdom (Perception) checks that rely on smell.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The badger makes two attacks: one with its bite and one with its claws.<br><br><strong>Bite</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage.<br><br>",
+  "data": {
+    "AC": "10",
+    "HP": "13 (2d8+4)",
+    "CHA": "5",
+    "CON": "15",
+    "DEX": "10",
+    "INT": "2",
+    "STR": "13",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Beast",
+    "Speed": "30 ft., burrow 10 ft.",
+    "Roll 0": "Bite\n1d20 + 3\n1d6+1",
+    "Roll 1": "Claws\n1d20 + 3\n2d4+1",
+    "Senses": "Darkvision 30 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "11"
+  }
+}

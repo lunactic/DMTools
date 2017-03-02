@@ -1,0 +1,29 @@
+{
+  "name": "Azer",
+  "id": 11940,
+  "content": " Traits\n\n**Heated Body**: A creature that touches the azer or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage.\n\n**Heated Weapons**: When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).\n\n**Illumination**: The azer sheds bright light in a 10-foot radius and dim light for an additional 10 ft..\n\n Actions\n\n**Warhammer**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Heated Body</strong>: A creature that touches the azer or hits it with a melee attack while within 5 ft. of it takes 5 (1d10) fire damage.<br><br><strong>Heated Weapons</strong>: When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).<br><br><strong>Illumination</strong>: The azer sheds bright light in a 10-foot radius and dim light for an additional 10 ft..<br><br><h2>Actions</h2><strong>Warhammer</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.<br><br>",
+  "data": {
+    "AC": "17 (Natural Armor, Shield)",
+    "HP": "39 (6d8+12)",
+    "CHA": "10",
+    "CON": "15",
+    "DEX": "12",
+    "INT": "12",
+    "STR": "17",
+    "WIS": "13",
+    "Size": "Medium",
+    "Type": "Elemental",
+    "Speed": "30 ft.",
+    "Roll 0": "Warhammer\n1d20 + 5\n1d8+3+1d6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Neutral",
+    "Languages": "Ignan",
+    "Immunities": "Fire, Poison",
+    "Saving Throws": "Con +4",
+    "Challenge Rating": "2",
+    "Passive Perception": "11",
+    "Condition Immunities": "Poisoned"
+  }
+}

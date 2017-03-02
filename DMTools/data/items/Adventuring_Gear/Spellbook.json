@@ -2,6 +2,7 @@
   "name": "Spellbook",
   "id": 10195,
   "content": "Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.\n\n",
+  "htmlcontent": "Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "3",

@@ -2,6 +2,7 @@
   "name": "Chain Shirt of Cold Resistance",
   "id": 9774,
   "content": "Requires Attunement\n\n\tYou have resistance to cold damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to cold damage while you wear this armor.<br><br>",
   "data": {
     "AC": "13",
     "Source": "SRD 5.0",

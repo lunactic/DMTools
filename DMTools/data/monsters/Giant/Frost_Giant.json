@@ -1,0 +1,30 @@
+{
+  "name": "Frost Giant",
+  "id": 12013,
+  "content": " Actions\n\n**Multiattack**: The giant makes two greataxe attacks.\n\n**Greataxe**: Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 25 (3d12 + 6) slashing damage.\n\n**Rock**: Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Multiattack</strong>: The giant makes two greataxe attacks.<br><br><strong>Greataxe</strong>: Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 25 (3d12 + 6) slashing damage.<br><br><strong>Rock</strong>: Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "15 (Patchwork Armor)",
+    "HP": "138 (12d12+60)",
+    "CHA": "12",
+    "CON": "21",
+    "DEX": "9",
+    "INT": "9",
+    "STR": "23",
+    "WIS": "10",
+    "Size": "Huge",
+    "Type": "Giant",
+    "Speed": "40 ft.",
+    "Roll 0": "\n1d20 + 9\n3d12+6",
+    "Roll 1": "\n1d20 + 9\n4d10+6",
+    "Skills": "Athletics +9, Perception +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "Giant",
+    "Immunities": "Cold",
+    "Saving Throws": "Con +8, Wis +3, Cha +4",
+    "Challenge Rating": "8",
+    "Passive Perception": "13"
+  }
+}

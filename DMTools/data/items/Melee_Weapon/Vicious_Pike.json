@@ -2,6 +2,7 @@
   "name": "Vicious Pike",
   "id": 10294,
   "content": "\tWhen you roll a 20 with this magic weapon, the target takes an extra 2d6 piercing damage.\n\n",
+  "htmlcontent": "\tWhen you roll a 20 with this magic weapon, the target takes an extra 2d6 piercing damage.<br><br>",
   "data": {
     "Damage": "1d10",
     "Source": "SRD 5.0",

@@ -1,0 +1,30 @@
+{
+  "name": "Ogre Zombie",
+  "id": 12114,
+  "content": " Traits\n\n**Undead Fortitude**: If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.\n\n Actions\n\n**Morningstar**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Undead Fortitude</strong>: If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.<br><br><h2>Actions</h2><strong>Morningstar</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "8",
+    "HP": "85 (9d10+36)",
+    "CHA": "5",
+    "CON": "18",
+    "DEX": "6",
+    "INT": "3",
+    "STR": "19",
+    "WIS": "6",
+    "Size": "Large",
+    "Type": "Undead",
+    "Speed": "30 ft.",
+    "Roll 0": "Morningstar\n1d20 + 6\n2d8+4",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "Understands Common And Giant But Can't Speak",
+    "Immunities": "Poison",
+    "Saving Throws": "Wis +0",
+    "Challenge Rating": "2",
+    "Passive Perception": "8",
+    "Condition Immunities": "Poisoned"
+  }
+}

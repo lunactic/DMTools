@@ -1,0 +1,25 @@
+{
+  "name": "Giant Sea Horse",
+  "id": 12039,
+  "content": "Like their smaller kin, giant sea horses are shy,  colorful fish with elongated bodies and curled tails.  Aquatic elves train them as mounts.\n\n Traits\n\n**Charge**: If the sea horse moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.\n\n**Water Breathing**: The sea horse can breathe only underwater.\n\n Actions\n\n**Ram**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.\n\n  ",
+  "htmlcontent": "Like their smaller kin, giant sea horses are shy,  colorful fish with elongated bodies and curled tails.  Aquatic elves train them as mounts.\n\n<h2>Traits</h2><strong>Charge</strong>: If the sea horse moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.<br><br><strong>Water Breathing</strong>: The sea horse can breathe only underwater.<br><br><h2>Actions</h2><strong>Ram</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "16 (3d10)",
+    "CHA": "5",
+    "CON": "11",
+    "DEX": "15",
+    "INT": "2",
+    "STR": "12",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "0 ft., swim 40 ft.",
+    "Roll 0": "\n1d20 + 3\n1d6+1",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "11"
+  }
+}

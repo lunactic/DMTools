@@ -1,0 +1,29 @@
+{
+  "name": "Swarm of Quippers",
+  "id": 12177,
+  "content": " Traits\n\n**Blood Frenzy**: The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.\n\n**Swarm**: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.\n\n**Water Breathing**: The swarm can breathe only underwater.\n\n Actions\n\n**Bites**: Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Blood Frenzy</strong>: The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.<br><br><strong>Swarm</strong>: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.<br><br><strong>Water Breathing</strong>: The swarm can breathe only underwater.<br><br><h2>Actions</h2><strong>Bites</strong>: Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.<br><br>",
+  "data": {
+    "AC": "13",
+    "HP": "28 (8d8-8)",
+    "CHA": "2",
+    "CON": "9",
+    "DEX": "16",
+    "INT": "1",
+    "STR": "13",
+    "WIS": "7",
+    "Size": "Medium",
+    "Type": "Swarm Of Tiny Beasts",
+    "Speed": "0 ft., swim 40 ft.",
+    "Roll 0": "Full\n1d20 + 5\n4d6",
+    "Roll 1": "Half\n1d20 + 5\n2d6",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Resistances": "Bludgeoning, Piercing, Slashing",
+    "Challenge Rating": "1",
+    "Passive Perception": "8",
+    "Condition Immunities": "Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned"
+  }
+}

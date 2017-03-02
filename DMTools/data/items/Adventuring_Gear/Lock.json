@@ -2,6 +2,7 @@
   "name": "Lock",
   "id": 9956,
   "content": "A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.\n\n",
+  "htmlcontent": "A key is provided with the lock. Without the key, a creature proficient with thieves' tools can pick this lock with a successful DC 15 Dexterity check. Your DM may decide that better locks are available for higher prices.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "1",

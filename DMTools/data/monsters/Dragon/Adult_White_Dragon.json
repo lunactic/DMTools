@@ -1,0 +1,33 @@
+{
+  "name": "Adult White Dragon",
+  "id": 11919,
+  "content": " Traits\n\n**Ice Walk**: The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.\n\n**Legendary Resistance (3/Day)**: If the dragon fails a saving throw, it can choose to succeed instead.\n\n Actions\n\n**Multiattack**: The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.\n\n**Bite**: Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 4 (1d8) cold damage.\n\n**Claw**: Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.\n\n**Tail**: Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.\n\n**Frightful Presence**: Each creature of the dragon's choice that is within 120 ft. of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.\n\n**Cold Breath (Recharge 5-6)**: The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.\n\n Legendary Actions\n\nCan take 3 Legendary Actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. Spent legendary actions are regained at the start of each turn.\n\n**Detect**: The dragon makes a Wisdom (Perception) check.\n\n**Tail Attack**: The dragon makes a tail attack.\n\n**Wing Attack (Costs 2 Actions)**: The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.\n\n   ",
+  "htmlcontent": "<h2>Traits</h2><strong>Ice Walk</strong>: The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.<br><br><strong>Legendary Resistance (3/Day)</strong>: If the dragon fails a saving throw, it can choose to succeed instead.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.<br><br><strong>Bite</strong>: Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 4 (1d8) cold damage.<br><br><strong>Claw</strong>: Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.<br><br><strong>Tail</strong>: Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.<br><br><strong>Frightful Presence</strong>: Each creature of the dragon's choice that is within 120 ft. of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.<br><br><strong>Cold Breath (Recharge 5-6)</strong>: The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.<br><br><h2>Legendary Actions</h2>Can take 3 Legendary Actions, choosing from the options below. Only one legendary action can be used at a time, and only at the end of another creature's turn. Spent legendary actions are regained at the start of each turn.<br><br><strong>Detect</strong>: The dragon makes a Wisdom (Perception) check.<br><br><strong>Tail Attack</strong>: The dragon makes a tail attack.<br><br><strong>Wing Attack (Costs 2 Actions)</strong>: The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.<br><br>",
+  "data": {
+    "AC": "18 (Natural Armor)",
+    "HP": "200 (16d12+96)",
+    "CHA": "12",
+    "CON": "22",
+    "DEX": "10",
+    "INT": "8",
+    "STR": "22",
+    "WIS": "12",
+    "Size": "Huge",
+    "Type": "Dragon",
+    "Speed": "40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.",
+    "Roll 0": "Bite\n1d20 + 11\n2d10+6+1d8",
+    "Roll 1": "Claw\n1d20 + 11\n2d6+6",
+    "Roll 2": "Tail\n1d20 + 11\n2d8+6",
+    "Roll 3": "Cold Breath\n1d20 + 0\n12d8",
+    "Senses": "Blindsight 60 Ft., Darkvision 120 Ft.",
+    "Skills": "Perception +11, Stealth +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Common, Draconic",
+    "Immunities": "Cold",
+    "Saving Throws": "Dex +5, Con +11, Wis +6, Cha +6",
+    "Challenge Rating": "13",
+    "Passive Perception": "21"
+  }
+}

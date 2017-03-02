@@ -2,6 +2,7 @@
   "name": "Dagger +3",
   "id": 9805,
   "content": "\tYou have a +3 bonus to attack and damage rolls made with this weapon.\n\n",
+  "htmlcontent": "\tYou have a +3 bonus to attack and damage rolls made with this weapon.<br><br>",
   "data": {
     "Range": "20/60",
     "Damage": "1d4",

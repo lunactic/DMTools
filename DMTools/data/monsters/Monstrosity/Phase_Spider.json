@@ -1,0 +1,28 @@
+{
+  "name": "Phase Spider",
+  "id": 12123,
+  "content": "A phase spider possesses the magical ability to  phase in and out of the Ethereal Plane. It seems to  appear out of nowhere and quickly vanishes after  attacking. Its movement on the Ethereal Plane before  coming back to the Material Plane makes it seem like  it can teleport.\n\n Traits\n\n**Ethereal Jaunt**: As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.\n\n**Spider Climb**: The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\n\n**Web Walker**: The spider ignores movement restrictions caused by webbing.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.\n\n  ",
+  "htmlcontent": "A phase spider possesses the magical ability to  phase in and out of the Ethereal Plane. It seems to  appear out of nowhere and quickly vanishes after  attacking. Its movement on the Ethereal Plane before  coming back to the Material Plane makes it seem like  it can teleport.\n\n<h2>Traits</h2><strong>Ethereal Jaunt</strong>: As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.<br><br><strong>Spider Climb</strong>: The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.<br><br><strong>Web Walker</strong>: The spider ignores movement restrictions caused by webbing.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "32 (5d10+5)",
+    "CHA": "6",
+    "CON": "12",
+    "DEX": "15",
+    "INT": "6",
+    "STR": "15",
+    "WIS": "10",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "30 ft., climb 30 ft.",
+    "Roll 0": "\n1d20 + 4\n1d10+2",
+    "Roll 1": "Poison\n1d20 + 0\n4d8",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Stealth +6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "3",
+    "Passive Perception": "10"
+  }
+}

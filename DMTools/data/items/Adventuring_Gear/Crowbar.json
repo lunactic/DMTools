@@ -2,6 +2,7 @@
   "name": "Crowbar",
   "id": 9798,
   "content": "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.\n\n",
+  "htmlcontent": "Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "5",

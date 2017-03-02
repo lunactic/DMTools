@@ -1,0 +1,24 @@
+{
+  "name": "Sea Horse",
+  "id": 12153,
+  "content": " Traits\n\n**Water Breathing**: The sea horse can breathe only underwater.\n\n ",
+  "htmlcontent": "<h2>Traits</h2><strong>Water Breathing</strong>: The sea horse can breathe only underwater.<br><br>",
+  "data": {
+    "AC": "11",
+    "HP": "1 (1d4-1)",
+    "CHA": "2",
+    "CON": "8",
+    "DEX": "12",
+    "INT": "1",
+    "STR": "1",
+    "WIS": "10",
+    "Size": "Tiny",
+    "Type": "Beast",
+    "Speed": "Swim 20 ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "10"
+  }
+}

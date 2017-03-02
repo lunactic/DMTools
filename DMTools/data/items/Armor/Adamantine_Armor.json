@@ -2,6 +2,7 @@
   "name": "Adamantine Armor",
   "id": 12261,
   "content": "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.",
+  "htmlcontent": "This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

@@ -2,6 +2,7 @@
   "name": "Dragon Slayer",
   "id": 12272,
   "content": "You gain a +1 bonus to attack and damage rolls made with this magic weapon.\n\nWhen you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.",
+  "htmlcontent": "You gain a +1 bonus to attack and damage rolls made with this magic weapon.<br><br>When you hit a dragon with this weapon, the dragon takes an extra 3d6 damage of the weapon's type. For the purpose of this weapon, \"dragon\" refers to any creature with the dragon type, including dragon turtles and wyverns.",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

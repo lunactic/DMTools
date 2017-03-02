@@ -1,0 +1,28 @@
+{
+  "name": "Priest",
+  "id": 12130,
+  "content": "Priests bring the teachings of their gods to the  common folk. They are the spiritual leaders of  temples and shrines and often hold positions of  influence in their communities. Evil priests might  work openly under a tyrant, or they might be the  leaders of religious sects hidden in the shadows of  good society, overseeing depraved rites. \n\n\n  A priest typically has one or more acolytes to help  with religious ceremonies and other sacred duties.\n\n\n Traits\n\n**Divine Eminence**: As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.\n\n**Spellcasting**: The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared: \n\n• Cantrips (at will): light, sacred flame, thaumaturgy\n• 1st level (4 slots): cure wounds, guiding bolt, sanctuary\n• 2nd level (3 slots): lesser restoration, spiritual weapon\n• 3rd level (2 slots): dispel magic, spirit guardians\n\n Actions\n\n**Mace**: Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.\n\n  ",
+  "htmlcontent": "Priests bring the teachings of their gods to the  common folk. They are the spiritual leaders of  temples and shrines and often hold positions of  influence in their communities. Evil priests might  work openly under a tyrant, or they might be the  leaders of religious sects hidden in the shadows of  good society, overseeing depraved rites. <br><br>\n  A priest typically has one or more acolytes to help  with religious ceremonies and other sacred duties.<br><h2>Traits</h2><strong>Divine Eminence</strong>: As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.<br><br><strong>Spellcasting</strong>: The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared: <br><br>• Cantrips (at will): light, sacred flame, thaumaturgy<br>• 1st level (4 slots): cure wounds, guiding bolt, sanctuary<br>• 2nd level (3 slots): lesser restoration, spiritual weapon<br>• 3rd level (2 slots): dispel magic, spirit guardians<br><br><h2>Actions</h2><strong>Mace</strong>: Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "13 (Chain Shirt)",
+    "HP": "27 (5d8+5)",
+    "CHA": "13",
+    "CON": "12",
+    "DEX": "10",
+    "INT": "13",
+    "STR": "10",
+    "WIS": "16",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "25 ft.",
+    "Roll 0": "\n1d20 + 2\n1d6",
+    "Skills": "Medicine +7, Persuasion +3, Religion +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Any Two Languages",
+    "Spell Book": "Light, Sacred Flame, Thaumaturgy, Cure Wounds, Guiding Bolt, Sanctuary, Lesser Restoration, Spiritual Weapon, Dispel Magic, Spirit Guardians",
+    "Challenge Rating": "2",
+    "Passive Perception": "13"
+  }
+}

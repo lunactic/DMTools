@@ -2,6 +2,7 @@
   "name": "Vicious Flail",
   "id": 10276,
   "content": "\tWhen you roll a 20 with this magic weapon, the target takes an extra 2d6 bludgeoning damage.\n\n",
+  "htmlcontent": "\tWhen you roll a 20 with this magic weapon, the target takes an extra 2d6 bludgeoning damage.<br><br>",
   "data": {
     "Damage": "1d8",
     "Source": "SRD 5.0",

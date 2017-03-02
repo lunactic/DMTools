@@ -1,0 +1,27 @@
+{
+  "name": "Giant Crab",
+  "id": 12025,
+  "content": " Traits\n\n**Amphibious**: The crab can breathe air and water.\n\n Actions\n\n**Claw**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Amphibious</strong>: The crab can breathe air and water.<br><br><h2>Actions</h2><strong>Claw</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.<br><br>",
+  "data": {
+    "AC": "15 (Natural Armor)",
+    "HP": "13 (3d8)",
+    "CHA": "3",
+    "CON": "11",
+    "DEX": "15",
+    "INT": "1",
+    "STR": "13",
+    "WIS": "9",
+    "Size": "Medium",
+    "Type": "Beast",
+    "Speed": "30 ft., swim 30 ft.",
+    "Roll 0": "Claw\n1d20 + 3\n1d6+1",
+    "Senses": "Blindsight 30 Ft.",
+    "Skills": "Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/8",
+    "Passive Perception": "9"
+  }
+}

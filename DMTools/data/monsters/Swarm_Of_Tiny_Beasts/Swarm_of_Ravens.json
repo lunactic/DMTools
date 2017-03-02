@@ -1,0 +1,28 @@
+{
+  "name": "Swarm of Ravens",
+  "id": 12179,
+  "content": " Traits\n\n**Swarm**: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.\n\n Actions\n\n**Beaks**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Swarm</strong>: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.<br><br><h2>Actions</h2><strong>Beaks</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "24 (7d8-7)",
+    "CHA": "6",
+    "CON": "8",
+    "DEX": "14",
+    "INT": "3",
+    "STR": "6",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Swarm Of Tiny Beasts",
+    "Speed": "10 ft., fly 50 ft.",
+    "Roll 0": "Full\n1d20 + 4\n2d6",
+    "Roll 1": "Half\n1d20 + 4\n1d6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Resistances": "Bludgeoning, Piercing, Slashing",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "15",
+    "Condition Immunities": "Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned"
+  }
+}

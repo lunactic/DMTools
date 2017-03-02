@@ -1,0 +1,28 @@
+{
+  "name": "Kobold",
+  "id": 12084,
+  "content": " Traits\n\n**Sunlight Sensitivity**: While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.\n\n**Pack Tactics**: The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 ft. of the creature and the ally isn't incapacitated.\n\n Actions\n\n**Dagger**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.\n\n**Sling**: Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Sunlight Sensitivity</strong>: While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.<br><br><strong>Pack Tactics</strong>: The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 ft. of the creature and the ally isn't incapacitated.<br><br><h2>Actions</h2><strong>Dagger</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.<br><br><strong>Sling</strong>: Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "5 (2d6-2)",
+    "CHA": "8",
+    "CON": "9",
+    "DEX": "15",
+    "INT": "8",
+    "STR": "7",
+    "WIS": "7",
+    "Size": "Small",
+    "Type": "Humanoid (Kobold)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 4\n1d4+2",
+    "Roll 1": "\n1d20 + 4\n1d4+2",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Common, Draconic",
+    "Challenge Rating": "1/8",
+    "Passive Perception": "8"
+  }
+}

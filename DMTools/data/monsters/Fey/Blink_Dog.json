@@ -1,0 +1,27 @@
+{
+  "name": "Blink Dog",
+  "id": 11955,
+  "content": "A blink dog takes its name from its ability to blink in  and out of existence, a talent it uses to aid its attacks and to avoid harm.\n \n Traits\n\n**Keen Hearing and Smell**: The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.\n\n**Teleport (Recharge 4-6)**: The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 ft. to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.\n\n  ",
+  "htmlcontent": "A blink dog takes its name from its ability to blink in  and out of existence, a talent it uses to aid its attacks and to avoid harm.<br><h2>Traits</h2><strong>Keen Hearing and Smell</strong>: The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.<br><br><strong>Teleport (Recharge 4-6)</strong>: The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 ft. to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.<br><br>",
+  "data": {
+    "AC": "13",
+    "HP": "22 (4d8+4)",
+    "CHA": "11",
+    "CON": "12",
+    "DEX": "17",
+    "INT": "10",
+    "STR": "12",
+    "WIS": "13",
+    "Size": "Medium",
+    "Type": "Fey",
+    "Speed": "40 ft.",
+    "Roll 0": "Bite\n1d20 + 3\n1d6+1",
+    "Skills": "Perception +3, Stealth +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Good",
+    "Languages": "Blink Dog, Understands Sylvan But Can't Speak It",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "10"
+  }
+}

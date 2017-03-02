@@ -1,0 +1,25 @@
+{
+  "name": "Giant Goat",
+  "id": 12031,
+  "content": " Traits\n\n**Charge**: If the goat moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.\n\n**Sure-Footed**: The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.\n\n Actions\n\n**Ram**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Charge</strong>: If the goat moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.<br><br><strong>Sure-Footed</strong>: The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.<br><br><h2>Actions</h2><strong>Ram</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "11 (Natural Armor)",
+    "HP": "19 (3d10+3)",
+    "CHA": "6",
+    "CON": "12",
+    "DEX": "11",
+    "INT": "3",
+    "STR": "17",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "40 ft.",
+    "Roll 0": "Ram\n1d20 + 5\n2d4+3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "11"
+  }
+}

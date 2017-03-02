@@ -1,0 +1,25 @@
+{
+  "name": "Baboon",
+  "id": 11941,
+  "content": " Traits\n\n**Pack Tactics**: The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 ft. of the creature and the ally isn't incapacitated.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 — 1) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Pack Tactics</strong>: The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 ft. of the creature and the ally isn't incapacitated.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 — 1) piercing damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "3 (1d6)",
+    "CHA": "6",
+    "CON": "11",
+    "DEX": "14",
+    "INT": "4",
+    "STR": "8",
+    "WIS": "12",
+    "Size": "Small",
+    "Type": "Beast",
+    "Speed": "30 ft., climb 30 ft.",
+    "Roll 0": "Bite\n1d20 + 1\n1d4-1",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "11"
+  }
+}

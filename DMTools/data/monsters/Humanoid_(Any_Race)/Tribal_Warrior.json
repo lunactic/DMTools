@@ -1,0 +1,27 @@
+{
+  "name": "Tribal Warrior",
+  "id": 12186,
+  "content": "Tribal warriors live beyond civilization, most often  subsisting on fishing and hunting. Each tribe acts in  accordance with the wishes of its chief, who is the  greatest or oldest warrior of the tribe or a tribe  member blessed by the gods.\n\n\n Traits\n\n**Pack Tactics**: The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 ft. of the creature and the ally isn't incapacitated.\n\n Actions\n\n**Spear**: Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.\n\n  ",
+  "htmlcontent": "Tribal warriors live beyond civilization, most often  subsisting on fishing and hunting. Each tribe acts in  accordance with the wishes of its chief, who is the  greatest or oldest warrior of the tribe or a tribe  member blessed by the gods.<br><h2>Traits</h2><strong>Pack Tactics</strong>: The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 ft. of the creature and the ally isn't incapacitated.<br><br><h2>Actions</h2><strong>Spear</strong>: Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.<br><br>",
+  "data": {
+    "AC": "12 (Hide Armor)",
+    "HP": "11 (2d8+2)",
+    "CHA": "8",
+    "CON": "12",
+    "DEX": "11",
+    "INT": "8",
+    "STR": "13",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "One Handed\n1d20 + 3\n1d6+1",
+    "Roll 1": "Two Handed\n1d20 + 3\n1d8+1",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Any One Language",
+    "Challenge Rating": "1/8",
+    "Passive Perception": "10"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Earth Elemental",
+  "id": 12000,
+  "content": " Traits\n\n**Earth Glide**: The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.\n\n**Siege Monster**: The elemental deals double damage to objects and structures.\n\n Actions\n\n**Multiattack**: The elemental makes two slam attacks.\n\n**Slam**: Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Earth Glide</strong>: The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.<br><br><strong>Siege Monster</strong>: The elemental deals double damage to objects and structures.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The elemental makes two slam attacks.<br><br><strong>Slam</strong>: Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "17 (Natural Armor)",
+    "HP": "126 (12d10+60)",
+    "CHA": "5",
+    "CON": "20",
+    "DEX": "8",
+    "INT": "5",
+    "STR": "20",
+    "WIS": "10",
+    "Size": "Large",
+    "Type": "Elemental",
+    "Speed": "30 ft., burrow 30 ft.",
+    "Roll 0": "Slam\n1d20 + 8\n2d8+5",
+    "Senses": "Darkvision 60 Ft., Tremorsense 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral",
+    "Languages": "Terran",
+    "Immunities": "Poison",
+    "Resistances": "Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Vulnerabilities": "Thunder",
+    "Challenge Rating": "5",
+    "Passive Perception": "10",
+    "Condition Immunities": "Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious"
+  }
+}

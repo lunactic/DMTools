@@ -2,6 +2,7 @@
   "name": "War Pick +2",
   "id": 10328,
   "content": "\tYou have a +2 bonus to attack and damage rolls made with this weapon.\n\n",
+  "htmlcontent": "\tYou have a +2 bonus to attack and damage rolls made with this weapon.<br><br>",
   "data": {
     "Damage": "1d8",
     "Source": "SRD 5.0",

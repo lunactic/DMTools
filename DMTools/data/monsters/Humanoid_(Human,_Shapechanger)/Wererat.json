@@ -1,0 +1,31 @@
+{
+  "name": "Wererat",
+  "id": 12203,
+  "content": " Traits\n\n**Shapechanger**: The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.\n\n**Keen Smell**: The wererat has advantage on Wisdom (Perception) checks that rely on smell.\n\n Actions\n\n**Multiattack (Humanoid or Hybrid Form Only)**: The wererat makes two attacks, only one of which can be a bite.\n\n**Bite (Rat or Hybrid Form Only).**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.\n\n**Shortsword (Humanoid or Hybrid Form Only)**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.\n\n**Hand Crossbow (Humanoid or Hybrid Form Only)**: Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Shapechanger</strong>: The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.<br><br><strong>Keen Smell</strong>: The wererat has advantage on Wisdom (Perception) checks that rely on smell.<br><br><h2>Actions</h2><strong>Multiattack (Humanoid or Hybrid Form Only)</strong>: The wererat makes two attacks, only one of which can be a bite.<br><br><strong>Bite (Rat or Hybrid Form Only).</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.<br><br><strong>Shortsword (Humanoid or Hybrid Form Only)</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.<br><br><strong>Hand Crossbow (Humanoid or Hybrid Form Only)</strong>: Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "33 (6d8+6)",
+    "CHA": "8",
+    "CON": "12",
+    "DEX": "15",
+    "INT": "11",
+    "STR": "10",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Humanoid (Human, Shapechanger)",
+    "Speed": "30 ft.",
+    "Roll 0": "Bite\n1d20 + 4\n1d4+2",
+    "Roll 1": "Shortsword\n1d20 + 4\n1d6+2",
+    "Roll 2": "Hand Crossbow\n1d20 + 4\n1d6+2",
+    "Senses": "Darkvision 60 Ft. (Rat Form Only)",
+    "Skills": "Perception +2, Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Common (Can't Speak In Rat Form)",
+    "Immunities": "Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons That Aren't Silvered",
+    "Challenge Rating": "2",
+    "Passive Perception": "12"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Rhinoceros",
+  "id": 12141,
+  "content": " Traits\n\n**Charge**: If the rhinoceros moves at least 20 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.\n\n Actions\n\n**Gore**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Charge</strong>: If the rhinoceros moves at least 20 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.<br><br><h2>Actions</h2><strong>Gore</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "11 (Natural Armor)",
+    "HP": "45 (6d10+12)",
+    "CHA": "6",
+    "CON": "15",
+    "DEX": "8",
+    "INT": "2",
+    "STR": "21",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "40 ft.",
+    "Roll 0": "Gore\n1d20 + 7\n2d8+5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "2",
+    "Passive Perception": "11"
+  }
+}

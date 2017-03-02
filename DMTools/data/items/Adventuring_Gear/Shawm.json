@@ -2,6 +2,7 @@
   "name": "Shawm",
   "id": 10164,
   "content": "If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.\n\nA bard can use a musical instrument as a spellcasting focus, substituting it for any material component that does not list a cost.\n\nEach type of musical instrument requires a separate proficiency.\n\n",
+  "htmlcontent": "If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.<br><br>A bard can use a musical instrument as a spellcasting focus, substituting it for any material component that does not list a cost.<br><br>Each type of musical instrument requires a separate proficiency.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "1",

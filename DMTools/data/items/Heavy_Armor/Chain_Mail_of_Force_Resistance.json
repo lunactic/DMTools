@@ -2,6 +2,7 @@
   "name": "Chain Mail of Force Resistance",
   "id": 9762,
   "content": "Requires Attunement\n\n\tYou have resistance to force damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to force damage while you wear this armor.<br><br>",
   "data": {
     "AC": "16",
     "Source": "SRD 5.0",

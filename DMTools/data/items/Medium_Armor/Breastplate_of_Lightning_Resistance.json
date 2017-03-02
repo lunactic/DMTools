@@ -2,6 +2,7 @@
   "name": "Breastplate of Lightning Resistance",
   "id": 9736,
   "content": "Requires Attunement\n\n\tYou have resistance to lightning damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to lightning damage while you wear this armor.<br><br>",
   "data": {
     "AC": "14",
     "Source": "SRD 5.0",

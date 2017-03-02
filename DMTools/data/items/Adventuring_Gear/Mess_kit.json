@@ -2,6 +2,7 @@
   "name": "Mess kit",
   "id": 12536,
   "content": "This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.",
+  "htmlcontent": "This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.",
   "data": {
     "Weight": "1",
     "Category": "Items",

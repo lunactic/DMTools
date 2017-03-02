@@ -2,6 +2,7 @@
   "name": "Ring of Acid Resistance",
   "id": 10098,
   "content": "Requires Attunement\n\nYou have resistance to acid damage while wearing this ring.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>You have resistance to acid damage while wearing this ring.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

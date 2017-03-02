@@ -2,6 +2,7 @@
   "name": "Plate Armor of Psychic Resistance",
   "id": 10042,
   "content": "Requires Attunement\n\n\tYou have resistance to psychic damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to psychic damage while you wear this armor.<br><br>",
   "data": {
     "AC": "18",
     "Source": "SRD 5.0",

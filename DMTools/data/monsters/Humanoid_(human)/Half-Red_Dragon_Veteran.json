@@ -1,0 +1,32 @@
+{
+  "name": "Half-Red Dragon Veteran",
+  "id": 12259,
+  "content": " Actions\n\n**\n\nMultiattack**: The veteran makes two longsword attacks.  If it has a shortsword drawn, it can also make a  shortsword attack. \n\n**Longsword**: Melee Weapon Attack: +5 to hit, reach 5 ft.,  one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10  + 3) slashing damage if used with two hands. \n\n**Shortsword**: Melee Weapon Attack: +5 to hit, reach 5  ft., one target. Hit: 6 (1d6 + 3) piercing damage. \n\n**Heavy Crossbow**: Ranged Weapon Attack: +3 to hit,  range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing  damage. \n\n**Fire Breath (Recharge 5–6)**: The veteran exhales fire in  a 15-foot cone. Each creature in that area must make a  DC 15 Dexterity saving throw, taking 24 (7d6) fire  damage on a failed save, or half as much damage on a  successful one. ",
+  "htmlcontent": "<h2>Actions</h2><strong>\n\nMultiattack</strong>: The veteran makes two longsword attacks.  If it has a shortsword drawn, it can also make a  shortsword attack. <br><br><strong>Longsword</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft.,  one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10  + 3) slashing damage if used with two hands. <br><br><strong>Shortsword</strong>: Melee Weapon Attack: +5 to hit, reach 5  ft., one target. Hit: 6 (1d6 + 3) piercing damage. <br><br><strong>Heavy Crossbow</strong>: Ranged Weapon Attack: +3 to hit,  range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing  damage. <br><br><strong>Fire Breath (Recharge 5–6)</strong>: The veteran exhales fire in  a 15-foot cone. Each creature in that area must make a  DC 15 Dexterity saving throw, taking 24 (7d6) fire  damage on a failed save, or half as much damage on a  successful one.",
+  "data": {
+    "AC": "18 (plate)",
+    "HP": "65",
+    "CHA": "10",
+    "CON": "14",
+    "DEX": "13",
+    "INT": "10",
+    "STR": "16",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Humanoid (human)",
+    "Speed": "30 ft.",
+    "Roll 0": "1d20+5\n1d8+3",
+    "Roll 1": "1d20+5\n1d6+3",
+    "Roll 2": "1d20+3\n1d10+1",
+    "Senses": "Blindsight 10 ft., Darkvision 60 ft.",
+    "Skills": "Athletics +5, Perception +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Hit Dice": "10d8+20",
+    "Alignment": "Any",
+    "Languages": "Common, Draconic",
+    "Resistances": "Fire",
+    "Challenge Rating": "5",
+    "Passive Perception": "12"
+  }
+}

@@ -2,6 +2,7 @@
   "name": "Chain Mail +1",
   "id": 9756,
   "content": "\tYou have a +1 bonus to AC while wearing this armor.\n\n",
+  "htmlcontent": "\tYou have a +1 bonus to AC while wearing this armor.<br><br>",
   "data": {
     "AC": "16",
     "Source": "SRD 5.0",

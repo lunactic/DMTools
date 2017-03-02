@@ -2,6 +2,7 @@
   "name": "Padded Armor of Radiant Resistance",
   "id": 10015,
   "content": "Requires Attunement\n\n\tYou have resistance to radiant damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to radiant damage while you wear this armor.<br><br>",
   "data": {
     "AC": "11",
     "Source": "SRD 5.0",

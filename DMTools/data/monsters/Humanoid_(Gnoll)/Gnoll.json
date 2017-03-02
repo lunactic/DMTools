@@ -1,0 +1,29 @@
+{
+  "name": "Gnoll",
+  "id": 12050,
+  "content": " Traits\n\n**Rampage**: When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.\n\n**Spear**: Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.\n\n**Longbow**: Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Rampage</strong>: When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.<br><br><strong>Spear</strong>: Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.<br><br><strong>Longbow</strong>: Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.<br><br>",
+  "data": {
+    "AC": "15 (Hide Armor, Shield)",
+    "HP": "22 (5d8)",
+    "CHA": "7",
+    "CON": "11",
+    "DEX": "12",
+    "INT": "6",
+    "STR": "14",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Humanoid (Gnoll)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 4\n1d4+2",
+    "Roll 1": "\n1d20 + 4\n1d6+2",
+    "Roll 2": "\n1d20 + 3\n1d8+1",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Gnoll",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "10"
+  }
+}

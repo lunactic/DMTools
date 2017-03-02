@@ -1,0 +1,28 @@
+{
+  "name": "Animated Armor",
+  "id": 11932,
+  "content": " Traits\n\n**Antimagic Susceptibility**: The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.\n\n**False Appearance**: While the armor remains motionless, it is indistinguishable from a normal suit of armor.\n\n Actions\n\n**Multiattack**: The armor makes two melee attacks.\n\n**Slam**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Antimagic Susceptibility</strong>: The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.<br><br><strong>False Appearance</strong>: While the armor remains motionless, it is indistinguishable from a normal suit of armor.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The armor makes two melee attacks.<br><br><strong>Slam</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "18 (Natural Armor)",
+    "HP": "33 (6d8+6)",
+    "CHA": "1",
+    "CON": "13",
+    "DEX": "11",
+    "INT": "1",
+    "STR": "14",
+    "WIS": "3",
+    "Size": "Medium",
+    "Type": "Construct",
+    "Speed": "25 ft.",
+    "Roll 0": "\n1d20 + 4\n1d6+2",
+    "Senses": "Blindsight 60 Ft. (Blind Beyond This Radius)",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Immunities": "Poison, Psychic",
+    "Challenge Rating": "1",
+    "Passive Perception": "6",
+    "Condition Immunities": "Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned"
+  }
+}

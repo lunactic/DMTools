@@ -2,6 +2,7 @@
   "name": "Glaive",
   "id": 9847,
   "content": "",
+  "htmlcontent": "",
   "data": {
     "Damage": "1d10",
     "Source": "SRD 5.0",

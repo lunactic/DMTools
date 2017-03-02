@@ -1,0 +1,27 @@
+{
+  "name": "Ape",
+  "id": 11934,
+  "content": " Actions\n\n**Multiattack**: The ape makes two fist attacks.\n\n**Fist**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.\n\n**Rock**: Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Multiattack</strong>: The ape makes two fist attacks.<br><br><strong>Fist</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.<br><br><strong>Rock</strong>: Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "19 (3d8+6)",
+    "CHA": "7",
+    "CON": "14",
+    "DEX": "14",
+    "INT": "6",
+    "STR": "16",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Beast",
+    "Speed": "30 ft., climb 30 ft.",
+    "Roll 0": "Fist\n1d20 + 5\n1d6+3",
+    "Roll 1": "Rock\n1d20 + 5\n1d6+3",
+    "Skills": "Athletics +5, Perception +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "13"
+  }
+}

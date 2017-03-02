@@ -1,0 +1,29 @@
+{
+  "name": "Centaur",
+  "id": 11967,
+  "content": " Traits\n\n**Charge**: If the centaur moves at least 30 ft. straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.\n\n Actions\n\n**Multiattack**: The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.\n\n**Pike**: Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage.\n\n**Hooves**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.\n\n**Longbow**: Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Charge</strong>: If the centaur moves at least 30 ft. straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.<br><br><strong>Pike</strong>: Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage.<br><br><strong>Hooves</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.<br><br><strong>Longbow</strong>: Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "45 (6d10+12)",
+    "CHA": "11",
+    "CON": "14",
+    "DEX": "14",
+    "INT": "9",
+    "STR": "18",
+    "WIS": "13",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "50 ft.",
+    "Roll 0": "\n1d20 + 6\n1d10+4",
+    "Roll 1": "\n1d20 + 6\n2d6+4",
+    "Roll 2": "\n1d20 + 4\n1d8+2",
+    "Skills": "Athletics +6, Perception +3, Survival +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Good",
+    "Languages": "Elvish, Sylvan",
+    "Challenge Rating": "2",
+    "Passive Perception": "13"
+  }
+}

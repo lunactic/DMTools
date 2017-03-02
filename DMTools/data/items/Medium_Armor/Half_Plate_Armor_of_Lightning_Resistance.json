@@ -2,6 +2,7 @@
   "name": "Half Plate Armor of Lightning Resistance",
   "id": 9876,
   "content": "Requires Attunement\n\n\tYou have resistance to lightning damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to lightning damage while you wear this armor.<br><br>",
   "data": {
     "AC": "15",
     "Source": "SRD 5.0",

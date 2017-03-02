@@ -1,0 +1,29 @@
+{
+  "name": "Minotaur",
+  "id": 12104,
+  "content": " Traits\n\n**Charge**: If the minotaur moves at least 10 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 ft. away and knocked prone.\n\n**Labyrinthine Recall**: The minotaur can perfectly recall any path it has traveled.\n\n**Reckless**: At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.\n\n Actions\n\n**Greataxe**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.\n\n**Gore**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Charge</strong>: If the minotaur moves at least 10 ft. straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 ft. away and knocked prone.<br><br><strong>Labyrinthine Recall</strong>: The minotaur can perfectly recall any path it has traveled.<br><br><strong>Reckless</strong>: At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.<br><br><h2>Actions</h2><strong>Greataxe</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.<br><br><strong>Gore</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.<br><br>",
+  "data": {
+    "AC": "14 (Natural Armor)",
+    "HP": "76 (9d10+27)",
+    "CHA": "9",
+    "CON": "16",
+    "DEX": "11",
+    "INT": "6",
+    "STR": "18",
+    "WIS": "16",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "40 ft.",
+    "Roll 0": "\n1d20 + 6\n2d12+4",
+    "Roll 1": "\n1d20 + 6\n2d8+4",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +7",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Abyssal",
+    "Challenge Rating": "3",
+    "Passive Perception": "17"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Bearded Devil",
+  "id": 11949,
+  "content": " Traits\n\n**Devil's Sight**: Magical darkness doesn't impede the devil's darkvision.\n\n**Magic Resistance**: The devil has advantage on saving throws against spells and other magical effects.\n\n**Steadfast**: The devil can't be frightened while it can see an allied creature within 30 feet of it.\n\n Actions\n\n**Multiattack**: The devil makes two attacks: one with its beard and one with its glaive.\n\n**Beard**: Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n\n**Glaive**: Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Devil's Sight</strong>: Magical darkness doesn't impede the devil's darkvision.<br><br><strong>Magic Resistance</strong>: The devil has advantage on saving throws against spells and other magical effects.<br><br><strong>Steadfast</strong>: The devil can't be frightened while it can see an allied creature within 30 feet of it.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The devil makes two attacks: one with its beard and one with its glaive.<br><br><strong>Beard</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.<br><br><strong>Glaive</strong>: Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "52 (8d8+16)",
+    "CHA": "11",
+    "CON": "15",
+    "DEX": "15",
+    "INT": "9",
+    "STR": "16",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Fiend (Devil)",
+    "Speed": "30 ft.",
+    "Roll 0": "Beard\n1d20 + 5\n1d8+2",
+    "Roll 1": "Glaive\n1d20 + 5\n1d10+3",
+    "Senses": "Darkvision 120 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Infernal, Telepathy 120 Ft.",
+    "Immunities": "Fire, Poison",
+    "Resistances": "Cold; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered",
+    "Saving Throws": "Str +5, Con +4, Wis +2",
+    "Challenge Rating": "3",
+    "Passive Perception": "10",
+    "Condition Immunities": "Poisoned"
+  }
+}

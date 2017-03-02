@@ -2,6 +2,7 @@
   "name": "Chain",
   "id": 12514,
   "content": "A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.",
+  "htmlcontent": "A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.",
   "data": {
     "Weight": "10",
     "Category": "Items",

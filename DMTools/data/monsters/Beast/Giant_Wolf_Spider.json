@@ -1,0 +1,27 @@
+{
+  "name": "Giant Wolf Spider",
+  "id": 12046,
+  "content": "Smaller than a giant spider, a giant wolf spider  hunts prey across open ground or hides in a burrow  or crevice, or in a hidden cavity beneath debris.\n\n Traits\n\n**Spider Climb**: The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\n\n**Web Sense**: While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.\n\n**Web Walker**: The spider ignores movement restrictions caused by webbing.\n\n Actions\n\n**Bite**: Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.\n\n  ",
+  "htmlcontent": "Smaller than a giant spider, a giant wolf spider  hunts prey across open ground or hides in a burrow  or crevice, or in a hidden cavity beneath debris.\n\n<h2>Traits</h2><strong>Spider Climb</strong>: The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.<br><br><strong>Web Sense</strong>: While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.<br><br><strong>Web Walker</strong>: The spider ignores movement restrictions caused by webbing.<br><br><h2>Actions</h2><strong>Bite</strong>: Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.<br><br>",
+  "data": {
+    "AC": "13",
+    "HP": "11 (2d8+2)",
+    "CHA": "4",
+    "CON": "13",
+    "DEX": "16",
+    "INT": "3",
+    "STR": "12",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Beast",
+    "Speed": "40 ft., climb 40 ft.",
+    "Roll 0": "Bite\n1d20 + 3\n1d6+1",
+    "Senses": "Blindsight 10 Ft., Darkvision 60 Ft.",
+    "Skills": "Perception +3, Stealth +7",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "13"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Giant Poisonous Snake",
+  "id": 12036,
+  "content": " Actions\n\n**Bite**: Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "14",
+    "HP": "11 (2d8+2)",
+    "CHA": "3",
+    "CON": "13",
+    "DEX": "18",
+    "INT": "2",
+    "STR": "10",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Beast",
+    "Speed": "30 ft., swim 30 ft.",
+    "Roll 0": "Bite\n1d20 + 6\n1d4+4",
+    "Senses": "Blindsight 10 Ft.",
+    "Skills": "Perception +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "12"
+  }
+}

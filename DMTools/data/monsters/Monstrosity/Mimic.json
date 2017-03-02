@@ -1,0 +1,30 @@
+{
+  "name": "Mimic",
+  "id": 12102,
+  "content": " Traits\n\n**Shapechanger**: The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn 't transformed. It reverts to its true form if it dies.\n\n**Adhesive (Object Form Only)**: The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.\n\n**False Appearance (Object Form Only)**: While the mimic remains motionless, it is indistinguishable from an ordinary object.\n\n**Grappler**: The mimic has advantage on attack rolls against any creature grappled by it.\n\n Actions\n\n**Pseudopod**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.\n\n**Bite**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Shapechanger</strong>: The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn 't transformed. It reverts to its true form if it dies.<br><br><strong>Adhesive (Object Form Only)</strong>: The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.<br><br><strong>False Appearance (Object Form Only)</strong>: While the mimic remains motionless, it is indistinguishable from an ordinary object.<br><br><strong>Grappler</strong>: The mimic has advantage on attack rolls against any creature grappled by it.<br><br><h2>Actions</h2><strong>Pseudopod</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.<br><br><strong>Bite</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.<br><br>",
+  "data": {
+    "AC": "12 (Natural Armor)",
+    "HP": "58 (9d8+18)",
+    "CHA": "8",
+    "CON": "15",
+    "DEX": "12",
+    "INT": "5",
+    "STR": "17",
+    "WIS": "13",
+    "Size": "Medium",
+    "Type": "Monstrosity (Shapechanger)",
+    "Speed": "15 ft.",
+    "Roll 0": "Pseudopod\n1d20 + 5\n1d8+3",
+    "Roll 1": "Bite\n1d20 + 5\n1d8+3+1d8",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Stealth +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral",
+    "Immunities": "Acid",
+    "Challenge Rating": "2",
+    "Passive Perception": "11",
+    "Condition Immunities": "Prone"
+  }
+}

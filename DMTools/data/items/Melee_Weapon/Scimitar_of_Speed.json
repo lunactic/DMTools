@@ -2,6 +2,7 @@
   "name": "Scimitar of Speed",
   "id": 10162,
   "content": "Requires Attunement\n\n\tYou gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.<br><br>",
   "data": {
     "Damage": "1d6",
     "Source": "SRD 5.0",

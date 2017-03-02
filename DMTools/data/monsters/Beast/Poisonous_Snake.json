@@ -1,0 +1,26 @@
+{
+  "name": "Poisonous Snake",
+  "id": 12127,
+  "content": " Actions\n\n**Bite**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "13",
+    "HP": "2 (1d4)",
+    "CHA": "3",
+    "CON": "11",
+    "DEX": "16",
+    "INT": "1",
+    "STR": "2",
+    "WIS": "10",
+    "Size": "Tiny",
+    "Type": "Beast",
+    "Speed": "30 ft., swim 30 ft.",
+    "Roll 0": "Bite\n1d20 + 5\n1",
+    "Senses": "Blindsight 10 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/8",
+    "Passive Perception": "10"
+  }
+}

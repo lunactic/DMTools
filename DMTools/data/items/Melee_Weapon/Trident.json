@@ -2,6 +2,7 @@
   "name": "Trident",
   "id": 10268,
   "content": "",
+  "htmlcontent": "",
   "data": {
     "Range": "20/60",
     "Damage": "1d6",

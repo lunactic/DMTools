@@ -1,0 +1,26 @@
+{
+  "name": "Elephant",
+  "id": 12002,
+  "content": " Traits\n\n**Trampling Charge**: If the elephant moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.\n\n Actions\n\n**Gore**: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) piercing damage.\n\n**Stomp**: Melee Weapon Attack: +8 to hit, reach 5 ft., one prone creature. Hit: 22 (3d10 + 6) bludgeoning damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Trampling Charge</strong>: If the elephant moves at least 20 ft. straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.<br><br><h2>Actions</h2><strong>Gore</strong>: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) piercing damage.<br><br><strong>Stomp</strong>: Melee Weapon Attack: +8 to hit, reach 5 ft., one prone creature. Hit: 22 (3d10 + 6) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "12 (Natural Armor)",
+    "HP": "76 (8d12+24)",
+    "CHA": "6",
+    "CON": "17",
+    "DEX": "9",
+    "INT": "3",
+    "STR": "22",
+    "WIS": "11",
+    "Size": "Huge",
+    "Type": "Beast",
+    "Speed": "40 ft.",
+    "Roll 0": "Gore\n1d20 + 8\n3d8+6",
+    "Roll 1": "Stomp\n1d20 + 8\n3d10+6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "4",
+    "Passive Perception": "10"
+  }
+}

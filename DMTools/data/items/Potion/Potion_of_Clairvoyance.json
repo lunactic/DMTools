@@ -2,6 +2,7 @@
   "name": "Potion of Clairvoyance",
   "id": 10049,
   "content": "When you drink this potion, you gain the effect of the clairvoyance spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.\n\n",
+  "htmlcontent": "When you drink this potion, you gain the effect of the clairvoyance spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "0.5",

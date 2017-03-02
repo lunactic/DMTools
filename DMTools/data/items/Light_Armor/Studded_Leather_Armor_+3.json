@@ -2,6 +2,7 @@
   "name": "Studded Leather Armor +3",
   "id": 10240,
   "content": "\tYou have a +3 bonus to AC while wearing this armor.\n\n",
+  "htmlcontent": "\tYou have a +3 bonus to AC while wearing this armor.<br><br>",
   "data": {
     "AC": "12",
     "Source": "SRD 5.0",

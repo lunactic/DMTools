@@ -1,0 +1,30 @@
+{
+  "name": "Shambling Mound",
+  "id": 12155,
+  "content": " Traits\n\n**Lightning Absorption**: Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.\n\n Actions\n\n**Multiattack**: The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.\n\n**Slam**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.\n\n**Engulf**: The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Lightning Absorption</strong>: Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.<br><br><strong>Slam</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.<br><br><strong>Engulf</strong>: The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.<br><br>",
+  "data": {
+    "AC": "15 (Natural Armor)",
+    "HP": "136 (16d10+48)",
+    "CHA": "5",
+    "CON": "16",
+    "DEX": "8",
+    "INT": "5",
+    "STR": "18",
+    "WIS": "10",
+    "Size": "Large",
+    "Type": "Plant",
+    "Speed": "20 ft., swim 20 ft.",
+    "Roll 0": "\n1d20 + 7\n2d8+4",
+    "Senses": "Blindsight 60 Ft. (Blind Beyond This Radius)",
+    "Skills": "Stealth +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Immunities": "Lightning",
+    "Resistances": "Cold, Fire",
+    "Challenge Rating": "5",
+    "Passive Perception": "10",
+    "Condition Immunities": "Blinded, Deafened, Exhaustion"
+  }
+}

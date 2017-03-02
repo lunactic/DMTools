@@ -2,6 +2,7 @@
   "name": "Studded Leather Armor of Psychic Resistance",
   "id": 10248,
   "content": "Requires Attunement\n\n\tYou have resistance to psychic damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to psychic damage while you wear this armor.<br><br>",
   "data": {
     "AC": "12",
     "Source": "SRD 5.0",

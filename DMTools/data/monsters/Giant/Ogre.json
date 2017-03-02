@@ -1,0 +1,28 @@
+{
+  "name": "Ogre",
+  "id": 12115,
+  "content": " Actions\n\n**Greatclub**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.\n\n**Javelin**: Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Greatclub</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.<br><br><strong>Javelin</strong>: Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.<br><br>",
+  "data": {
+    "AC": "11 (Hide Armor)",
+    "HP": "59 (7d10+21)",
+    "CHA": "7",
+    "CON": "16",
+    "DEX": "8",
+    "INT": "5",
+    "STR": "19",
+    "WIS": "7",
+    "Size": "Large",
+    "Type": "Giant",
+    "Speed": "40 ft.",
+    "Roll 0": "\n1d20 + 6\n2d8+4",
+    "Roll 1": "\n1d20 + 6\n2d6+4",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Common, Giant",
+    "Challenge Rating": "2",
+    "Passive Perception": "8"
+  }
+}

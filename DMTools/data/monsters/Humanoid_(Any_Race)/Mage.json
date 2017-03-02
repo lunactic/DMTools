@@ -1,0 +1,29 @@
+{
+  "name": "Mage",
+  "id": 12092,
+  "content": "Mages spend their lives in the study and practice of  magic. Good-aligned mages offer counsel to nobles  and others in power, while evil mages dwell in  isolated sites to perform unspeakable experiments  without interference.\n\n\n Traits\n\n**Spellcasting**: The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared: \n\n• Cantrips (at will): fire bolt, light, mage hand, prestidigitation\n• 1st level (4 slots): detect magic, mage armor, magic missile, shield\n• 2nd level (3 slots): misty step, suggestion\n• 3rd level (3 slots): counterspell, fireball, fly\n• 4th level (3 slots): greater invisibility, ice storm\n• 5th level (1 slot): cone of cold\n\n Actions\n\n**Dagger**: Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.\n\n  ",
+  "htmlcontent": "Mages spend their lives in the study and practice of  magic. Good-aligned mages offer counsel to nobles  and others in power, while evil mages dwell in  isolated sites to perform unspeakable experiments  without interference.<br><h2>Traits</h2><strong>Spellcasting</strong>: The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared: <br><br>• Cantrips (at will): fire bolt, light, mage hand, prestidigitation<br>• 1st level (4 slots): detect magic, mage armor, magic missile, shield<br>• 2nd level (3 slots): misty step, suggestion<br>• 3rd level (3 slots): counterspell, fireball, fly<br>• 4th level (3 slots): greater invisibility, ice storm<br>• 5th level (1 slot): cone of cold<br><br><h2>Actions</h2><strong>Dagger</strong>: Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.<br><br>",
+  "data": {
+    "AC": "12 (15 With Mage Armor)",
+    "HP": "40 (9d8)",
+    "CHA": "11",
+    "CON": "11",
+    "DEX": "14",
+    "INT": "17",
+    "STR": "9",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 5\n1d4+2",
+    "Skills": "Arcana +6, History +6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Any Four Languages",
+    "Spell Book": "Fire Bolt, Light, Mage Hand, Prestidigitation, Detect Magic, Mage Armor, Magic Missile, Shield, Misty Step, Suggestion, Counterspell, Fireball, Fly, Greater Invisibility, Ice Storm, Cone Of Cold",
+    "Saving Throws": "Int +6, Wis +4",
+    "Challenge Rating": "6",
+    "Passive Perception": "11"
+  }
+}

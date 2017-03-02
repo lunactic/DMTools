@@ -1,0 +1,29 @@
+{
+  "name": "Swarm of Bats",
+  "id": 12172,
+  "content": " Traits\n\n**Echolocation**: The swarm can't use its blindsight while deafened.\n\n**Keen Hearing**: The swarm has advantage on Wisdom (Perception) checks that rely on hearing.\n\n**Swarm**: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.\n\n Actions\n\n**Bites**: Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space. Hit: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Echolocation</strong>: The swarm can't use its blindsight while deafened.<br><br><strong>Keen Hearing</strong>: The swarm has advantage on Wisdom (Perception) checks that rely on hearing.<br><br><strong>Swarm</strong>: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.<br><br><h2>Actions</h2><strong>Bites</strong>: Melee Weapon Attack: +4 to hit, reach 0 ft., one creature in the swarm's space. Hit: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "22 (5d8)",
+    "CHA": "4",
+    "CON": "10",
+    "DEX": "15",
+    "INT": "2",
+    "STR": "5",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Swarm Of Tiny Beasts",
+    "Speed": "0 ft., fly 30 ft.",
+    "Roll 0": "Full\n1d20 + 4\n2d4",
+    "Roll 1": "Half\n1d20 + 4\n1d4",
+    "Senses": "Blindsight 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Resistances": "Bludgeoning, Piercing, Slashing",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "11",
+    "Condition Immunities": "Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned"
+  }
+}

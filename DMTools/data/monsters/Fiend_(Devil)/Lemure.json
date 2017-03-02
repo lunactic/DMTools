@@ -1,0 +1,29 @@
+{
+  "name": "Lemure",
+  "id": 12087,
+  "content": " Traits\n\n**Devil's Sight**: Magical darkness doesn't impede the lemure's darkvision.\n\n**Hellish Rejuvenation**: A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.\n\n\n\n Actions\n\n**Fist**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Devil's Sight</strong>: Magical darkness doesn't impede the lemure's darkvision.<br><br><strong>Hellish Rejuvenation</strong>: A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.<br><br><h2>Actions</h2><strong>Fist</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.",
+  "data": {
+    "AC": "7",
+    "HP": "13 (3d8)",
+    "CHA": "3",
+    "CON": "11",
+    "DEX": "5",
+    "INT": "1",
+    "STR": "10",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Fiend (Devil)",
+    "Speed": "15 ft.",
+    "Senses": "Darkvision 120 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Understands Infernal But Can't Speak",
+    "Immunities": "Fire, Poison",
+    "Resistances": "Cold",
+    "Challenge Rating": "0",
+    "Passive Perception": "10",
+    "Condition Immunities": "Charmed, Frightened, Poisoned"
+  }
+}

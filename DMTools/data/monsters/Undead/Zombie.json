@@ -1,0 +1,30 @@
+{
+  "name": "Zombie",
+  "id": 12224,
+  "content": " Traits\n\n**Undead Fortitude**: If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.\n\n Actions\n\n**Slam**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Undead Fortitude</strong>: If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.<br><br><h2>Actions</h2><strong>Slam</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "8",
+    "HP": "22 (3d8+9)",
+    "CHA": "5",
+    "CON": "16",
+    "DEX": "6",
+    "INT": "3",
+    "STR": "13",
+    "WIS": "6",
+    "Size": "Medium",
+    "Type": "Undead",
+    "Speed": "20 ft.",
+    "Roll 0": "Slam\n1d20 + 3\n1d6+1",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "Understands All Languages It Spoke In Life But Can't Speak",
+    "Immunities": "Poison",
+    "Saving Throws": "Wis +0",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "8",
+    "Condition Immunities": "Poisoned"
+  }
+}

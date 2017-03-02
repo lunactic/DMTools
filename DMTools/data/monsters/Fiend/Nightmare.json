@@ -1,0 +1,27 @@
+{
+  "name": "Nightmare",
+  "id": 12110,
+  "content": " Traits\n\n**Confer Fire Resistance**: The nightmare can grant resistance to fire damage to anyone riding it.\n\n**Illumination**: The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.\n\n Actions\n\n**Hooves**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.\n\n**Ethereal Stride**: The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Confer Fire Resistance</strong>: The nightmare can grant resistance to fire damage to anyone riding it.<br><br><strong>Illumination</strong>: The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.<br><br><h2>Actions</h2><strong>Hooves</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.<br><br><strong>Ethereal Stride</strong>: The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "68 (8d10+24)",
+    "CHA": "15",
+    "CON": "16",
+    "DEX": "15",
+    "INT": "10",
+    "STR": "18",
+    "WIS": "13",
+    "Size": "Large",
+    "Type": "Fiend",
+    "Speed": "60 ft., fly 90 ft.",
+    "Roll 0": "Hooves\n1d20 + 6\n2d8+4+2d6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "Understands Abyssal, Common, And Infernal But Can't Speak",
+    "Immunities": "Fire",
+    "Challenge Rating": "3",
+    "Passive Perception": "11"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Ankheg",
+  "id": 11933,
+  "content": " Actions\n\n**Bite**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so.\n\n**Acid Spray (Recharge 6)**: The ankheg spits acid in a line that is 30 ft. long and 5 ft. wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so.<br><br><strong>Acid Spray (Recharge 6)</strong>: The ankheg spits acid in a line that is 30 ft. long and 5 ft. wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "14 (Natural Armor, 11 While Prone)",
+    "HP": "39 (6d10+6)",
+    "CHA": "6",
+    "CON": "13",
+    "DEX": "11",
+    "INT": "1",
+    "STR": "17",
+    "WIS": "13",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "30 ft., burrow 10 ft.",
+    "Roll 0": "Bite\n1d20 + 5\n2d6+3+1d6",
+    "Roll 1": "Acid Spray\n1d20 + 0\n3d6",
+    "Senses": "Darkvision 60 Ft., Tremorsense 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "2",
+    "Passive Perception": "11"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Dretch",
+  "id": 11992,
+  "content": " Actions\n\n**Multiattack**: The dretch makes two attacks: one with its bite and one with its claws.\n\n**Bite**: Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.\n\n**Claws**: Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.\n\n**Fetid Cloud (1/Day)**: A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Multiattack</strong>: The dretch makes two attacks: one with its bite and one with its claws.<br><br><strong>Bite</strong>: Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.<br><br><strong>Fetid Cloud (1/Day)</strong>: A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.<br><br>",
+  "data": {
+    "AC": "11 (Natural Armor)",
+    "HP": "18 (4d6+4)",
+    "CHA": "3",
+    "CON": "12",
+    "DEX": "11",
+    "INT": "5",
+    "STR": "11",
+    "WIS": "8",
+    "Size": "Small",
+    "Type": "Fiend (Demon)",
+    "Speed": "20 ft.",
+    "Roll 0": "Bite\n1d20 + 2\n1d6",
+    "Roll 1": "Claws\n1d20 + 2\n2d4",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Abyssal, Telepathy 60 Ft. (Works Only With Creatures That Understand Abyssal)",
+    "Immunities": "Poison",
+    "Resistances": "Cold, Fire, Lightning",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "9",
+    "Condition Immunities": "Poisoned"
+  }
+}

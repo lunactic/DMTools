@@ -2,6 +2,7 @@
   "name": "Vicious Greataxe",
   "id": 10278,
   "content": "\tWhen you roll a 20 with this magic weapon, the target takes an extra 2d6 slashing damage.\n\n",
+  "htmlcontent": "\tWhen you roll a 20 with this magic weapon, the target takes an extra 2d6 slashing damage.<br><br>",
   "data": {
     "Damage": "1d12",
     "Source": "SRD 5.0",

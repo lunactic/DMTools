@@ -1,0 +1,26 @@
+{
+  "name": "Berserker",
+  "id": 11951,
+  "content": "Hailing from uncivilized lands, unpredictable  berserkers come together in war parties and seek  conflict wherever they can find it.\n \n\n Traits\n\n**Reckless**: At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.\n\n Actions\n\n**Greataxe**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.\n\n  ",
+  "htmlcontent": "Hailing from uncivilized lands, unpredictable  berserkers come together in war parties and seek  conflict wherever they can find it.<br><h2>Traits</h2><strong>Reckless</strong>: At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.<br><br><h2>Actions</h2><strong>Greataxe</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.<br><br>",
+  "data": {
+    "AC": "13 (Hide Armor)",
+    "HP": "67 (9d8+27)",
+    "CHA": "9",
+    "CON": "17",
+    "DEX": "12",
+    "INT": "9",
+    "STR": "16",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 5\n1d12+3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Chaotic Alignment",
+    "Languages": "Any One Language (Usually Common)",
+    "Challenge Rating": "2",
+    "Passive Perception": "10"
+  }
+}

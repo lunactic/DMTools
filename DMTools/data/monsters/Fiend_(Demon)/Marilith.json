@@ -1,0 +1,32 @@
+{
+  "name": "Marilith",
+  "id": 12097,
+  "content": " Traits\n\n**Magic Resistance**: The marilith has advantage on saving throws against spells and other magical effects.\n\n**Magic Weapons**: The marilith's weapon attacks are magical.\n\n**Reactive**: The marilith can take one reaction on every turn in combat.\n\n Actions\n\n**Multiattack**: The marilith can make seven attacks: six with its longswords and one with its tail.\n\n**Longsword**: Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.\n\n**Tail**: Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.\n\n**Teleport**: The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.\n\n**Variant: Summon Demon (1/Day)**: The demon chooses what to summon and attempts a magical summoning.\nA marilith has a 50 percent chance of summoning 1d6 vrocks, 1d4 hezrous, 1d3 glabrezus, 1d2 nalfeshnees, or one marilith.\nA summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.\n\n Reactions\n\n**Parry**: The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.\n\n   ",
+  "htmlcontent": "<h2>Traits</h2><strong>Magic Resistance</strong>: The marilith has advantage on saving throws against spells and other magical effects.<br><br><strong>Magic Weapons</strong>: The marilith's weapon attacks are magical.<br><br><strong>Reactive</strong>: The marilith can take one reaction on every turn in combat.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The marilith can make seven attacks: six with its longswords and one with its tail.<br><br><strong>Longsword</strong>: Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.<br><br><strong>Tail</strong>: Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.<br><br><strong>Teleport</strong>: The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.<br><br><strong>Variant: Summon Demon (1/Day)</strong>: The demon chooses what to summon and attempts a magical summoning.<br>A marilith has a 50 percent chance of summoning 1d6 vrocks, 1d4 hezrous, 1d3 glabrezus, 1d2 nalfeshnees, or one marilith.<br>A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.<br><br><h2>Reactions</h2><strong>Parry</strong>: The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.<br><br>",
+  "data": {
+    "AC": "18 (Natural Armor)",
+    "HP": "189 (18d10+90)",
+    "CHA": "20",
+    "CON": "20",
+    "DEX": "20",
+    "INT": "18",
+    "STR": "18",
+    "WIS": "16",
+    "Size": "Large",
+    "Type": "Fiend (Demon)",
+    "Speed": "40 ft.",
+    "Roll 0": "Longsword\n1d20 + 9\n2d8+4",
+    "Roll 1": "Tail\n1d20 + 9\n2d10+4",
+    "Senses": "Truesight 120 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Abyssal, Telepathy 120 Ft.",
+    "Immunities": "Poison",
+    "Resistances": "Cold, Fire, Lightning; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Saving Throws": "Str +9, Con +10, Wis +8, Cha +10",
+    "Challenge Rating": "16",
+    "Passive Perception": "13",
+    "Condition Immunities": "Poisoned"
+  }
+}

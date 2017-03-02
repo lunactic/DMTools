@@ -2,6 +2,7 @@
   "name": "Handaxe",
   "id": 9892,
   "content": "",
+  "htmlcontent": "",
   "data": {
     "Range": "20/60",
     "Damage": "1d6",

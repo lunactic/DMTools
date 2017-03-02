@@ -2,6 +2,7 @@
   "name": "Mace of Disruption",
   "id": 9970,
   "content": "Requires Attunement\n\n\tWhen you hit a fiend or an undead with this magic weapon, that creature takes an extra 2d6 radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes frightened of you until the end of your next turn.\n\nWhile you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tWhen you hit a fiend or an undead with this magic weapon, that creature takes an extra 2d6 radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes frightened of you until the end of your next turn.<br><br>While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.<br><br>",
   "data": {
     "Damage": "1d6",
     "Source": "SRD 5.0",

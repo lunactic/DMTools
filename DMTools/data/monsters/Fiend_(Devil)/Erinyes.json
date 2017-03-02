@@ -1,0 +1,33 @@
+{
+  "name": "Erinyes",
+  "id": 12004,
+  "content": " Traits\n\n**Hellish Weapons**: The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).\n\n**Magic Resistance**: The erinyes has advantage on saving throws against spells and other magical effects.\n\n Actions\n\n**Multiattack**: The erinyes makes three attacks\n\n**Longsword**: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.\n\n**Longbow**: Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.\n\n**Variant: Rope of Entanglement**: Some erinyes carry a rope of entanglement (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.\n\n Reactions\n\n**Parry**: The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.\n\n   ",
+  "htmlcontent": "<h2>Traits</h2><strong>Hellish Weapons</strong>: The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).<br><br><strong>Magic Resistance</strong>: The erinyes has advantage on saving throws against spells and other magical effects.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The erinyes makes three attacks<br><br><strong>Longsword</strong>: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.<br><br><strong>Longbow</strong>: Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.<br><br><strong>Variant: Rope of Entanglement</strong>: Some erinyes carry a rope of entanglement (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.<br><br><h2>Reactions</h2><strong>Parry</strong>: The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.<br><br>",
+  "data": {
+    "AC": "18 (Plate)",
+    "HP": "153 (18d8+72)",
+    "CHA": "18",
+    "CON": "18",
+    "DEX": "16",
+    "INT": "14",
+    "STR": "18",
+    "WIS": "14",
+    "Size": "Medium",
+    "Type": "Fiend (Devil)",
+    "Speed": "30 ft., fly 60 ft.",
+    "Roll 0": "One Handed\n1d20 + 8\n1d8+4+3d8",
+    "Roll 1": "Two Handed\n1d20 + 8\n1d10+4+3d8",
+    "Roll 2": "Longbow\n1d20 + 7\n1d8+3+3d8",
+    "Senses": "Truesight 120 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Infernal, Telepathy 120 Ft.",
+    "Immunities": "Fire, Poison",
+    "Resistances": "Cold; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered",
+    "Saving Throws": "Dex +7, Con +8, Wis +6, Cha +8",
+    "Challenge Rating": "12",
+    "Passive Perception": "12",
+    "Condition Immunities": "Poisoned"
+  }
+}

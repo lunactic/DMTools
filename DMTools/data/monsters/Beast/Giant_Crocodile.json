@@ -1,0 +1,27 @@
+{
+  "name": "Giant Crocodile",
+  "id": 12026,
+  "content": " Traits\n\n**Hold Breath**: The crocodile can hold its breath for 30 minutes.\n\n Actions\n\n**Multiattack**: The crocodile makes two attacks: one with its bite and one with its tail.\n\n**Bite**: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.\n\n**Tail**: Melee Weapon Attack: +8 to hit, reach 10 ft., one target not grappled by the crocodile. Hit: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Hold Breath</strong>: The crocodile can hold its breath for 30 minutes.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The crocodile makes two attacks: one with its bite and one with its tail.<br><br><strong>Bite</strong>: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.<br><br><strong>Tail</strong>: Melee Weapon Attack: +8 to hit, reach 10 ft., one target not grappled by the crocodile. Hit: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.<br><br>",
+  "data": {
+    "AC": "14 (Natural Armor)",
+    "HP": "85 (9d12+27)",
+    "CHA": "7",
+    "CON": "17",
+    "DEX": "9",
+    "INT": "2",
+    "STR": "21",
+    "WIS": "10",
+    "Size": "Huge",
+    "Type": "Beast",
+    "Speed": "30 ft., swim 50 ft.",
+    "Roll 0": "Bite\n1d20 + 8\n3d10+5",
+    "Roll 1": "Tail\n1d20 + 8\n2d8+5",
+    "Skills": "Stealth +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "5",
+    "Passive Perception": "10"
+  }
+}

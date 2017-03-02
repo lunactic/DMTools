@@ -1,0 +1,25 @@
+{
+  "name": "Riding Horse",
+  "id": 12142,
+  "content": " Actions\n\n**Hooves**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Hooves</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "10",
+    "HP": "13 (2d10+2)",
+    "CHA": "7",
+    "CON": "12",
+    "DEX": "10",
+    "INT": "2",
+    "STR": "16",
+    "WIS": "11",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "60 ft.",
+    "Roll 0": "Hooves\n1d20 + 5\n2d4+3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "10"
+  }
+}

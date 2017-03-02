@@ -2,6 +2,7 @@
   "name": "Crossbow bolt case",
   "id": 12512,
   "content": "This wooden case can hold up to twenty crossbow bolts.",
+  "htmlcontent": "This wooden case can hold up to twenty crossbow bolts.",
   "data": {
     "Weight": "1",
     "Category": "Items",

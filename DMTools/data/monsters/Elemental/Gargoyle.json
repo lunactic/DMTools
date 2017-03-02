@@ -1,0 +1,31 @@
+{
+  "name": "Gargoyle",
+  "id": 12014,
+  "content": " Traits\n\n**False Appearance**: While the gargoyle remains motion less, it is indistinguishable from an inanimate statue.\n\n Actions\n\n**Multiattack**: The gargoyle makes two attacks: one with its bite and one with its claws.\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.\n\n**Claws**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>False Appearance</strong>: While the gargoyle remains motion less, it is indistinguishable from an inanimate statue.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The gargoyle makes two attacks: one with its bite and one with its claws.<br><br><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.<br><br>",
+  "data": {
+    "AC": "15 (Natural Armor)",
+    "HP": "52 (7d8+21)",
+    "CHA": "7",
+    "CON": "16",
+    "DEX": "11",
+    "INT": "6",
+    "STR": "15",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Elemental",
+    "Speed": "30 ft., fly 60 ft.",
+    "Roll 0": "Bite\n1d20 + 4\n1d6+2",
+    "Roll 1": "Claws\n1d20 + 4\n1d6+2",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Terran",
+    "Immunities": "Poison",
+    "Resistances": "Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Adamantine",
+    "Challenge Rating": "2",
+    "Passive Perception": "10",
+    "Condition Immunities": "Exhaustion, Petrified, Poisoned"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Air Elemental",
+  "id": 11920,
+  "content": " Traits\n\n**Air Form**: The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.\n\n Actions\n\n**Multiattack**: The elemental makes two slam attacks.\n\n**Slam**: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.\n\n**Whirlwind (Recharge 4-6)**: Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.\nIf the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Air Form</strong>: The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The elemental makes two slam attacks.<br><br><strong>Slam</strong>: Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.<br><br><strong>Whirlwind (Recharge 4-6)</strong>: Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.<br>If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.<br><br>",
+  "data": {
+    "AC": "15",
+    "HP": "90 (12d10+24)",
+    "CHA": "6",
+    "CON": "14",
+    "DEX": "20",
+    "INT": "6",
+    "STR": "14",
+    "WIS": "10",
+    "Size": "Large",
+    "Type": "Elemental",
+    "Speed": "Fly 90 ft. (hover)",
+    "Roll 0": "Slam\n1d20 + 8\n2d8+5",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral",
+    "Languages": "Auran",
+    "Immunities": "Poison",
+    "Resistances": "Lightning; Thunder; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Challenge Rating": "5",
+    "Passive Perception": "10",
+    "Condition Immunities": "Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious"
+  }
+}

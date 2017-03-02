@@ -1,0 +1,27 @@
+{
+  "name": "Giant Weasel",
+  "id": 12045,
+  "content": " Traits\n\n**Keen Hearing and Smell**: The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.\n\n Actions\n\n**Bite**: Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Hearing and Smell</strong>: The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br><h2>Actions</h2><strong>Bite</strong>: Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.<br><br>",
+  "data": {
+    "AC": "13",
+    "HP": "9 (2d8)",
+    "CHA": "5",
+    "CON": "10",
+    "DEX": "16",
+    "INT": "4",
+    "STR": "11",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Beast",
+    "Speed": "40 ft.",
+    "Roll 0": "Bite\n1d20 + 5\n1d4+3",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +3, Stealth +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/8",
+    "Passive Perception": "13"
+  }
+}

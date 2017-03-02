@@ -1,0 +1,33 @@
+{
+  "name": "Horned Devil",
+  "id": 12072,
+  "content": " Traits\n\n**Devil's Sight**: Magical darkness doesn't impede the devil's darkvision.\n\n**Magic Resistance**: The devil has advantage on saving throws against spells and other magical effects.\n\n Actions\n\n**Multiattack**: The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.\n\n**Fork**: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) piercing damage.\n\n**Tail**: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.\n\n**Hurl Flame**: Ranged Spell Attack: +7 to hit, range 150 ft., one target. Hit: 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Devil's Sight</strong>: Magical darkness doesn't impede the devil's darkvision.<br><br><strong>Magic Resistance</strong>: The devil has advantage on saving throws against spells and other magical effects.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.<br><br><strong>Fork</strong>: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) piercing damage.<br><br><strong>Tail</strong>: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.<br><br><strong>Hurl Flame</strong>: Ranged Spell Attack: +7 to hit, range 150 ft., one target. Hit: 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.<br><br>",
+  "data": {
+    "AC": "18 (Natural Armor)",
+    "HP": "178 (17d10+85)",
+    "CHA": "17",
+    "CON": "21",
+    "DEX": "17",
+    "INT": "12",
+    "STR": "22",
+    "WIS": "16",
+    "Size": "Large",
+    "Type": "Fiend (Devil)",
+    "Speed": "20 ft., fly 60 ft.",
+    "Roll 0": "Fork\n1d20 + 10\n2d8+6",
+    "Roll 1": "Tail\n1d20 + 10\n1d8+6",
+    "Roll 2": "Flame\n1d20 + 7\n4d6",
+    "Senses": "Darkvision 120 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Infernal, Telepathy 120 Ft.",
+    "Immunities": "Fire, Poison",
+    "Resistances": "Cold; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Silvered",
+    "Saving Throws": "Str +10, Dex +7, Wis +7, Cha +7",
+    "Challenge Rating": "11",
+    "Passive Perception": "13",
+    "Condition Immunities": "Poisoned"
+  }
+}

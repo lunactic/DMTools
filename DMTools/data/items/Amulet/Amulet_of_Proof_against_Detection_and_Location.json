@@ -2,6 +2,7 @@
   "name": "Amulet of Proof against Detection and Location",
   "id": 12262,
   "content": "Requires attunement\n\nWhile wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.",
+  "htmlcontent": "Requires attunement<br><br>While wearing this amulet, you are hidden from divination magic. You can't be targeted by such magic or perceived through magical scrying sensors.",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

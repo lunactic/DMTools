@@ -1,0 +1,25 @@
+{
+  "name": "Pony",
+  "id": 12129,
+  "content": " Actions\n\n**Hooves**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Hooves</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "10",
+    "HP": "11 (2d8+2)",
+    "CHA": "7",
+    "CON": "13",
+    "DEX": "10",
+    "INT": "2",
+    "STR": "15",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Beast",
+    "Speed": "40 ft.",
+    "Roll 0": "Hooves\n1d20 + 4\n2d4+2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/8",
+    "Passive Perception": "10"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Brass Dragon Wyrmling",
+  "id": 11960,
+  "content": " Actions\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.\n\n**Breath Weapons (Recharge 5-6)**: The dragon uses one of the following breath weapons.\nFire Breath. The dragon exhales fire in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.\nSleep Breath. The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.<br><br><strong>Breath Weapons (Recharge 5-6)</strong>: The dragon uses one of the following breath weapons.<br>Fire Breath. The dragon exhales fire in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.<br>Sleep Breath. The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.<br><br>",
+  "data": {
+    "AC": "16 (Natural Armor)",
+    "HP": "16 (3d8+3)",
+    "CHA": "13",
+    "CON": "13",
+    "DEX": "10",
+    "INT": "10",
+    "STR": "15",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Dragon",
+    "Speed": "30 ft., burrow 15 ft., fly 60 ft.",
+    "Roll 0": "Bite\n1d20 + 4\n1d10+2",
+    "Roll 1": "Fire Breath\n1d20 + 0\n4d6",
+    "Senses": "Blindsight 10 Ft., Darkvision 60 Ft.",
+    "Skills": "Perception +4, Stealth +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Good",
+    "Languages": "Draconic",
+    "Immunities": "Fire",
+    "Saving Throws": "Dex +2, Con +3, Wis +2, Cha +3",
+    "Challenge Rating": "1",
+    "Passive Perception": "14"
+  }
+}

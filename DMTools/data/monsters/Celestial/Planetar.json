@@ -1,0 +1,32 @@
+{
+  "name": "Planetar",
+  "id": 12125,
+  "content": " Traits\n\n**Angelic Weapons**: The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).\n\n**Divine Awareness**: The planetar knows if it hears a lie.\n\n**Innate Spellcasting**: The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components: \nAt will: detect evil and good, invisibility (self only)\n3/day each: blade barrier, dispel evil and good, flame strike, raise dead\n1/day each: commune, control weather, insect plague\n\n**Magic Resistance**: The planetar has advantage on saving throws against spells and other magical effects.\n\n Actions\n\n**Multiattack**: The planetar makes two melee attacks.\n\n**Greatsword**: Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.\n\n**Healing Touch (4/Day)**: The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Angelic Weapons</strong>: The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).<br><br><strong>Divine Awareness</strong>: The planetar knows if it hears a lie.<br><br><strong>Innate Spellcasting</strong>: The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components: <br>At will: detect evil and good, invisibility (self only)<br>3/day each: blade barrier, dispel evil and good, flame strike, raise dead<br>1/day each: commune, control weather, insect plague<br><br><strong>Magic Resistance</strong>: The planetar has advantage on saving throws against spells and other magical effects.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The planetar makes two melee attacks.<br><br><strong>Greatsword</strong>: Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.<br><br><strong>Healing Touch (4/Day)</strong>: The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.<br><br>",
+  "data": {
+    "AC": "19 (Natural Armor)",
+    "HP": "200 (16d10+112)",
+    "CHA": "25",
+    "CON": "24",
+    "DEX": "20",
+    "INT": "19",
+    "STR": "24",
+    "WIS": "22",
+    "Size": "Large",
+    "Type": "Celestial",
+    "Speed": "40 ft., fly 120 ft.",
+    "Roll 0": "Greatsword\n1d20 + 12\n4d6+7+5d8",
+    "Senses": "Truesight 120 Ft.",
+    "Skills": "Perception +11",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Good",
+    "Languages": "All, Telepathy 120 Ft.",
+    "Spell Book": "Detect Evil And Good, Invisibility, Blade Barrier, Dispel Evil And Good, Flame Strike, Raise Dead, Commune, Control Weather, Insect Plague",
+    "Resistances": "Radiant; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Saving Throws": "Con +12, Wis +11, Cha +12",
+    "Challenge Rating": "16",
+    "Passive Perception": "21",
+    "Condition Immunities": "Charmed, Exhaustion, Frightened"
+  }
+}

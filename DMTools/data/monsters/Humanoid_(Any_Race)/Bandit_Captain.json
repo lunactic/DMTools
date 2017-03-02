@@ -1,0 +1,29 @@
+{
+  "name": "Bandit Captain",
+  "id": 11944,
+  "content": "It takes a strong personality, ruthless cunning, and a  silver tongue to keep a gang of bandits in line. The  bandit captain has these qualities in spades.\n\nIn addition to managing a crew of selfish  malcontents, the pirate captain is a variation of the  bandit captain, with a ship to protect and command.  To keep the crew in line, the captain must mete out  rewards and punishment on a regular basis.\n\nMore than treasure, a bandit captain or pirate  captain craves infamy. A prisoner who appeals to the  captain’s vanity or ego is more likely to be treated  fairly than a prisoner who does not or claims not to  know anything of the captain’s colorful reputation.\n\n\n Actions\n\n**Multiattack**: The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.\n\n**Scimitar**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.\n\n**Dagger**: Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.\n\n Reactions\n\n**Parry**: The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.\n\n  ",
+  "htmlcontent": "It takes a strong personality, ruthless cunning, and a  silver tongue to keep a gang of bandits in line. The  bandit captain has these qualities in spades.<br><br>In addition to managing a crew of selfish  malcontents, the pirate captain is a variation of the  bandit captain, with a ship to protect and command.  To keep the crew in line, the captain must mete out  rewards and punishment on a regular basis.<br><br>More than treasure, a bandit captain or pirate  captain craves infamy. A prisoner who appeals to the  captain’s vanity or ego is more likely to be treated  fairly than a prisoner who does not or claims not to  know anything of the captain’s colorful reputation.<br><h2>Actions</h2><strong>Multiattack</strong>: The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.<br><br><strong>Scimitar</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.<br><br><strong>Dagger</strong>: Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.<br><br><h2>Reactions</h2><strong>Parry</strong>: The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.<br><br>",
+  "data": {
+    "AC": "15 (Studded Leather)",
+    "HP": "65 (10d8+20)",
+    "CHA": "14",
+    "CON": "14",
+    "DEX": "16",
+    "INT": "14",
+    "STR": "15",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "Scimitar\n1d20 + 5\n1d6+3",
+    "Roll 1": "Dagger\n1d20 + 5\n1d4+3",
+    "Skills": "Athletics +4, Deception +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Non-lawful Alignment",
+    "Languages": "Any Two Languages",
+    "Saving Throws": "Str +4, Dex +5, Wis +2",
+    "Challenge Rating": "2",
+    "Passive Perception": "10"
+  }
+}

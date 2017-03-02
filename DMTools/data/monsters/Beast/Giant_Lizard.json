@@ -1,0 +1,26 @@
+{
+  "name": "Giant Lizard",
+  "id": 12033,
+  "content": "A giant lizard can be ridden or used as a draft  animal. Lizardfolk also keep them as pets, and  subterranean giant lizards are used as mounts and  pack animals by drow, duergar, and others. \n\n Traits\n\n**Variant: Hold Breath**: The lizard can hold its breath for 15 minutes. (A lizard that has this trait also has a swimming speed of 30 feet.)\n\n**Variant: Spider Climb**: The lizard can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.\n\n  ",
+  "htmlcontent": "A giant lizard can be ridden or used as a draft  animal. Lizardfolk also keep them as pets, and  subterranean giant lizards are used as mounts and  pack animals by drow, duergar, and others. \n\n<h2>Traits</h2><strong>Variant: Hold Breath</strong>: The lizard can hold its breath for 15 minutes. (A lizard that has this trait also has a swimming speed of 30 feet.)<br><br><strong>Variant: Spider Climb</strong>: The lizard can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.<br><br>",
+  "data": {
+    "AC": "12 (Natural Armor)",
+    "HP": "19 (3d10+3)",
+    "CHA": "5",
+    "CON": "13",
+    "DEX": "12",
+    "INT": "2",
+    "STR": "15",
+    "WIS": "10",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "30 ft., climb 30 ft.",
+    "Roll 0": "Bite\n1d20 + 4\n1d8+2",
+    "Senses": "Darkvision 30 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "10"
+  }
+}

@@ -2,6 +2,7 @@
   "name": "Pike",
   "id": 10026,
   "content": "",
+  "htmlcontent": "",
   "data": {
     "Damage": "1d10",
     "Source": "SRD 5.0",

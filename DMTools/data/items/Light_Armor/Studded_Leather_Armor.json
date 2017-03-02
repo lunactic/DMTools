@@ -2,6 +2,7 @@
   "name": "Studded Leather Armor",
   "id": 10251,
   "content": "Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.\n\n",
+  "htmlcontent": "Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.<br><br>",
   "data": {
     "AC": "12",
     "Source": "SRD 5.0",

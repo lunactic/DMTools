@@ -1,0 +1,30 @@
+{
+  "name": "Steam Mephit",
+  "id": 12166,
+  "content": " Traits\n\n**Death Burst**: When the mephit dies, it explodes in a cloud of steam. Each creature within 5 ft. of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.\n\n**Innate Spellcasting (1/Day)**: The mephit can innately cast blur, requiring no material components. Its innate spellcasting ability is Charisma.\n\n Actions\n\n**Claws**: Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 2 (1d4) slashing damage plus 2 (1d4) fire damage.\n\n**Steam Breath (Recharge 6)**: The mephit exhales a 15-foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.\n\n**Variant: Summon Mephits (1/Day)**: The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Death Burst</strong>: When the mephit dies, it explodes in a cloud of steam. Each creature within 5 ft. of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.<br><br><strong>Innate Spellcasting (1/Day)</strong>: The mephit can innately cast blur, requiring no material components. Its innate spellcasting ability is Charisma.<br><br><h2>Actions</h2><strong>Claws</strong>: Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 2 (1d4) slashing damage plus 2 (1d4) fire damage.<br><br><strong>Steam Breath (Recharge 6)</strong>: The mephit exhales a 15-foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.<br><br><strong>Variant: Summon Mephits (1/Day)</strong>: The mephit has a 25 percent chance of summoning 1d4 mephits of its kind. A summoned mephit appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other mephits. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.<br><br>",
+  "data": {
+    "AC": "10",
+    "HP": "21 (6d6)",
+    "CHA": "12",
+    "CON": "10",
+    "DEX": "11",
+    "INT": "11",
+    "STR": "5",
+    "WIS": "10",
+    "Size": "Small",
+    "Type": "Elemental",
+    "Speed": "30 ft., fly 30 ft.",
+    "Roll 0": "Claws\n1d20 + 2\n2d4",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "Aquan, Ignan",
+    "Immunities": "Fire, Poison",
+    "Spell Book": "Blur",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "10",
+    "Condition Immunities": "Poisoned"
+  }
+}

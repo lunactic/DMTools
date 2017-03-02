@@ -1,0 +1,27 @@
+{
+  "name": "Polar Bear",
+  "id": 12128,
+  "content": " Traits\n\n**Keen Smell**: The bear has advantage on Wisdom (Perception) checks that rely on smell.\n\n Actions\n\n**Multiattack**: The bear makes two attacks: one with its bite and one with its claws.\n\n**Bite**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage.\n\n**Claws**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Smell</strong>: The bear has advantage on Wisdom (Perception) checks that rely on smell.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The bear makes two attacks: one with its bite and one with its claws.<br><br><strong>Bite</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) piercing damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.<br><br>",
+  "data": {
+    "AC": "12 (Natural Armor)",
+    "HP": "42 (5d10+15)",
+    "CHA": "7",
+    "CON": "16",
+    "DEX": "10",
+    "INT": "2",
+    "STR": "20",
+    "WIS": "13",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "40 ft., swim 30 ft.",
+    "Roll 0": "Bite\n1d20 + 7\n1d8+5",
+    "Roll 1": "Claws\n1d20 + 7\n2d6+5",
+    "Skills": "Perception +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "2",
+    "Passive Perception": "13"
+  }
+}

@@ -2,6 +2,7 @@
   "name": "Splint Armor +1",
   "id": 10208,
   "content": "\tYou have a +1 bonus to AC while wearing this armor.\n\n",
+  "htmlcontent": "\tYou have a +1 bonus to AC while wearing this armor.<br><br>",
   "data": {
     "AC": "17",
     "Source": "SRD 5.0",

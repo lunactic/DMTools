@@ -2,6 +2,7 @@
   "name": "Leather Armor of Fire Resistance",
   "id": 9942,
   "content": "Requires Attunement\n\n\tYou have resistance to fire damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to fire damage while you wear this armor.<br><br>",
   "data": {
     "AC": "11",
     "Source": "SRD 5.0",

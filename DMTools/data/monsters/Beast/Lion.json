@@ -1,0 +1,27 @@
+{
+  "name": "Lion",
+  "id": 12089,
+  "content": " Traits\n\n**Keen Smell**: The lion has advantage on Wisdom (Perception) checks that rely on smell.\n\n**Pack Tactics**: The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 ft. of the creature and the ally isn't incapacitated.\n\n**Pounce**: If the lion moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.\n\n**Running Leap**: With a 10-foot running start, the lion can long jump up to 25 ft..\n\n Actions\n\n**Bite**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.\n\n**Claw**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Smell</strong>: The lion has advantage on Wisdom (Perception) checks that rely on smell.<br><br><strong>Pack Tactics</strong>: The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 ft. of the creature and the ally isn't incapacitated.<br><br><strong>Pounce</strong>: If the lion moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.<br><br><strong>Running Leap</strong>: With a 10-foot running start, the lion can long jump up to 25 ft..<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.<br><br><strong>Claw</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "26 (4d10+4)",
+    "CHA": "8",
+    "CON": "13",
+    "DEX": "15",
+    "INT": "3",
+    "STR": "17",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "50 ft.",
+    "Roll 0": "Bite\n1d20 + 5\n1d8+3",
+    "Roll 1": "Claw\n1d20 + 5\n1d6+3",
+    "Skills": "Perception +3, Stealth +6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1",
+    "Passive Perception": "13"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Nalfeshnee",
+  "id": 12108,
+  "content": " Traits\n\n**Magic Resistance**: The nalfeshnee has advantage on saving throws against spells and other magical effects.\n\n Actions\n\n**Multiattack**: The nalfeshnee uses Horror Nimbus if it can.  It then makes three attacks: one with its bite and two with its claws.\n\n**Bite**: Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 32 (5d10 + 5) piercing damage.\n\n**Claw**: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) slashing damage.\n\n**Horror Nimbus (Recharge 5-6)**: The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.\n\n**Teleport**: The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.\n\n**Variant: Summon Demon (1/Day)**: The demon chooses what to summon and attempts a magical summoning.\nA nalfeshnee has a 50 percent chance of summoning 1d4 vrocks, 1d3 hezrous, 1d2 glabrezus, or one nalfeshnee.\nA summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Magic Resistance</strong>: The nalfeshnee has advantage on saving throws against spells and other magical effects.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The nalfeshnee uses Horror Nimbus if it can.  It then makes three attacks: one with its bite and two with its claws.<br><br><strong>Bite</strong>: Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 32 (5d10 + 5) piercing damage.<br><br><strong>Claw</strong>: Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) slashing damage.<br><br><strong>Horror Nimbus (Recharge 5-6)</strong>: The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.<br><br><strong>Teleport</strong>: The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.<br><br><strong>Variant: Summon Demon (1/Day)</strong>: The demon chooses what to summon and attempts a magical summoning.<br>A nalfeshnee has a 50 percent chance of summoning 1d4 vrocks, 1d3 hezrous, 1d2 glabrezus, or one nalfeshnee.<br>A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.<br><br>",
+  "data": {
+    "AC": "18 (Natural Armor)",
+    "HP": "184 (16d10+96)",
+    "CHA": "15",
+    "CON": "22",
+    "DEX": "10",
+    "INT": "19",
+    "STR": "21",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Fiend (Demon)",
+    "Speed": "20 ft., fly 30 ft.",
+    "Roll 0": "Bite\n1d20 + 10\n5d10+5",
+    "Roll 1": "Claw\n1d20 + 10\n3d6+5",
+    "Senses": "Truesight 120 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Abyssal, Telepathy 120 Ft.",
+    "Immunities": "Poison",
+    "Resistances": "Cold, Fire, Lightning; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Saving Throws": "Con +11, Int +9, Wis +6, Cha +7",
+    "Challenge Rating": "13",
+    "Passive Perception": "11",
+    "Condition Immunities": "Poisoned"
+  }
+}

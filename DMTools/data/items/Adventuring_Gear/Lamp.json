@@ -2,6 +2,7 @@
   "name": "Lamp",
   "id": 9931,
   "content": "A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.\n\n",
+  "htmlcontent": "A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.<br><br>",
   "data": {
     "Range": "15/45",
     "Source": "SRD 5.0",

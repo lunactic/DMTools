@@ -1,0 +1,28 @@
+{
+  "name": "Pegasus",
+  "id": 12122,
+  "content": " Actions\n\n**Hooves**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Hooves</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "59 (7d10+21)",
+    "CHA": "13",
+    "CON": "16",
+    "DEX": "15",
+    "INT": "10",
+    "STR": "18",
+    "WIS": "15",
+    "Size": "Large",
+    "Type": "Celestial",
+    "Speed": "60 ft., fly 90 ft.",
+    "Roll 0": "Hooves\n1d20 + 6\n2d6+4",
+    "Skills": "Perception +6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Good",
+    "Languages": "Understands Celestial, Common, Elvish, And Sylvan But Can't Speak",
+    "Saving Throws": "Dex +4, Wis +4, Cha +3",
+    "Challenge Rating": "2",
+    "Passive Perception": "16"
+  }
+}

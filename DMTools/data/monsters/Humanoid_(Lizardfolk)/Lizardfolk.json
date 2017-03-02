@@ -1,0 +1,30 @@
+{
+  "name": "Lizardfolk",
+  "id": 12091,
+  "content": " Traits\n\n**Hold Breath**: The lizardfolk can hold its breath for 15 minutes.\n\n Actions\n\n**Multiattack**: The lizardfolk makes two melee attacks, each one with a different weapon.\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.\n\n**Heavy Club**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.\n\n**Javelin**: Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.\n\n**Spiked Shield**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Hold Breath</strong>: The lizardfolk can hold its breath for 15 minutes.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The lizardfolk makes two melee attacks, each one with a different weapon.<br><br><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.<br><br><strong>Heavy Club</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.<br><br><strong>Javelin</strong>: Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.<br><br><strong>Spiked Shield</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.<br><br>",
+  "data": {
+    "AC": "15 (Natural Armor, Shield)",
+    "HP": "22 (4d8+4)",
+    "CHA": "7",
+    "CON": "13",
+    "DEX": "10",
+    "INT": "7",
+    "STR": "15",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Humanoid (Lizardfolk)",
+    "Speed": "30 ft., swim 30 ft.",
+    "Roll 0": "\n1d20 + 4\n1d6+2",
+    "Roll 1": "\n1d20 + 4\n1d6+2",
+    "Roll 2": "\n1d20 + 4\n1d6+2",
+    "Roll 3": "\n1d20 + 4\n1d6+2",
+    "Skills": "Perception +3, Stealth +4, Survival +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral",
+    "Languages": "Draconic",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "13"
+  }
+}

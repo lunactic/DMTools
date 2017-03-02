@@ -1,0 +1,31 @@
+{
+  "name": "White Dragon Wyrmling",
+  "id": 12206,
+  "content": " Actions\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.\n\n**Cold Breath (Recharge 5-6)**: The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.<br><br><strong>Cold Breath (Recharge 5-6)</strong>: The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "16 (Natural Armor)",
+    "HP": "32 (5d8+10)",
+    "CHA": "11",
+    "CON": "14",
+    "DEX": "10",
+    "INT": "5",
+    "STR": "14",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Dragon",
+    "Speed": "30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.",
+    "Roll 0": "Bite\n1d20 + 4\n1d10+2+1d4",
+    "Roll 1": "Cold Breath\n1d20 + 0\n5d8",
+    "Senses": "Blindsight 10 Ft., Darkvision 60 Ft.",
+    "Skills": "Perception +4, Stealth +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Draconic",
+    "Immunities": "Cold",
+    "Saving Throws": "Dex +2, Con +4, Wis +2, Cha +2",
+    "Challenge Rating": "2",
+    "Passive Perception": "14"
+  }
+}

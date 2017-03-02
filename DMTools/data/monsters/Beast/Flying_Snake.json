@@ -1,0 +1,26 @@
+{
+  "name": "Flying Snake",
+  "id": 12010,
+  "content": "A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.\n\n Traits\n\n**Flyby**: The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 7 (3d4) poison damage.\n\n  ",
+  "htmlcontent": "A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.<br><h2>Traits</h2><strong>Flyby</strong>: The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 7 (3d4) poison damage.<br><br>",
+  "data": {
+    "AC": "14",
+    "HP": "5 (2d4)",
+    "CHA": "5",
+    "CON": "11",
+    "DEX": "18",
+    "INT": "2",
+    "STR": "4",
+    "WIS": "12",
+    "Size": "Tiny",
+    "Type": "Beast",
+    "Speed": "30 ft., fly 60 ft., swim 30 ft.",
+    "Roll 0": "Bite\n1d20 + 6\n1",
+    "Senses": "Blindsight 10 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/8",
+    "Passive Perception": "11"
+  }
+}

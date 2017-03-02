@@ -1,0 +1,29 @@
+{
+  "name": "Swarm of Insects",
+  "id": 12175,
+  "content": " Traits\n\n**Swarm**: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.\n\n Actions\n\n**Bites**: Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Swarm</strong>: The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.<br><br><h2>Actions</h2><strong>Bites</strong>: Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.<br><br>",
+  "data": {
+    "AC": "12 (Natural Armor)",
+    "HP": "22 (5d8)",
+    "CHA": "1",
+    "CON": "10",
+    "DEX": "13",
+    "INT": "1",
+    "STR": "3",
+    "WIS": "7",
+    "Size": "Medium",
+    "Type": "Swarm Of Tiny Beasts",
+    "Speed": "20 ft., climb 20 ft.",
+    "Roll 0": "Full\n1d20 + 3\n4d4",
+    "Roll 1": "Half\n1d20 + 3\n2d4",
+    "Senses": "Blindsight 10 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Resistances": "Bludgeoning, Piercing, Slashing",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "8",
+    "Condition Immunities": "Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned"
+  }
+}

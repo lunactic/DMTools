@@ -1,0 +1,30 @@
+{
+  "name": "Fire Giant",
+  "id": 12008,
+  "content": " Actions\n\n**Multiattack**: The giant makes two greatsword attacks.\n\n**Greatsword**: Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28 (6d6 + 7) slashing damage.\n\n**Rock**: Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Multiattack</strong>: The giant makes two greatsword attacks.<br><br><strong>Greatsword</strong>: Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28 (6d6 + 7) slashing damage.<br><br><strong>Rock</strong>: Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "18 (Plate)",
+    "HP": "162 (13d12+78)",
+    "CHA": "13",
+    "CON": "23",
+    "DEX": "9",
+    "INT": "10",
+    "STR": "25",
+    "WIS": "14",
+    "Size": "Huge",
+    "Type": "Giant",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 11\n6d6+7",
+    "Roll 1": "\n1d20 + 11\n4d10+7",
+    "Skills": "Athletics +11, Perception +6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Giant",
+    "Immunities": "Fire",
+    "Saving Throws": "Dex +3, Con +10, Cha +5",
+    "Challenge Rating": "9",
+    "Passive Perception": "16"
+  }
+}

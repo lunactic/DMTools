@@ -2,6 +2,7 @@
   "name": "Basket",
   "id": 9704,
   "content": "A basket holds 2 cubic feet or 40 pounds of gear.\n\n",
+  "htmlcontent": "A basket holds 2 cubic feet or 40 pounds of gear.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "2",

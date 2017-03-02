@@ -1,0 +1,28 @@
+{
+  "name": "Guard",
+  "id": 12061,
+  "content": "Guards include members of a city watch, sentries in  a citadel or fortified town, and the bodyguards of  merchants and nobles.\n\n\n Actions\n\n**Spear**: Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.\n\n ",
+  "htmlcontent": "Guards include members of a city watch, sentries in  a citadel or fortified town, and the bodyguards of  merchants and nobles.<br><h2>Actions</h2><strong>Spear</strong>: Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.<br><br>",
+  "data": {
+    "AC": "16 (Chain Shirt, Shield)",
+    "HP": "11 (2d8+2)",
+    "CHA": "10",
+    "CON": "12",
+    "DEX": "12",
+    "INT": "10",
+    "STR": "13",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "One Handed\n1d20 + 3\n1d6+1",
+    "Roll 1": "Two Handed\n1d20 + 5\n1d8+1",
+    "Skills": "Perception +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Any One Language (Usually Common)",
+    "Challenge Rating": "1/8",
+    "Passive Perception": "12"
+  }
+}

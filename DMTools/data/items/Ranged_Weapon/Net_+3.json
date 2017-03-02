@@ -2,6 +2,7 @@
   "name": "Net +3",
   "id": 9996,
   "content": "\tYou have a +3 bonus to attack rolls made with this weapon.\n\nNOTE: Add an Attack +3 modifier to this item and equip it to apply this item's bonus.\n\n",
+  "htmlcontent": "\tYou have a +3 bonus to attack rolls made with this weapon.<br><br>NOTE: Add an Attack +3 modifier to this item and equip it to apply this item's bonus.<br><br>",
   "data": {
     "Range": "5/15",
     "Damage": "0",

@@ -2,6 +2,7 @@
   "name": "Potion of Mind Reading",
   "id": 10063,
   "content": "When you drink this potion, you gain the effect of the detect thoughts spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it.\n\n",
+  "htmlcontent": "When you drink this potion, you gain the effect of the detect thoughts spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "0.5",

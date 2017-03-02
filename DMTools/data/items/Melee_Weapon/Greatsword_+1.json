@@ -2,6 +2,7 @@
   "name": "Greatsword +1",
   "id": 9861,
   "content": "\tYou have a +1 bonus to attack and damage rolls made with this weapon.\n\n",
+  "htmlcontent": "\tYou have a +1 bonus to attack and damage rolls made with this weapon.<br><br>",
   "data": {
     "Damage": "2d6",
     "Source": "SRD 5.0",

@@ -1,0 +1,31 @@
+{
+  "name": "Minotaur Skeleton",
+  "id": 12103,
+  "content": " Traits\n\n**Charge**: If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.\n\n Actions\n\n**Greataxe**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.\n\n**Gore**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Charge</strong>: If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.<br><br><h2>Actions</h2><strong>Greataxe</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.<br><br><strong>Gore</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.<br><br>",
+  "data": {
+    "AC": "12 (Natural Armor)",
+    "HP": "67 (9d10+18)",
+    "CHA": "5",
+    "CON": "15",
+    "DEX": "11",
+    "INT": "6",
+    "STR": "18",
+    "WIS": "8",
+    "Size": "Large",
+    "Type": "Undead",
+    "Speed": "40 ft.",
+    "Roll 0": "Greataxe\n1d20 + 6\n2d12+4",
+    "Roll 1": "Gore\n1d20 + 6\n2d8+4",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Understands Abyssal But Can't Speak",
+    "Immunities": "Poison",
+    "Vulnerabilities": "Bludgeoning",
+    "Challenge Rating": "2",
+    "Passive Perception": "9",
+    "Condition Immunities": "Exhaustion, Poisoned"
+  }
+}

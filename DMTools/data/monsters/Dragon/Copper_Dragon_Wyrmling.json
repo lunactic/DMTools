@@ -1,0 +1,31 @@
+{
+  "name": "Copper Dragon Wyrmling",
+  "id": 11977,
+  "content": " Actions\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.\n\n**Breath Weapons (Recharge 5-6)**: The dragon uses one of the following breath weapons.\nAcid Breath. The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.\nSlowing Breath. The dragon exhales gas in a 1 5-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.<br><br><strong>Breath Weapons (Recharge 5-6)</strong>: The dragon uses one of the following breath weapons.<br>Acid Breath. The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.<br>Slowing Breath. The dragon exhales gas in a 1 5-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.<br><br>",
+  "data": {
+    "AC": "16 (Natural Armor)",
+    "HP": "22 (4d8+4)",
+    "CHA": "13",
+    "CON": "13",
+    "DEX": "12",
+    "INT": "14",
+    "STR": "15",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Dragon",
+    "Speed": "30 ft., climb 30 ft., fly 60 ft.",
+    "Roll 0": "Bite\n1d20 + 4\n1d10+2",
+    "Roll 1": "Acid Breath\n1d20 + 0\n4d8",
+    "Senses": "Blindsight 10 Ft., Darkvision 60 Ft.",
+    "Skills": "Perception +4, Stealth +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Good",
+    "Languages": "Draconic",
+    "Immunities": "Acid",
+    "Saving Throws": "Dex +3, Con +3, Wis +2, Cha +3",
+    "Challenge Rating": "1",
+    "Passive Perception": "14"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Red Dragon Wyrmling",
+  "id": 12138,
+  "content": " Actions\n\n**Bite**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.\n\n**Fire Breath (Recharge 5-6)**: The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC l3 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.<br><br><strong>Fire Breath (Recharge 5-6)</strong>: The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC l3 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "17 (Natural Armor)",
+    "HP": "75 (10d8+30)",
+    "CHA": "15",
+    "CON": "17",
+    "DEX": "10",
+    "INT": "12",
+    "STR": "19",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Dragon",
+    "Speed": "30 ft., climb 30 ft., fly 60 ft.",
+    "Roll 0": "Bite\n1d20 + 6\n1d10+4+1d6",
+    "Roll 1": "Fire Breath\n1d20 + 0\n7d6",
+    "Senses": "Blindsight 10 Ft., Darkvision 60 Ft.",
+    "Skills": "Perception +4, Stealth +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Draconic",
+    "Immunities": "Fire",
+    "Saving Throws": "Dex +2, Con +5, Wis +2, Cha +4",
+    "Challenge Rating": "4",
+    "Passive Perception": "14"
+  }
+}

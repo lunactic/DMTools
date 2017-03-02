@@ -1,0 +1,26 @@
+{
+  "name": "Wolf",
+  "id": 12209,
+  "content": " Traits\n\n**Keen Hearing and Smell**: The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.\n\n**Pack Tactics**: The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Hearing and Smell</strong>: The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br><strong>Pack Tactics</strong>: The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 ft. of the creature and the ally isn't incapacitated.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "11 (2d8+2)",
+    "CHA": "6",
+    "CON": "12",
+    "DEX": "15",
+    "INT": "3",
+    "STR": "12",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Beast",
+    "Speed": "40 ft.",
+    "Roll 0": "Bite\n1d20 + 4\n2d4+2",
+    "Skills": "Perception +3, Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/4",
+    "Passive Perception": "13"
+  }
+}

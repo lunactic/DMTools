@@ -2,6 +2,7 @@
   "name": "Totem",
   "id": 10263,
   "content": "A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.\n\n",
+  "htmlcontent": "A druid can use such a druidic focus as a spellcasting focus, using it in place of any material component that does not have a cost.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

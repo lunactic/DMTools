@@ -1,0 +1,31 @@
+{
+  "name": "Iron Golem",
+  "id": 12080,
+  "content": " Traits\n\n**Fire Absorption**: Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.\n\n**Immutable Form**: The golem is immune to any spell or effect that would alter its form.\n\n**Magic Resistance**: The golem has advantage on saving throws against spells and other magical effects.\n\n**Magic Weapons**: The golem's weapon attacks are magical.\n\n Actions\n\n**Multiattack**: The golem makes two melee attacks.\n\n**Slam**: Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.\n\n**Sword**: Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 23 (3d10 + 7) slashing damage.\n\n**Poison Breath (Recharge 5-6)**: The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (l0d8) poison damage on a failed save, or half as much damage on a successful one.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Fire Absorption</strong>: Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.<br><br><strong>Immutable Form</strong>: The golem is immune to any spell or effect that would alter its form.<br><br><strong>Magic Resistance</strong>: The golem has advantage on saving throws against spells and other magical effects.<br><br><strong>Magic Weapons</strong>: The golem's weapon attacks are magical.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The golem makes two melee attacks.<br><br><strong>Slam</strong>: Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.<br><br><strong>Sword</strong>: Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 23 (3d10 + 7) slashing damage.<br><br><strong>Poison Breath (Recharge 5-6)</strong>: The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (l0d8) poison damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "20 (Natural Armor)",
+    "HP": "210 (20d10+100)",
+    "CHA": "1",
+    "CON": "20",
+    "DEX": "9",
+    "INT": "3",
+    "STR": "24",
+    "WIS": "11",
+    "Size": "Large",
+    "Type": "Construct",
+    "Speed": "30 ft.",
+    "Roll 0": "Slam\n1d20 + 13\n3d8+7",
+    "Roll 1": "Sword\n1d20 + 13\n3d10+7",
+    "Roll 2": "Poison Breath\n1d20 + 0\n10d8",
+    "Senses": "Darkvision 120 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Languages": "Understands The Languages Of Its Creator But Can't Speak",
+    "Immunities": "Fire, Poison, Psychic; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Aren't Adamantine",
+    "Challenge Rating": "16",
+    "Passive Perception": "10",
+    "Condition Immunities": "Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned"
+  }
+}

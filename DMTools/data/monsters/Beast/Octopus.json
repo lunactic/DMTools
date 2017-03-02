@@ -1,0 +1,27 @@
+{
+  "name": "Octopus",
+  "id": 12113,
+  "content": " Traits\n\n**Hold Breath**: While out of water, the octopus can hold its breath for 30 minutes.\n\n**Underwater Camouflage**: The octopus has advantage on Dexterity (Stealth) checks made while underwater.\n\n**Water Breathing**: The octopus can breathe only underwater.\n\n Actions\n\n**Tentacles**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.\n\n**Ink Cloud (Recharges after a Short or Long Rest)**: A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Hold Breath</strong>: While out of water, the octopus can hold its breath for 30 minutes.<br><br><strong>Underwater Camouflage</strong>: The octopus has advantage on Dexterity (Stealth) checks made while underwater.<br><br><strong>Water Breathing</strong>: The octopus can breathe only underwater.<br><br><h2>Actions</h2><strong>Tentacles</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.<br><br><strong>Ink Cloud (Recharges after a Short or Long Rest)</strong>: A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "3 (1d6)",
+    "CHA": "4",
+    "CON": "11",
+    "DEX": "15",
+    "INT": "3",
+    "STR": "4",
+    "WIS": "10",
+    "Size": "Small",
+    "Type": "Beast",
+    "Speed": "5 ft., swim 30 ft.",
+    "Roll 0": "Tentacles\n1d20 + 4\n1",
+    "Senses": "Darkvision 30 Ft.",
+    "Skills": "Perception +2, Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "12"
+  }
+}

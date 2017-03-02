@@ -2,6 +2,7 @@
   "name": "Ring of Feather Falling",
   "id": 10103,
   "content": "Requires Attunement\n\nWhen you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

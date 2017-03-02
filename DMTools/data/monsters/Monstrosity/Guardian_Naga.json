@@ -1,0 +1,32 @@
+{
+  "name": "Guardian Naga",
+  "id": 12062,
+  "content": " Traits\n\n**Rejuvenation**: If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.\n\n**Spellcasting**: The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared: \n\n• Cantrips (at will): mending, sacred flame, thaumaturgy\n• 1st level (4 slots): command, cure wounds, shield of faith\n• 2nd level (3 slots): calm emotions, hold person\n• 3rd level (3 slots): bestow curse, clairvoyance\n• 4th level (3 slots): banishment, freedom of movement\n• 5th level (2 slots): flame strike, geas\n• 6th level (1 slot): true seeing\n\n Actions\n\n**Bite**: Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.\n\n**Spit Poison**: Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. Hit: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Rejuvenation</strong>: If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.<br><br><strong>Spellcasting</strong>: The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared: <br><br>• Cantrips (at will): mending, sacred flame, thaumaturgy<br>• 1st level (4 slots): command, cure wounds, shield of faith<br>• 2nd level (3 slots): calm emotions, hold person<br>• 3rd level (3 slots): bestow curse, clairvoyance<br>• 4th level (3 slots): banishment, freedom of movement<br>• 5th level (2 slots): flame strike, geas<br>• 6th level (1 slot): true seeing<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +8 to hit, reach 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.<br><br><strong>Spit Poison</strong>: Ranged Weapon Attack: +8 to hit, range 15/30 ft., one creature. Hit: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "18 (Natural Armor)",
+    "HP": "127 (15d10+45)",
+    "CHA": "18",
+    "CON": "16",
+    "DEX": "18",
+    "INT": "16",
+    "STR": "19",
+    "WIS": "19",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "40 ft.",
+    "Roll 0": "Bite\n1d20 + 8\n1d8+4",
+    "Roll 1": "Spit Poison\n1d20 + 8\n10d8",
+    "Senses": "Darkvision 60 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Good",
+    "Languages": "Celestial, Common",
+    "Immunities": "Poison",
+    "Spell Book": "Mending, Sacred Flame, Thaumaturgy, Command, Cure Wounds, Shield Of Faith, Calm Emotions, Hold Person, Bestow Curse, Clairvoyance, Banishment, Freedom Of Movement, Flame Strike, Geas, True Seeing",
+    "Saving Throws": "Dex +8, Con +7, Int +7, Wis +8, Cha +8",
+    "Challenge Rating": "10",
+    "Passive Perception": "14",
+    "Condition Immunities": "Charmed, Poisoned"
+  }
+}

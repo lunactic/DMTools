@@ -2,6 +2,7 @@
   "name": "Mace",
   "id": 9973,
   "content": "",
+  "htmlcontent": "",
   "data": {
     "Damage": "1d6",
     "Source": "SRD 5.0",

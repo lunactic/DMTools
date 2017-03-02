@@ -1,0 +1,27 @@
+{
+  "name": "Hippogriff",
+  "id": 12069,
+  "content": " Traits\n\n**Keen Sight**: The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.\n\n Actions\n\n**Multiattack**: The hippogriff makes two attacks: one with its beak and one with its claws.\n\n**Beak**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.\n\n**Claws**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Sight</strong>: The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The hippogriff makes two attacks: one with its beak and one with its claws.<br><br><strong>Beak</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.<br><br>",
+  "data": {
+    "AC": "11",
+    "HP": "19 (3d10+3)",
+    "CHA": "8",
+    "CON": "13",
+    "DEX": "13",
+    "INT": "2",
+    "STR": "17",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "40 ft, fly 60 ft.",
+    "Roll 0": "\n1d20 + 5\n1d10+3",
+    "Roll 1": "\n1d20 + 5\n2d6+3",
+    "Skills": "Perception +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1",
+    "Passive Perception": "15"
+  }
+}

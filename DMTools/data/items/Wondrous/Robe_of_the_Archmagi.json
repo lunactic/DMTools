@@ -2,6 +2,7 @@
   "name": "Robe of the Archmagi",
   "id": 10132,
   "content": "Requires Attunement by a Sorcerer, Warlock, or Wizard\n\nThis elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe's color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can't attune to a robe of the archmagi that doesn't correspond to your alignment.\n\nYou gain these benefits while wearing the robe:\n\n• If you aren't wearing armor, your base Armor Class is 15 + your Dexterity modifier.\n\n• You have advantage on saving throws against spell and other magical effects.\n\n• Your spell save DC and spell attack bonus each increase by 2.\n\n",
+  "htmlcontent": "Requires Attunement by a Sorcerer, Warlock, or Wizard<br><br>This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe's color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can't attune to a robe of the archmagi that doesn't correspond to your alignment.<br><br>You gain these benefits while wearing the robe:<br><br>• If you aren't wearing armor, your base Armor Class is 15 + your Dexterity modifier.<br><br>• You have advantage on saving throws against spell and other magical effects.<br><br>• Your spell save DC and spell attack bonus each increase by 2.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

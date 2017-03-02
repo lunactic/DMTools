@@ -1,0 +1,32 @@
+{
+  "name": "Hezrou",
+  "id": 12067,
+  "content": " Traits\n\n**Magic Resistance**: The hezrou has advantage on saving throws against spells and other magical effects.\n\n**Stench**: Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.\n\n Actions\n\n**Multiattack**: The hezrou makes three attacks: one with its bite and two with its claws.\n\n**Bite**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.\n\n**Claws**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.\n\n**Variant: Summon Demon (1/Day)**: The demon chooses what to summon and attempts a magical summoning.\nA hezrou has a 30 percent chance of summoning 2d6 dretches or one hezrou.\nA summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Magic Resistance</strong>: The hezrou has advantage on saving throws against spells and other magical effects.<br><br><strong>Stench</strong>: Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The hezrou makes three attacks: one with its bite and two with its claws.<br><br><strong>Bite</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.<br><br><strong>Claws</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.<br><br><strong>Variant: Summon Demon (1/Day)</strong>: The demon chooses what to summon and attempts a magical summoning.<br>A hezrou has a 30 percent chance of summoning 2d6 dretches or one hezrou.<br>A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.<br><br>",
+  "data": {
+    "AC": "16 (Natural Armor)",
+    "HP": "136 (13d10+65)",
+    "CHA": "13",
+    "CON": "20",
+    "DEX": "17",
+    "INT": "5",
+    "STR": "19",
+    "WIS": "12",
+    "Size": "Large",
+    "Type": "Fiend (Demon)",
+    "Speed": "30 ft.",
+    "Roll 0": "Bite\n1d20 + 7\n2d10+4",
+    "Roll 1": "Claw\n1d20 + 7\n2d6+4",
+    "Senses": "Darkvision 120 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Abyssal, Telepathy 120 Ft.",
+    "Immunities": "Poison",
+    "Resistances": "Cold, Fire, Lightning; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Saving Throws": "Str +7, Con +8, Wis +4",
+    "Challenge Rating": "8",
+    "Passive Perception": "11",
+    "Condition Immunities": "Poisoned"
+  }
+}

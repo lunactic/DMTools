@@ -1,0 +1,28 @@
+{
+  "name": "Awakened Tree",
+  "id": 11938,
+  "content": "An awakened tree is an ordinary tree given sentience and mobility by the awaken spell or  similar magic.\n\n Traits\n\n**False Appearance**: While the tree remains motionless, it is indistinguishable from a normal tree.\n\n Actions\n\n**Slam**: Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage.\n\n  ",
+  "htmlcontent": "An awakened tree is an ordinary tree given sentience and mobility by the awaken spell or  similar magic.<br><h2>Traits</h2><strong>False Appearance</strong>: While the tree remains motionless, it is indistinguishable from a normal tree.<br><br><h2>Actions</h2><strong>Slam</strong>: Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "59 (7d12+14)",
+    "CHA": "7",
+    "CON": "15",
+    "DEX": "6",
+    "INT": "10",
+    "STR": "19",
+    "WIS": "10",
+    "Size": "Huge",
+    "Type": "Plant",
+    "Speed": "20 ft.",
+    "Roll 0": "\n1d20 + 6\n3d6+4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Languages": "One Language Known By Its Creator",
+    "Resistances": "Bludgeoning, Piercing",
+    "Vulnerabilities": "Fire",
+    "Challenge Rating": "2",
+    "Passive Perception": "10"
+  }
+}

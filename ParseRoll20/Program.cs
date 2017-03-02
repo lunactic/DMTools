@@ -16,10 +16,56 @@ namespace ParseRoll20
     {
         static void Main(string[] args)
         {
-            AsyncContext.Run(() => process());
+            AsyncContext.Run(() => downloadMonsters());
+            AsyncContext.Run(() => downloadItems());
         }
 
-        static async void process()
+        static async void downloadMonsters()
+        {
+            // Setup the configuration to support document loading
+            var config = Configuration.Default.WithDefaultLoader();
+            // Load the names of all The Big Bang Theory episodes from Wikipedia
+            var address = "https://roll20.net/compendium/dnd5e/Rules:Monsters%20by%20Name";
+            // Asynchronously get the document in a new context using the configuration
+            var document = await BrowsingContext.New(config).OpenAsync(address);
+            // This CSS selector gets the desired content
+            // Perform the query to get all cells with the content
+            IElement div = document.QuerySelector("div.pagecontent");
+            var tableRows = div.QuerySelectorAll("li > a");
+
+            var itemNames = tableRows.Select(m => m.InnerHtml);
+            foreach (var itemName in itemNames)
+            {
+                string html = String.Empty;
+                var itemLink = @"https://roll20.net/compendium/dnd5e/Monsters:" + itemName + ".json";
+                HttpWebRequest request = (HttpWebRequest)WebRequest.Create(itemLink);
+                request.AutomaticDecompression = DecompressionMethods.GZip;
+
+                using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
+                using (Stream stream = response.GetResponseStream())
+                using (StreamReader reader = new StreamReader(stream))
+                {
+                    html = reader.ReadToEnd();
+                }
+                dynamic jsonObject = JsonConvert.DeserializeObject(html);
+                
+                string filename = MakeValidFileName((string)jsonObject.name);
+                string foldername = MakeValidFileName((string)jsonObject.data["Type"]);
+                string outputFile = @"E:\DEV\DMTools\DMTools\data\monsters\" + foldername + @"\" +
+                                    filename + ".json";
+
+
+                if (!Directory.Exists(@"E:\DEV\DMTools\DMTools\data\monsters\" + foldername))
+                {
+                    Directory.CreateDirectory(@"E:\DEV\DMTools\DMTools\data\monsters\" + foldername);
+                }
+                var output = JsonConvert.SerializeObject(jsonObject, Formatting.Indented);
+                File.WriteAllText(outputFile, output);
+                Console.Out.WriteLine("finished: " + jsonObject.name + " in category " + jsonObject.data["Type"]);
+            }
+        }
+
+        static async void downloadItems()
         {
             // Setup the configuration to support document loading
             var config = Configuration.Default.WithDefaultLoader();
@@ -47,7 +93,6 @@ namespace ParseRoll20
                     html = reader.ReadToEnd();
                 }
                 dynamic jsonObject = JsonConvert.DeserializeObject(html);
-                jsonObject.Remove("htmlcontent");
 
                 string filename = MakeValidFileName((string) jsonObject.name);
                 string foldername = MakeValidFileName((string) jsonObject.data["Item Type"]);

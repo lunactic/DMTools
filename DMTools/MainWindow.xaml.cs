@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -85,6 +86,15 @@ namespace DMTools
             {
                 e.Accepted = false;
             }
+        }
+
+        private void ItemGrid_MouseDoubleClick(object sender, System.Windows.Input.MouseButtonEventArgs e)
+        {
+
+            Console.Out.WriteLine((((DataGrid)sender).SelectedItem as Item).Name);
+            ItemDetails details = new ItemDetails(((DataGrid)sender).SelectedItem as Item);
+            details.Show();
+
         }
     }
 }

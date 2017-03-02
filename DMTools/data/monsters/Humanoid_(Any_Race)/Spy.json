@@ -1,0 +1,28 @@
+{
+  "name": "Spy",
+  "id": 12165,
+  "content": "Rulers, nobles, merchants, guildmasters, and other  wealthy individuals use spies to gain the upper hand  in a world of cutthroat politics. A spy is trained to  secretly gather information. Loyal spies would  rather die than divulge information that could  compromise them or their employers.\n\n\n Traits\n\n**Cunning Action**: On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.\n\n**Sneak Attack (1/Turn)**: The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.\n\n Actions\n\n**Multiattack**: The spy makes two melee attacks.\n\n**Shortsword**: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.\n\n**Hand Crossbow**: Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.\n\n  ",
+  "htmlcontent": "Rulers, nobles, merchants, guildmasters, and other  wealthy individuals use spies to gain the upper hand  in a world of cutthroat politics. A spy is trained to  secretly gather information. Loyal spies would  rather die than divulge information that could  compromise them or their employers.<br><h2>Traits</h2><strong>Cunning Action</strong>: On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.<br><br><strong>Sneak Attack (1/Turn)</strong>: The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The spy makes two melee attacks.<br><br><strong>Shortsword</strong>: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.<br><br><strong>Hand Crossbow</strong>: Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "27 (6d8)",
+    "CHA": "16",
+    "CON": "10",
+    "DEX": "15",
+    "INT": "12",
+    "STR": "10",
+    "WIS": "14",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "\n1d20 + 4\n1d6+2",
+    "Roll 1": "\n1d20 + 4\n1d6+2",
+    "Skills": "Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight Of Hand +4, Stealth +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Any Two Languages",
+    "Challenge Rating": "1",
+    "Passive Perception": "16"
+  }
+}

@@ -63,7 +63,14 @@
             </TabItem>
             <TabItem Header="Item Browser" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="85">
                 <Grid Background="#FFE5E5E5">
-                    <DataGrid x:Name="ItemGrid" Margin="10,95,10,10" IsReadOnly="True" ItemsSource="{Binding Source={StaticResource cvsItems}}"/>
+                    <DataGrid x:Name="ItemGrid" Margin="10,95,10,10" IsReadOnly="True" ItemsSource="{Binding Source={StaticResource cvsItems}}" AutoGenerateColumns="False" MouseDoubleClick="ItemGrid_MouseDoubleClick">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Name" Binding="{Binding Name}"/>
+                            <DataGridTextColumn Header="Category" Binding="{Binding Category}"/>
+                            <DataGridTextColumn Header="Type" Binding="{Binding Type}"/>
+                            <DataGridTextColumn Header="Weight" Binding="{Binding Weight}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
                     <TextBox x:Name="TxtSearch" HorizontalAlignment="Left" Margin="10,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="250"/>
                     <Button x:Name="Search" Content="Search" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="138" Height="30" Click="Search_Click"/>
                 </Grid>

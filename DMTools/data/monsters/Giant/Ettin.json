@@ -1,0 +1,29 @@
+{
+  "name": "Ettin",
+  "id": 12006,
+  "content": " Traits\n\n**Two Heads**: The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.\n\n**Wakeful**: When one of the ettin's heads is asleep, its other head is awake.\n\n Actions\n\n**Multiattack**: The ettin makes two attacks: one with its battleaxe and one with its morningstar.\n\n**Battleaxe**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.\n\n**Morningstar**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Two Heads</strong>: The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.<br><br><strong>Wakeful</strong>: When one of the ettin's heads is asleep, its other head is awake.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The ettin makes two attacks: one with its battleaxe and one with its morningstar.<br><br><strong>Battleaxe</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.<br><br><strong>Morningstar</strong>: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage.<br><br>",
+  "data": {
+    "AC": "12 (Natural Armor)",
+    "HP": "85 (10d10+30)",
+    "CHA": "8",
+    "CON": "17",
+    "DEX": "8",
+    "INT": "6",
+    "STR": "21",
+    "WIS": "10",
+    "Size": "Large",
+    "Type": "Giant",
+    "Speed": "40 ft.",
+    "Roll 0": "Battleaxe\n1d20 + 7\n2d8+5",
+    "Roll 1": "Morningstar\n1d20 + 7\n2d8+5",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Giant, Orc",
+    "Challenge Rating": "4",
+    "Passive Perception": "14"
+  }
+}

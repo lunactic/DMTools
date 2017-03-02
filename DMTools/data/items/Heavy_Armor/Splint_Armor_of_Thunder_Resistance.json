@@ -2,6 +2,7 @@
   "name": "Splint Armor of Thunder Resistance",
   "id": 10220,
   "content": "Requires Attunement\n\n\tYou have resistance to thunder damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to thunder damage while you wear this armor.<br><br>",
   "data": {
     "AC": "17",
     "Source": "SRD 5.0",

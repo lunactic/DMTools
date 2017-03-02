@@ -2,6 +2,7 @@
   "name": "Waterskin",
   "id": 10335,
   "content": "A waterskin can hold up to 4 pints of liquid.\n\n",
+  "htmlcontent": "A waterskin can hold up to 4 pints of liquid.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "5",

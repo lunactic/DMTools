@@ -1,0 +1,29 @@
+{
+  "name": "Satyr",
+  "id": 12149,
+  "content": " Traits\n\n**Magic Resistance**: The satyr has advantage on saving throws against spells and other magical effects.\n\n Actions\n\n**Ram**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) bludgeoning damage.\n\n**Shortsword**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1 d6 + 3) piercing damage.\n\n**Shortbow**: Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.\n\n**Variant: Panpipes**: Gentle Lullaby. The creature falls asleep and is unconscious for 1 minute. The effect ends if the creature takes damage or if someone takes an action to shake the creature awake.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Magic Resistance</strong>: The satyr has advantage on saving throws against spells and other magical effects.<br><br><h2>Actions</h2><strong>Ram</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) bludgeoning damage.<br><br><strong>Shortsword</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1 d6 + 3) piercing damage.<br><br><strong>Shortbow</strong>: Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.<br><br><strong>Variant: Panpipes</strong>: Gentle Lullaby. The creature falls asleep and is unconscious for 1 minute. The effect ends if the creature takes damage or if someone takes an action to shake the creature awake.<br><br>",
+  "data": {
+    "AC": "14 (Leather Armor)",
+    "HP": "31 (7d8)",
+    "CHA": "14",
+    "CON": "11",
+    "DEX": "16",
+    "INT": "12",
+    "STR": "12",
+    "WIS": "10",
+    "Size": "Medium",
+    "Type": "Fey",
+    "Speed": "40 ft.",
+    "Roll 0": "Ram\n1d20 + 3\n2d4+1",
+    "Roll 1": "Shortsword\n1d20 + 5\n1d6+3",
+    "Roll 2": "Shortbow\n1d20 + 5\n1d6+3",
+    "Skills": "Perception +2, Performance +6, Stealth +5",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Neutral",
+    "Languages": "Common, Elvish, Sylvan",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "12"
+  }
+}

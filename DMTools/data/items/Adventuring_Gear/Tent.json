@@ -2,6 +2,7 @@
   "name": "Tent",
   "id": 12561,
   "content": "A simple and portable canvas shelter, a tent sleeps two.",
+  "htmlcontent": "A simple and portable canvas shelter, a tent sleeps two.",
   "data": {
     "Weight": "20",
     "Category": "Items",

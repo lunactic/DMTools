@@ -2,6 +2,7 @@
   "name": "Gem of Seeing",
   "id": 9843,
   "content": "Requires Attunement\n\nThis gem has 3 charges. As an action, you can speak the gem's command word and expend 1 charge. For the next 10 minutes, you have truesight out to 120 feet when you peer through the gem.\n\nThe gem regains 1d3 expended charges daily at dawn.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>This gem has 3 charges. As an action, you can speak the gem's command word and expend 1 charge. For the next 10 minutes, you have truesight out to 120 feet when you peer through the gem.<br><br>The gem regains 1d3 expended charges daily at dawn.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "1",

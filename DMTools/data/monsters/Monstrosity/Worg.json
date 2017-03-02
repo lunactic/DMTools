@@ -1,0 +1,28 @@
+{
+  "name": "Worg",
+  "id": 12210,
+  "content": "A worg is an evil predator that delights in hunting  and devouring creatures weaker than itself. Cunning  and malevolent, worgs roam across the remote  wilderness or are raised by goblins and hobgoblins.  Those creatures use worgs as mounts, but a worg  will turn on its rider if it feels mistreated or  malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as  well.\n\n Traits\n\n**Keen Hearing and Smell**: The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.\n\n  ",
+  "htmlcontent": "A worg is an evil predator that delights in hunting  and devouring creatures weaker than itself. Cunning  and malevolent, worgs roam across the remote  wilderness or are raised by goblins and hobgoblins.  Those creatures use worgs as mounts, but a worg  will turn on its rider if it feels mistreated or  malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as  well.\n\n<h2>Traits</h2><strong>Keen Hearing and Smell</strong>: The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "26 (4d10+4)",
+    "CHA": "8",
+    "CON": "13",
+    "DEX": "13",
+    "INT": "7",
+    "STR": "16",
+    "WIS": "11",
+    "Size": "Large",
+    "Type": "Monstrosity",
+    "Speed": "50 ft.",
+    "Roll 0": "\n1d20 + 5\n2d6+3",
+    "Senses": "Darkvision 60 Ft.",
+    "Skills": "Perception +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Neutral Evil",
+    "Languages": "Goblin, Worg",
+    "Challenge Rating": "1/2",
+    "Passive Perception": "14"
+  }
+}

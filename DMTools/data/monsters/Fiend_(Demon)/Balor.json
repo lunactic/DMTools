@@ -1,0 +1,32 @@
+{
+  "name": "Balor",
+  "id": 11943,
+  "content": " Traits\n\n**Death Throes**: When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.\n\n**Fire Aura**: At the start of each of the balor's turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.\n\n**Magic Resistance**: The balor has advantage on saving throws against spells and other magical effects.\n\n**Magic Weapons**: The balor's weapon attacks are magical.\n\n Actions\n\n**Multiattack**: The balor makes two attacks: one with its longsword and one with its whip.\n\n**Longsword**: Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.\n\n**Whip**: Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.\n\n**Teleport**: The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.\n\n**Variant: Summon Demon (1/Day)**: The demon chooses what to summon and attempts a magical summoning.\nA balor has a 50 percent chance of summoning 1d8 vrocks, 1d6 hezrous, 1d4 glabrezus, 1d3 nalfeshnees, 1d2 mariliths, or one goristro.\nA summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Death Throes</strong>: When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.<br><br><strong>Fire Aura</strong>: At the start of each of the balor's turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.<br><br><strong>Magic Resistance</strong>: The balor has advantage on saving throws against spells and other magical effects.<br><br><strong>Magic Weapons</strong>: The balor's weapon attacks are magical.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The balor makes two attacks: one with its longsword and one with its whip.<br><br><strong>Longsword</strong>: Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice.<br><br><strong>Whip</strong>: Melee Weapon Attack: +14 to hit, reach 30 ft., one target. Hit: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor.<br><br><strong>Teleport</strong>: The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.<br><br><strong>Variant: Summon Demon (1/Day)</strong>: The demon chooses what to summon and attempts a magical summoning.<br>A balor has a 50 percent chance of summoning 1d8 vrocks, 1d6 hezrous, 1d4 glabrezus, 1d3 nalfeshnees, 1d2 mariliths, or one goristro.<br>A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.<br><br>",
+  "data": {
+    "AC": "19 (Natural Armor)",
+    "HP": "262 (21d12+126)",
+    "CHA": "22",
+    "CON": "22",
+    "DEX": "15",
+    "INT": "20",
+    "STR": "26",
+    "WIS": "16",
+    "Size": "Huge",
+    "Type": "Fiend (Demon)",
+    "Speed": "40 ft., fly 80 ft.",
+    "Roll 0": "Longsword\n1d20 + 14\n3d8+8+3d8",
+    "Roll 1": "Whip\n1d20 + 14\n2d6+8+3d6",
+    "Senses": "Truesight 120 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Evil",
+    "Languages": "Abyssal, Telepathy 120 Ft.",
+    "Immunities": "Fire, Poison",
+    "Resistances": "Cold, Lightning; Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",
+    "Saving Throws": "Str +14, Con +12, Wis +9, Cha +12",
+    "Challenge Rating": "19",
+    "Passive Perception": "13",
+    "Condition Immunities": "Poisoned"
+  }
+}

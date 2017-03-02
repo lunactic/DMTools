@@ -1,0 +1,26 @@
+{
+  "name": "Scorpion",
+  "id": 12150,
+  "content": " Actions\n\n**Sting**: Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Sting</strong>: Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "11 (Natural Armor)",
+    "HP": "1 (1d4-1)",
+    "CHA": "2",
+    "CON": "8",
+    "DEX": "11",
+    "INT": "1",
+    "STR": "2",
+    "WIS": "8",
+    "Size": "Tiny",
+    "Type": "Beast",
+    "Speed": "10 ft.",
+    "Roll 0": "Sting\n1d20 + 2\n1",
+    "Senses": "Blindsight 10 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "9"
+  }
+}

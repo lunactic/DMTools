@@ -2,6 +2,7 @@
   "name": "Javelin +2",
   "id": 9925,
   "content": "\tYou have a +2 bonus to attack and damage rolls made with this weapon.\n\n",
+  "htmlcontent": "\tYou have a +2 bonus to attack and damage rolls made with this weapon.<br><br>",
   "data": {
     "Range": "30/120",
     "Damage": "1d6",

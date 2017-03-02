@@ -1,0 +1,30 @@
+{
+  "name": "Archmage",
+  "id": 11935,
+  "content": "Archmages are powerful (and usually quite old)  spellcasters dedicated to the study of the arcane arts.  Benevolent ones counsel kings and queens, while  evil ones rule as tyrants and pursue lichdom. Those  who are neither good nor evil sequester themselves  in remote towers to practice their magic without  interruption. \n\nAn archmage typically has one or more apprentice  mages, and an archmage’s abode has numerous  magical wards and guardians to discourage  interlopers.\n \n\n Traits\n\n**Magic Resistance**: The archmage has advantage on saving throws against spells and other magical effects.\n\n**Spellcasting**: The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared: \n\n• Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp\n• 1st level (4 slots): detect magic, identify, mage armor*, magic missile\n• 2nd level (3 slots): detect thoughts, mirror image, misty step\n• 3rd level (3 slots): counterspell,fly, lightning bolt\n• 4th level (3 slots): banishment, fire shield, stoneskin*\n• 5th level (3 slots): cone of cold, scrying, wall of force\n• 6th level (1 slot): globe of invulnerability\n• 7th level (1 slot): teleport\n• 8th level (1 slot): mind blank*\n• 9th level (1 slot): time stop\n* The archmage casts these spells on itself before combat.\n\n Actions\n\n**Dagger**: Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.\n\n  ",
+  "htmlcontent": "Archmages are powerful (and usually quite old)  spellcasters dedicated to the study of the arcane arts.  Benevolent ones counsel kings and queens, while  evil ones rule as tyrants and pursue lichdom. Those  who are neither good nor evil sequester themselves  in remote towers to practice their magic without  interruption. <br><br>An archmage typically has one or more apprentice  mages, and an archmage’s abode has numerous  magical wards and guardians to discourage  interlopers.<br><h2>Traits</h2><strong>Magic Resistance</strong>: The archmage has advantage on saving throws against spells and other magical effects.<br><br><strong>Spellcasting</strong>: The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared: <br><br>• Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp<br>• 1st level (4 slots): detect magic, identify, mage armor*, magic missile<br>• 2nd level (3 slots): detect thoughts, mirror image, misty step<br>• 3rd level (3 slots): counterspell,fly, lightning bolt<br>• 4th level (3 slots): banishment, fire shield, stoneskin*<br>• 5th level (3 slots): cone of cold, scrying, wall of force<br>• 6th level (1 slot): globe of invulnerability<br>• 7th level (1 slot): teleport<br>• 8th level (1 slot): mind blank*<br>• 9th level (1 slot): time stop<br>* The archmage casts these spells on itself before combat.<br><br><h2>Actions</h2><strong>Dagger</strong>: Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.<br><br>",
+  "data": {
+    "AC": "12 (15 With Mage Armor)",
+    "HP": "99 (18d8+18)",
+    "CHA": "16",
+    "CON": "12",
+    "DEX": "14",
+    "INT": "20",
+    "STR": "10",
+    "WIS": "15",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "Dagger\n1d20 + 6\n1d4+2",
+    "Skills": "Arcana +13, History +13",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Any Six Languages",
+    "Spell Book": "Fire Bolt, Light, Mage Hand, Prestidigitation, Shocking Grasp, Detect Magic, Identify, Mage Armor, Magic Missile, Detect Thoughts, Mirror Image, Misty Step, Counterspell, Fly, Lightning Bolt, Banishment, Fire Shield, Stoneskin, Cone Of Cold, Scrying, Wall Of Force, Globe Of Invulnerability, Teleport, Mind Blank, Time Stop",
+    "Resistances": "Damage From Spells; Non Magical Bludgeoning, Piercing, And Slashing (From Stoneskin)",
+    "Saving Throws": "Int +9, Wis +6",
+    "Challenge Rating": "12",
+    "Passive Perception": "12"
+  }
+}

@@ -2,6 +2,7 @@
   "name": "Splint Armor of Poison Resistance",
   "id": 10217,
   "content": "Requires Attunement\n\n\tYou have resistance to poison damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to poison damage while you wear this armor.<br><br>",
   "data": {
     "AC": "17",
     "Source": "SRD 5.0",

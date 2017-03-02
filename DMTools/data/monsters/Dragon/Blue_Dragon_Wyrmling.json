@@ -1,0 +1,31 @@
+{
+  "name": "Blue Dragon Wyrmling",
+  "id": 11957,
+  "content": " Actions\n\n**Bite**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.\n\n**Lightning Breath (Recharge 5-6)**: The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.<br><br><strong>Lightning Breath (Recharge 5-6)</strong>: The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.<br><br>",
+  "data": {
+    "AC": "17 (Natural Armor)",
+    "HP": "52 (8d8+16)",
+    "CHA": "15",
+    "CON": "15",
+    "DEX": "10",
+    "INT": "12",
+    "STR": "17",
+    "WIS": "11",
+    "Size": "Medium",
+    "Type": "Dragon",
+    "Speed": "30 ft., burrow 15 ft., fly 60 ft.",
+    "Roll 0": "Bite\n1d20 + 5\n1d10+3+1d6",
+    "Roll 1": "Lightning Breath\n1d20 + 0\n4d10",
+    "Senses": "Blindsight 10 Ft., Darkvision 60 Ft.",
+    "Skills": "Perception +4, Stealth +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Lawful Evil",
+    "Languages": "Draconic",
+    "Immunities": "Lightning",
+    "Saving Throws": "Dex +2, Con +4, Wis +2, Cha +4",
+    "Challenge Rating": "3",
+    "Passive Perception": "14"
+  }
+}

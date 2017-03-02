@@ -2,6 +2,7 @@
   "name": "Yew wand",
   "id": 12523,
   "content": "**Druidic Focus**: A Druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another Special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus.",
+  "htmlcontent": "<strong>Druidic Focus</strong>: A Druidic focus might be a sprig of mistletoe or holly, a wand or scepter made of yew or another Special wood, a staff drawn whole out of a living tree, or a totem object incorporating feathers, fur, bones, and teeth from sacred animals. A druid can use such an object as a spellcasting focus.",
   "data": {
     "Weight": "1",
     "Category": "Items",

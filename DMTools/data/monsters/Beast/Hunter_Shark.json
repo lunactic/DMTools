@@ -1,0 +1,27 @@
+{
+  "name": "Hunter Shark",
+  "id": 12073,
+  "content": "Smaller than a giant shark but larger and fiercer  than a reef shark, a hunter shark haunts deep  waters. It usually hunts alone, but multiple hunter  sharks might feed in the same area. A fully grown  hunter shark is 15 to 20 feet long.\n\n Traits\n\n**Blood Frenzy**: The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.\n\n**Water Breathing**: The shark can breathe only underwater.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.\n\n  ",
+  "htmlcontent": "Smaller than a giant shark but larger and fiercer  than a reef shark, a hunter shark haunts deep  waters. It usually hunts alone, but multiple hunter  sharks might feed in the same area. A fully grown  hunter shark is 15 to 20 feet long.\n\n<h2>Traits</h2><strong>Blood Frenzy</strong>: The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.<br><br><strong>Water Breathing</strong>: The shark can breathe only underwater.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.<br><br>",
+  "data": {
+    "AC": "12 (Natural Armor)",
+    "HP": "45 (6d10+12)",
+    "CHA": "4",
+    "CON": "15",
+    "DEX": "13",
+    "INT": "1",
+    "STR": "18",
+    "WIS": "10",
+    "Size": "Large",
+    "Type": "Beast",
+    "Speed": "Swim 40 ft.",
+    "Roll 0": "Bite\n1d20 + 6\n2d8+4",
+    "Senses": "Darkvision 30 Ft.",
+    "Skills": "Perception +2",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "2",
+    "Passive Perception": "12"
+  }
+}

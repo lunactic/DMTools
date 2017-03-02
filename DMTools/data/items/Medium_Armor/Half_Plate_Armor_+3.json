@@ -2,6 +2,7 @@
   "name": "Half Plate Armor +3",
   "id": 9871,
   "content": "\tYou have a +3 bonus to AC while wearing this armor.\n\n",
+  "htmlcontent": "\tYou have a +3 bonus to AC while wearing this armor.<br><br>",
   "data": {
     "AC": "15",
     "Source": "SRD 5.0",

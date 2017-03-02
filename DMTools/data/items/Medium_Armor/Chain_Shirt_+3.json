@@ -2,6 +2,7 @@
   "name": "Chain Shirt +3",
   "id": 9772,
   "content": "\tYou have a +3 bonus to AC while wearing this armor.\n\n",
+  "htmlcontent": "\tYou have a +3 bonus to AC while wearing this armor.<br><br>",
   "data": {
     "AC": "13",
     "Source": "SRD 5.0",

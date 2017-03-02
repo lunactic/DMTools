@@ -2,6 +2,7 @@
   "name": "Potion of Speed",
   "id": 10069,
   "content": "Potion, very rare \n\n\n When you drink this potion, you gain the effect of the  haste spell for 1 minute (no concentration required).  The potion’s yellow fluid is streaked with black and  swirls on its own.  ",
+  "htmlcontent": "<em>Potion, very rare </em><br><br><p>When you drink this potion, you gain the effect of the  haste spell for 1 minute (no concentration required).  The potion’s yellow fluid is streaked with black and  swirls on its own. </p>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "0.5",

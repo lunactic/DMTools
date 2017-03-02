@@ -1,0 +1,26 @@
+{
+  "name": "Shrieker",
+  "id": 12157,
+  "content": " Traits\n\n**False Appearance**: While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.\n\n Actions\n\n**Shriek**: When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>False Appearance</strong>: While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.<br><br><h2>Actions</h2><strong>Shriek</strong>: When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward<br><br>",
+  "data": {
+    "AC": "5",
+    "HP": "13 (3d8)",
+    "CHA": "1",
+    "CON": "10",
+    "DEX": "1",
+    "INT": "1",
+    "STR": "1",
+    "WIS": "3",
+    "Size": "Medium",
+    "Type": "Plant",
+    "Speed": "0 ft.",
+    "Senses": "Blindsight 30 Ft. (Blind Beyond This Radius)",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "6",
+    "Condition Immunities": "Blinded, Deafened, Frightened"
+  }
+}

@@ -2,6 +2,7 @@
   "name": "Ring Mail of Necrotic Resistance",
   "id": 10092,
   "content": "Requires Attunement\n\n\tYou have resistance to necrotic damage while you wear this armor.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>\tYou have resistance to necrotic damage while you wear this armor.<br><br>",
   "data": {
     "AC": "14",
     "Source": "SRD 5.0",

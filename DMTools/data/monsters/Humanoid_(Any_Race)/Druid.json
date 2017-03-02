@@ -1,0 +1,29 @@
+{
+  "name": "Druid",
+  "id": 11995,
+  "content": "Druids dwell in forests and other secluded  wilderness locations, where they protect the natural  world from monsters and the encroachment of  civilization. Some are tribal shamans who heal the  sick, pray to animal spirits, and provide spiritual  guidance.\n\n\n Traits\n\n**Spellcasting**: The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared: \n\n• Cantrips (at will): druidcraft, produce flame, shillelagh\n• 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave\n• 2nd level (3 slots): animal messenger, barkskin\n\n Actions\n\n**Quarterstaff**: Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh or if wielded with two hands.\n\n  ",
+  "htmlcontent": "Druids dwell in forests and other secluded  wilderness locations, where they protect the natural  world from monsters and the encroachment of  civilization. Some are tribal shamans who heal the  sick, pray to animal spirits, and provide spiritual  guidance.<br><h2>Traits</h2><strong>Spellcasting</strong>: The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared: <br><br>• Cantrips (at will): druidcraft, produce flame, shillelagh<br>• 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave<br>• 2nd level (3 slots): animal messenger, barkskin<br><br><h2>Actions</h2><strong>Quarterstaff</strong>: Melee Weapon Attack: +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh or if wielded with two hands.<br><br>",
+  "data": {
+    "AC": "11 (16 With Barkskin)",
+    "HP": "27 (5d8+5)",
+    "CHA": "11",
+    "CON": "13",
+    "DEX": "12",
+    "INT": "12",
+    "STR": "10",
+    "WIS": "15",
+    "Size": "Medium",
+    "Type": "Humanoid (Any Race)",
+    "Speed": "30 ft.",
+    "Roll 0": "Quarterstaff\n1d20 + 2\n1d6",
+    "Roll 1": "Shillelagh\n1d20 + 6\n1d8+2",
+    "Skills": "Medicine +4, Nature +3, Perception +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Any Alignment",
+    "Languages": "Druidic Plus Any Two Languages",
+    "Spell Book": "Druidcraft, Produce Flame, Shillelagh, Entangle, Longstrider, Speak With Animals, Thunderwave, Animal Messenger, Barkskin",
+    "Challenge Rating": "2",
+    "Passive Perception": "14"
+  }
+}

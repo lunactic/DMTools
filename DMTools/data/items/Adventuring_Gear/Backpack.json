@@ -2,6 +2,7 @@
   "name": "Backpack",
   "id": 9698,
   "content": "A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.\n\n",
+  "htmlcontent": "A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "5",

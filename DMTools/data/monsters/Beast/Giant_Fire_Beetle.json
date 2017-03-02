@@ -1,0 +1,26 @@
+{
+  "name": "Giant Fire Beetle",
+  "id": 12029,
+  "content": "A giant fire beetle is a nocturnal creature that takes  its name from a pair of glowing glands that give off  light. Miners and adventurers prize these creatures,  for a giant fire beetle’s glands continue to shed light  for 1d6 days after the beetle dies. Giant fire beetles  are most commonly found underground and in dark  forests.\n\n Traits\n\n**Illumination**: The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 ft..\n\n Actions\n\n**Bite**: Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) slashing damage.\n\n  ",
+  "htmlcontent": "A giant fire beetle is a nocturnal creature that takes  its name from a pair of glowing glands that give off  light. Miners and adventurers prize these creatures,  for a giant fire beetle’s glands continue to shed light  for 1d6 days after the beetle dies. Giant fire beetles  are most commonly found underground and in dark  forests.\n\n<h2>Traits</h2><strong>Illumination</strong>: The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 ft..<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) slashing damage.<br><br>",
+  "data": {
+    "AC": "13 (Natural Armor)",
+    "HP": "4 (1d6+1)",
+    "CHA": "3",
+    "CON": "12",
+    "DEX": "10",
+    "INT": "1",
+    "STR": "8",
+    "WIS": "7",
+    "Size": "Small",
+    "Type": "Beast",
+    "Speed": "30 ft.",
+    "Roll 0": "Bite\n1d20 + 1\n1d6-1",
+    "Senses": "Blindsight 30 Ft.",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "8"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Hawk",
+  "id": 12065,
+  "content": " Traits\n\n**Keen Sight**: The hawk has advantage on Wisdom (Perception) checks that rely on sight.\n\n Actions\n\n**Talons**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing damage.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>Keen Sight</strong>: The hawk has advantage on Wisdom (Perception) checks that rely on sight.<br><br><h2>Actions</h2><strong>Talons</strong>: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 slashing damage.<br><br>",
+  "data": {
+    "AC": "13",
+    "HP": "1 (1d4-1)",
+    "CHA": "6",
+    "CON": "8",
+    "DEX": "16",
+    "INT": "2",
+    "STR": "5",
+    "WIS": "14",
+    "Size": "Tiny",
+    "Type": "Beast",
+    "Speed": "10 ft., fly 60 ft.",
+    "Roll 0": "Talons\n1d20 + 5\n1",
+    "Skills": "Perception +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "0",
+    "Passive Perception": "14"
+  }
+}

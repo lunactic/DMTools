@@ -2,6 +2,7 @@
   "name": "Torch",
   "id": 10262,
   "content": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.\n\n",
+  "htmlcontent": "A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.<br><br>",
   "data": {
     "Range": "20/40",
     "Damage": "1",

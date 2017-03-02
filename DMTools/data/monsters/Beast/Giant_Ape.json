@@ -1,0 +1,27 @@
+{
+  "name": "Giant Ape",
+  "id": 12019,
+  "content": " Actions\n\n**Multiattack**: The ape makes two fist attacks.\n\n**Fist**: Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage.\n\n**Rock**: Ranged Weapon Attack: +9 to hit, range 50/100 ft., one target. Hit: 30 (7d6 + 6) bludgeoning damage.\n\n ",
+  "htmlcontent": "<h2>Actions</h2><strong>Multiattack</strong>: The ape makes two fist attacks.<br><br><strong>Fist</strong>: Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage.<br><br><strong>Rock</strong>: Ranged Weapon Attack: +9 to hit, range 50/100 ft., one target. Hit: 30 (7d6 + 6) bludgeoning damage.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "157 (15d12+60)",
+    "CHA": "7",
+    "CON": "18",
+    "DEX": "14",
+    "INT": "7",
+    "STR": "23",
+    "WIS": "12",
+    "Size": "Huge",
+    "Type": "Beast",
+    "Speed": "40 ft., climb 40 ft.",
+    "Roll 0": "Fist\n1d20 + 9\n3d10+6",
+    "Roll 1": "Rock\n1d20 + 9\n7d6+6",
+    "Skills": "Athletics +9, Perception +4",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "7",
+    "Passive Perception": "14"
+  }
+}

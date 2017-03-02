@@ -2,6 +2,7 @@
   "name": "Ring of Thunder Resistance",
   "id": 10123,
   "content": "Requires Attunement\n\nYou have resistance to thunder damage while wearing this ring.\n\n",
+  "htmlcontent": "Requires Attunement<br><br>You have resistance to thunder damage while wearing this ring.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Category": "Items",

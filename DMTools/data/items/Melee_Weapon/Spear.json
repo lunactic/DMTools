@@ -2,6 +2,7 @@
   "name": "Spear",
   "id": 10194,
   "content": "",
+  "htmlcontent": "",
   "data": {
     "Range": "20/60",
     "Damage": "1d6",

@@ -1,0 +1,28 @@
+{
+  "name": "Awakened Shrub",
+  "id": 11937,
+  "content": "An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or  similar magic.\n \n Traits\n\n**False Appearance**: While the shrub remains motionless, it is indistinguishable from a normal shrub.\n\n Actions\n\n**Rake**: Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 — 1) slashing damage.\n\n  ",
+  "htmlcontent": "An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or  similar magic.<br><h2>Traits</h2><strong>False Appearance</strong>: While the shrub remains motionless, it is indistinguishable from a normal shrub.<br><br><h2>Actions</h2><strong>Rake</strong>: Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 1 (1d4 — 1) slashing damage.<br><br>",
+  "data": {
+    "AC": "9",
+    "HP": "10 (3d6)",
+    "CHA": "6",
+    "CON": "11",
+    "DEX": "8",
+    "INT": "10",
+    "STR": "3",
+    "WIS": "10",
+    "Size": "Small",
+    "Type": "Plant",
+    "Speed": "20 ft.",
+    "Roll 0": "\n1d20 + 1\n1d4-1",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Languages": "One Language Known By Its Creator",
+    "Resistances": "Piercing",
+    "Vulnerabilities": "Fire",
+    "Challenge Rating": "0",
+    "Passive Perception": "10"
+  }
+}

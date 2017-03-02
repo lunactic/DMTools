@@ -1,0 +1,29 @@
+{
+  "name": "Treant",
+  "id": 12185,
+  "content": " Traits\n\n**False Appearance**: While the treant remains motionless, it is indistinguishable from a normal tree.\n\n**Siege Monster**: The treant deals double damage to objects and structures.\n\n Actions\n\n**Multiattack**: The treant makes two slam attacks.\n\n**Slam**: Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage.\n\n**Rock**: Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage.\n\n**Animate Trees (1/Day)**: The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.\n\n  ",
+  "htmlcontent": "<h2>Traits</h2><strong>False Appearance</strong>: While the treant remains motionless, it is indistinguishable from a normal tree.<br><br><strong>Siege Monster</strong>: The treant deals double damage to objects and structures.<br><br><h2>Actions</h2><strong>Multiattack</strong>: The treant makes two slam attacks.<br><br><strong>Slam</strong>: Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage.<br><br><strong>Rock</strong>: Ranged Weapon Attack: +10 to hit, range 60/180 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage.<br><br><strong>Animate Trees (1/Day)</strong>: The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.<br><br>",
+  "data": {
+    "AC": "16 (Natural Armor)",
+    "HP": "138 (12d12+60)",
+    "CHA": "12",
+    "CON": "21",
+    "DEX": "8",
+    "INT": "12",
+    "STR": "23",
+    "WIS": "16",
+    "Size": "Huge",
+    "Type": "Plant",
+    "Speed": "30 ft.",
+    "Roll 0": "Slam\n1d20 + 10\n3d6+6",
+    "Roll 1": "Rock\n1d20 + 10\n4d10+6",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Chaotic Good",
+    "Languages": "Common, Druidic, Elvish, Sylvan",
+    "Resistances": "Bludgeoning, Piercing",
+    "Vulnerabilities": "Fire",
+    "Challenge Rating": "9",
+    "Passive Perception": "13"
+  }
+}

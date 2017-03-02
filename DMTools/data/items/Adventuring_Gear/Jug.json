@@ -2,6 +2,7 @@
   "name": "Jug",
   "id": 9930,
   "content": "A jug holds 1 gallon of liquid.\n\n",
+  "htmlcontent": "A jug holds 1 gallon of liquid.<br><br>",
   "data": {
     "Source": "SRD 5.0",
     "Weight": "4",

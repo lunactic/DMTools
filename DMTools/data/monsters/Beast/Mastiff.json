@@ -1,0 +1,26 @@
+{
+  "name": "Mastiff",
+  "id": 12098,
+  "content": "Mastiffs are impressive hounds prized by  humanoids for their loyalty and keen senses.  Mastiffs can be trained as guard dogs, hunting dogs,  and war dogs. Halflings and other Small humanoids  ride them as mounts.\n\n Traits\n\n**Keen Hearing and Smell**: The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.\n\n Actions\n\n**Bite**: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.\n\n  ",
+  "htmlcontent": "Mastiffs are impressive hounds prized by  humanoids for their loyalty and keen senses.  Mastiffs can be trained as guard dogs, hunting dogs,  and war dogs. Halflings and other Small humanoids  ride them as mounts.\n\n<h2>Traits</h2><strong>Keen Hearing and Smell</strong>: The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br><h2>Actions</h2><strong>Bite</strong>: Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.<br><br>",
+  "data": {
+    "AC": "12",
+    "HP": "5 (1d8+1)",
+    "CHA": "7",
+    "CON": "12",
+    "DEX": "14",
+    "INT": "3",
+    "STR": "13",
+    "WIS": "12",
+    "Size": "Medium",
+    "Type": "Beast",
+    "Speed": "40 ft.",
+    "Roll 0": "Bite\n1d20 + 3\n1d6+1",
+    "Skills": "Perception +3",
+    "Source": "SRD 5.0",
+    "Category": "Monsters",
+    "Alignment": "Unaligned",
+    "Challenge Rating": "1/8",
+    "Passive Perception": "13"
+  }
+}
