@@ -18,6 +18,9 @@ namespace DMTools
         public MainWindow()
         {
             InitializeComponent();
+            List<Item> items = ItemController.GetAllItems();
+            Items _items = (Items) this.Resources["items"];
+            items.ForEach(_items.Add);
         }
 
 
@@ -63,16 +66,25 @@ namespace DMTools
             }
         }
 
-        private void LoadItems_Click(object sender, RoutedEventArgs e)
-        {
-            List<Item> items = ItemController.GetAllItems();
-            ItemGrid.ItemsSource = items;
-
-        }
 
         private void Search_Click(object sender, RoutedEventArgs e)
         {
-            
+            CollectionViewSource cvsItems = (CollectionViewSource) this.Resources["cvsItems"];
+            cvsItems.View.Refresh();
+        }
+
+        private void NameFilter(object sender, FilterEventArgs e)
+        {
+            Item item = e.Item as Item;
+
+            if (item.Name.Contains(TxtSearch.Text))
+            {
+                e.Accepted = true;
+            }
+            else
+            {
+                e.Accepted = false;
+            }
         }
     }
 }

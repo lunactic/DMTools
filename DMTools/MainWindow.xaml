@@ -4,12 +4,14 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DMTools"
+        xmlns:models="clr-namespace:DMTools.models"
         mc:Ignorable="d"
         Title="Dungeon Master Tools for DnD 5e" Height="601.457" Width="1022.25">
+    <Window.Resources>
+        <models:Items x:Key="items"></models:Items>
+        <CollectionViewSource x:Key="cvsItems" Source="{StaticResource items}" Filter="NameFilter"></CollectionViewSource>
+    </Window.Resources>
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
-        </Grid.ColumnDefinitions>
         <TabControl x:Name="tabControl">
             <TabItem Header="Cities" IsSelected="True">
                 <Grid Background="#FFE5E5E5">
@@ -61,10 +63,9 @@
             </TabItem>
             <TabItem Header="Item Browser" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="85">
                 <Grid Background="#FFE5E5E5">
-                    <DataGrid x:Name="ItemGrid" Margin="10,95,10,10" IsReadOnly="True"/>
-                    <Button x:Name="LoadItems" Content="Load Items" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="138" RenderTransformOrigin="0.027,0.6" Height="29" Click="LoadItems_Click"/>
-                    <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="29" Margin="162,52,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="200"/>
-                    <Button x:Name="Search" Content="Search" HorizontalAlignment="Left" Margin="10,52,0,0" VerticalAlignment="Top" Width="138" Height="29" Click="Search_Click"/>
+                    <DataGrid x:Name="ItemGrid" Margin="10,95,10,10" IsReadOnly="True" ItemsSource="{Binding Source={StaticResource cvsItems}}"/>
+                    <TextBox x:Name="TxtSearch" HorizontalAlignment="Left" Margin="10,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="250"/>
+                    <Button x:Name="Search" Content="Search" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="138" Height="30" Click="Search_Click"/>
                 </Grid>
             </TabItem>
 
